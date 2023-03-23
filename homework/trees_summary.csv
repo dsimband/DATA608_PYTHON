@@ -1,0 +1,2005 @@
+borocode,boroname,spc_common,steward,count_tree_id,count_health_good,count_health_fair,count_health_poor,per_good,per_fair,per_poor,spccode
+1,Manhattan,red maple,None,150,91,37,22,0.6067,0.2467,0.1467,0
+1,Manhattan,red maple,1or2,158,104,45,9,0.6582,0.2848,0.057,0
+1,Manhattan,red maple,3or4,46,27,10,9,0.587,0.2174,0.1957,0
+1,Manhattan,red maple,4orMore,2,2,0,0,1.0,0.0,0.0,0
+2,Bronx,red maple,3or4,31,30,1,0,0.9677,0.0323,0.0,0
+2,Bronx,red maple,1or2,358,282,63,13,0.7877,0.176,0.0363,0
+2,Bronx,red maple,4orMore,1,1,0,0,1.0,0.0,0.0,0
+2,Bronx,red maple,None,1808,1413,296,99,0.7815,0.1637,0.0548,0
+3,Brooklyn,red maple,4orMore,1,1,0,0,1.0,0.0,0.0,0
+3,Brooklyn,red maple,3or4,77,60,13,4,0.7792,0.1688,0.0519,0
+3,Brooklyn,red maple,1or2,672,501,130,41,0.7455,0.1935,0.061,0
+3,Brooklyn,red maple,None,1634,1207,307,120,0.7387,0.1879,0.0734,0
+4,Queens,red maple,4orMore,5,3,2,0,0.6,0.4,0.0,0
+4,Queens,red maple,None,4137,3082,810,245,0.745,0.1958,0.0592,0
+4,Queens,red maple,1or2,741,559,137,45,0.7544,0.1849,0.0607,0
+4,Queens,red maple,3or4,52,43,4,5,0.8269,0.0769,0.0962,0
+5,Staten Island,red maple,3or4,63,56,7,0,0.8889,0.1111,0.0,0
+5,Staten Island,red maple,4orMore,6,3,3,0,0.5,0.5,0.0,0
+5,Staten Island,red maple,1or2,1099,880,178,41,0.8007,0.162,0.0373,0
+5,Staten Island,red maple,None,6205,5094,868,243,0.821,0.1399,0.0392,0
+1,Manhattan,Oklahoma redbud,None,4,2,2,0,0.5,0.5,0.0,1
+1,Manhattan,Oklahoma redbud,1or2,4,3,1,0,0.75,0.25,0.0,1
+1,Manhattan,Oklahoma redbud,4orMore,1,0,1,0,0.0,1.0,0.0,1
+2,Bronx,Oklahoma redbud,None,38,27,9,2,0.7105,0.2368,0.0526,1
+2,Bronx,Oklahoma redbud,1or2,9,5,3,1,0.5556,0.3333,0.1111,1
+3,Brooklyn,Oklahoma redbud,None,35,30,5,0,0.8571,0.1429,0.0,1
+3,Brooklyn,Oklahoma redbud,1or2,15,13,1,1,0.8667,0.0667,0.0667,1
+3,Brooklyn,Oklahoma redbud,3or4,1,1,0,0,1.0,0.0,0.0,1
+4,Queens,Oklahoma redbud,None,51,43,8,0,0.8431,0.1569,0.0,1
+4,Queens,Oklahoma redbud,3or4,3,1,1,1,0.3333,0.3333,0.3333,1
+4,Queens,Oklahoma redbud,1or2,27,20,2,5,0.7407,0.0741,0.1852,1
+4,Queens,Oklahoma redbud,4orMore,1,1,0,0,1.0,0.0,0.0,1
+5,Staten Island,Oklahoma redbud,1or2,4,4,0,0,1.0,0.0,0.0,1
+5,Staten Island,Oklahoma redbud,None,26,23,2,1,0.8846,0.0769,0.0385,1
+1,Manhattan,maple,1or2,16,9,5,2,0.5625,0.3125,0.125,2
+1,Manhattan,maple,None,19,6,4,9,0.3158,0.2105,0.4737,2
+1,Manhattan,maple,3or4,2,1,0,1,0.5,0.0,0.5,2
+2,Bronx,maple,1or2,141,96,31,14,0.6809,0.2199,0.0993,2
+2,Bronx,maple,None,846,549,209,88,0.6489,0.247,0.104,2
+2,Bronx,maple,3or4,8,5,3,0,0.625,0.375,0.0,2
+3,Brooklyn,maple,4orMore,2,2,0,0,1.0,0.0,0.0,2
+3,Brooklyn,maple,1or2,95,74,19,2,0.7789,0.2,0.0211,2
+3,Brooklyn,maple,None,339,240,74,25,0.708,0.2183,0.0737,2
+3,Brooklyn,maple,3or4,9,6,2,1,0.6667,0.2222,0.1111,2
+4,Queens,maple,4orMore,1,1,0,0,1.0,0.0,0.0,2
+4,Queens,maple,None,2681,1800,699,182,0.6714,0.2607,0.0679,2
+4,Queens,maple,3or4,15,10,3,2,0.6667,0.2,0.1333,2
+4,Queens,maple,1or2,295,194,68,33,0.6576,0.2305,0.1119,2
+5,Staten Island,maple,1or2,291,203,49,39,0.6976,0.1684,0.134,2
+5,Staten Island,maple,4orMore,3,2,0,1,0.6667,0.0,0.3333,2
+5,Staten Island,maple,3or4,15,11,2,2,0.7333,0.1333,0.1333,2
+5,Staten Island,maple,None,2302,1499,565,238,0.6512,0.2454,0.1034,2
+1,Manhattan,pagoda dogwood,None,5,3,2,0,0.6,0.4,0.0,3
+1,Manhattan,pagoda dogwood,1or2,8,3,3,2,0.375,0.375,0.25,3
+1,Manhattan,pagoda dogwood,3or4,5,1,3,1,0.2,0.6,0.2,3
+2,Bronx,pagoda dogwood,None,10,6,4,0,0.6,0.4,0.0,3
+2,Bronx,pagoda dogwood,3or4,1,1,0,0,1.0,0.0,0.0,3
+2,Bronx,pagoda dogwood,1or2,7,6,1,0,0.8571,0.1429,0.0,3
+3,Brooklyn,pagoda dogwood,1or2,29,24,3,2,0.8276,0.1034,0.069,3
+3,Brooklyn,pagoda dogwood,3or4,4,3,0,1,0.75,0.0,0.25,3
+3,Brooklyn,pagoda dogwood,None,47,38,6,3,0.8085,0.1277,0.0638,3
+4,Queens,pagoda dogwood,1or2,21,14,6,1,0.6667,0.2857,0.0476,3
+4,Queens,pagoda dogwood,3or4,2,1,1,0,0.5,0.5,0.0,3
+4,Queens,pagoda dogwood,None,58,47,9,2,0.8103,0.1552,0.0345,3
+5,Staten Island,pagoda dogwood,1or2,18,16,1,1,0.8889,0.0556,0.0556,3
+5,Staten Island,pagoda dogwood,None,65,56,7,2,0.8615,0.1077,0.0308,3
+1,Manhattan,American linden,None,674,427,168,79,0.6335,0.2493,0.1172,4
+1,Manhattan,American linden,1or2,713,456,173,84,0.6396,0.2426,0.1178,4
+1,Manhattan,American linden,4orMore,23,20,1,2,0.8696,0.0435,0.087,4
+1,Manhattan,American linden,3or4,173,117,37,19,0.6763,0.2139,0.1098,4
+2,Bronx,American linden,4orMore,3,3,0,0,1.0,0.0,0.0,4
+2,Bronx,American linden,None,1684,1364,248,72,0.81,0.1473,0.0428,4
+2,Bronx,American linden,1or2,424,344,61,19,0.8113,0.1439,0.0448,4
+2,Bronx,American linden,3or4,21,14,5,2,0.6667,0.2381,0.0952,4
+3,Brooklyn,American linden,3or4,143,119,17,7,0.8322,0.1189,0.049,4
+3,Brooklyn,American linden,4orMore,19,19,0,0,1.0,0.0,0.0,4
+3,Brooklyn,American linden,None,2704,2153,381,170,0.7962,0.1409,0.0629,4
+3,Brooklyn,American linden,1or2,1157,940,152,65,0.8124,0.1314,0.0562,4
+4,Queens,American linden,1or2,1131,851,220,60,0.7524,0.1945,0.0531,4
+4,Queens,American linden,None,3553,3046,382,125,0.8573,0.1075,0.0352,4
+4,Queens,American linden,3or4,79,69,5,5,0.8734,0.0633,0.0633,4
+4,Queens,American linden,4orMore,6,5,0,1,0.8333,0.0,0.1667,4
+5,Staten Island,American linden,None,823,714,84,25,0.8676,0.1021,0.0304,4
+5,Staten Island,American linden,3or4,13,13,0,0,1.0,0.0,0.0,4
+5,Staten Island,American linden,1or2,187,170,10,7,0.9091,0.0535,0.0374,4
+1,Manhattan,sassafras,1or2,3,3,0,0,1.0,0.0,0.0,5
+1,Manhattan,sassafras,4orMore,1,1,0,0,1.0,0.0,0.0,5
+1,Manhattan,sassafras,None,11,6,1,4,0.5455,0.0909,0.3636,5
+1,Manhattan,sassafras,3or4,2,1,0,1,0.5,0.0,0.5,5
+2,Bronx,sassafras,1or2,1,1,0,0,1.0,0.0,0.0,5
+2,Bronx,sassafras,None,15,11,4,0,0.7333,0.2667,0.0,5
+3,Brooklyn,sassafras,1or2,15,11,3,1,0.7333,0.2,0.0667,5
+3,Brooklyn,sassafras,3or4,2,2,0,0,1.0,0.0,0.0,5
+3,Brooklyn,sassafras,None,24,22,1,1,0.9167,0.0417,0.0417,5
+4,Queens,sassafras,None,64,48,12,4,0.75,0.1875,0.0625,5
+4,Queens,sassafras,1or2,9,5,3,1,0.5556,0.3333,0.1111,5
+5,Staten Island,sassafras,1or2,1,1,0,0,1.0,0.0,0.0,5
+5,Staten Island,sassafras,None,23,16,6,1,0.6957,0.2609,0.0435,5
+1,Manhattan,Norway spruce,None,1,0,0,1,0.0,0.0,1.0,6
+1,Manhattan,Norway spruce,1or2,2,2,0,0,1.0,0.0,0.0,6
+2,Bronx,Norway spruce,3or4,3,0,3,0,0.0,1.0,0.0,6
+2,Bronx,Norway spruce,None,19,12,7,0,0.6316,0.3684,0.0,6
+2,Bronx,Norway spruce,1or2,21,12,8,1,0.5714,0.381,0.0476,6
+3,Brooklyn,Norway spruce,1or2,25,18,5,2,0.72,0.2,0.08,6
+3,Brooklyn,Norway spruce,None,35,28,4,3,0.8,0.1143,0.0857,6
+3,Brooklyn,Norway spruce,3or4,6,6,0,0,1.0,0.0,0.0,6
+3,Brooklyn,Norway spruce,4orMore,1,1,0,0,1.0,0.0,0.0,6
+4,Queens,Norway spruce,1or2,53,47,5,1,0.8868,0.0943,0.0189,6
+4,Queens,Norway spruce,3or4,3,3,0,0,1.0,0.0,0.0,6
+4,Queens,Norway spruce,None,135,100,25,10,0.7407,0.1852,0.0741,6
+5,Staten Island,Norway spruce,3or4,1,1,0,0,1.0,0.0,0.0,6
+5,Staten Island,Norway spruce,1or2,7,6,1,0,0.8571,0.1429,0.0,6
+5,Staten Island,Norway spruce,None,43,35,6,2,0.814,0.1395,0.0465,6
+1,Manhattan,mulberry,None,29,23,6,0,0.7931,0.2069,0.0,7
+1,Manhattan,mulberry,3or4,3,3,0,0,1.0,0.0,0.0,7
+1,Manhattan,mulberry,1or2,36,22,9,5,0.6111,0.25,0.1389,7
+2,Bronx,mulberry,1or2,25,19,6,0,0.76,0.24,0.0,7
+2,Bronx,mulberry,None,129,96,24,9,0.7442,0.186,0.0698,7
+2,Bronx,mulberry,3or4,1,0,1,0,0.0,1.0,0.0,7
+3,Brooklyn,mulberry,None,163,127,31,5,0.7791,0.1902,0.0307,7
+3,Brooklyn,mulberry,3or4,3,3,0,0,1.0,0.0,0.0,7
+3,Brooklyn,mulberry,1or2,40,30,5,5,0.75,0.125,0.125,7
+4,Queens,mulberry,None,507,387,94,26,0.7633,0.1854,0.0513,7
+4,Queens,mulberry,3or4,6,5,1,0,0.8333,0.1667,0.0,7
+4,Queens,mulberry,1or2,68,53,12,3,0.7794,0.1765,0.0441,7
+5,Staten Island,mulberry,None,135,100,26,9,0.7407,0.1926,0.0667,7
+5,Staten Island,mulberry,1or2,12,9,3,0,0.75,0.25,0.0,7
+1,Manhattan,American hophornbeam,3or4,12,7,4,1,0.5833,0.3333,0.0833,8
+1,Manhattan,American hophornbeam,1or2,40,32,4,4,0.8,0.1,0.1,8
+1,Manhattan,American hophornbeam,None,32,25,4,3,0.7812,0.125,0.0938,8
+2,Bronx,American hophornbeam,3or4,3,3,0,0,1.0,0.0,0.0,8
+2,Bronx,American hophornbeam,None,124,98,21,5,0.7903,0.1694,0.0403,8
+2,Bronx,American hophornbeam,1or2,58,47,7,4,0.8103,0.1207,0.069,8
+3,Brooklyn,American hophornbeam,4orMore,1,0,1,0,0.0,1.0,0.0,8
+3,Brooklyn,American hophornbeam,3or4,11,10,0,1,0.9091,0.0,0.0909,8
+3,Brooklyn,American hophornbeam,None,222,171,41,10,0.7703,0.1847,0.045,8
+3,Brooklyn,American hophornbeam,1or2,132,92,29,11,0.697,0.2197,0.0833,8
+4,Queens,American hophornbeam,1or2,67,60,5,2,0.8955,0.0746,0.0299,8
+4,Queens,American hophornbeam,None,217,180,28,9,0.8295,0.129,0.0415,8
+4,Queens,American hophornbeam,3or4,11,10,1,0,0.9091,0.0909,0.0,8
+5,Staten Island,American hophornbeam,3or4,2,2,0,0,1.0,0.0,0.0,8
+5,Staten Island,American hophornbeam,4orMore,2,2,0,0,1.0,0.0,0.0,8
+5,Staten Island,American hophornbeam,1or2,36,32,3,1,0.8889,0.0833,0.0278,8
+5,Staten Island,American hophornbeam,None,111,95,10,6,0.8559,0.0901,0.0541,8
+1,Manhattan,eastern redbud,3or4,2,2,0,0,1.0,0.0,0.0,9
+1,Manhattan,eastern redbud,4orMore,1,1,0,0,1.0,0.0,0.0,9
+1,Manhattan,eastern redbud,None,26,22,4,0,0.8462,0.1538,0.0,9
+1,Manhattan,eastern redbud,1or2,21,13,5,3,0.619,0.2381,0.1429,9
+2,Bronx,eastern redbud,1or2,173,138,25,10,0.7977,0.1445,0.0578,9
+2,Bronx,eastern redbud,3or4,19,14,4,1,0.7368,0.2105,0.0526,9
+2,Bronx,eastern redbud,4orMore,2,1,1,0,0.5,0.5,0.0,9
+2,Bronx,eastern redbud,None,438,337,57,44,0.7694,0.1301,0.1005,9
+3,Brooklyn,eastern redbud,4orMore,1,0,0,1,0.0,0.0,1.0,9
+3,Brooklyn,eastern redbud,1or2,301,215,59,27,0.7143,0.196,0.0897,9
+3,Brooklyn,eastern redbud,3or4,26,23,2,1,0.8846,0.0769,0.0385,9
+3,Brooklyn,eastern redbud,None,468,325,107,36,0.6944,0.2286,0.0769,9
+4,Queens,eastern redbud,3or4,38,30,6,2,0.7895,0.1579,0.0526,9
+4,Queens,eastern redbud,1or2,441,361,51,29,0.8186,0.1156,0.0658,9
+4,Queens,eastern redbud,4orMore,3,3,0,0,1.0,0.0,0.0,9
+4,Queens,eastern redbud,None,876,670,153,53,0.7648,0.1747,0.0605,9
+5,Staten Island,eastern redbud,None,678,549,78,51,0.8097,0.115,0.0752,9
+5,Staten Island,eastern redbud,1or2,260,201,39,20,0.7731,0.15,0.0769,9
+5,Staten Island,eastern redbud,4orMore,1,1,0,0,1.0,0.0,0.0,9
+5,Staten Island,eastern redbud,3or4,26,21,3,2,0.8077,0.1154,0.0769,9
+1,Manhattan,ginkgo,None,2303,1659,449,195,0.7204,0.195,0.0847,10
+1,Manhattan,ginkgo,4orMore,61,48,11,2,0.7869,0.1803,0.0328,10
+1,Manhattan,ginkgo,3or4,1077,822,166,89,0.7632,0.1541,0.0826,10
+1,Manhattan,ginkgo,1or2,2418,1857,356,205,0.768,0.1472,0.0848,10
+2,Bronx,ginkgo,3or4,34,32,2,0,0.9412,0.0588,0.0,10
+2,Bronx,ginkgo,None,2186,1839,235,112,0.8413,0.1075,0.0512,10
+2,Bronx,ginkgo,4orMore,1,1,0,0,1.0,0.0,0.0,10
+2,Bronx,ginkgo,1or2,464,381,67,16,0.8211,0.1444,0.0345,10
+3,Brooklyn,ginkgo,3or4,321,294,19,8,0.9159,0.0592,0.0249,10
+3,Brooklyn,ginkgo,None,3509,2928,437,144,0.8344,0.1245,0.041,10
+3,Brooklyn,ginkgo,4orMore,34,32,2,0,0.9412,0.0588,0.0,10
+3,Brooklyn,ginkgo,1or2,1731,1500,184,47,0.8666,0.1063,0.0272,10
+4,Queens,ginkgo,None,4722,3959,569,194,0.8384,0.1205,0.0411,10
+4,Queens,ginkgo,1or2,1141,932,165,44,0.8168,0.1446,0.0386,10
+4,Queens,ginkgo,4orMore,14,11,3,0,0.7857,0.2143,0.0,10
+4,Queens,ginkgo,3or4,94,82,8,4,0.8723,0.0851,0.0426,10
+5,Staten Island,ginkgo,None,682,561,71,50,0.8226,0.1041,0.0733,10
+5,Staten Island,ginkgo,3or4,19,16,3,0,0.8421,0.1579,0.0,10
+5,Staten Island,ginkgo,1or2,213,172,33,8,0.8075,0.1549,0.0376,10
+1,Manhattan,green ash,4orMore,12,11,1,0,0.9167,0.0833,0.0,11
+1,Manhattan,green ash,None,399,302,68,29,0.7569,0.1704,0.0727,11
+1,Manhattan,green ash,3or4,78,60,17,1,0.7692,0.2179,0.0128,11
+1,Manhattan,green ash,1or2,281,202,64,15,0.7189,0.2278,0.0534,11
+2,Bronx,green ash,4orMore,1,1,0,0,1.0,0.0,0.0,11
+2,Bronx,green ash,None,1688,1364,263,61,0.8081,0.1558,0.0361,11
+2,Bronx,green ash,3or4,14,10,2,2,0.7143,0.1429,0.1429,11
+2,Bronx,green ash,1or2,186,158,21,7,0.8495,0.1129,0.0376,11
+3,Brooklyn,green ash,3or4,123,108,12,3,0.878,0.0976,0.0244,11
+3,Brooklyn,green ash,None,2876,2328,488,60,0.8095,0.1697,0.0209,11
+3,Brooklyn,green ash,4orMore,5,5,0,0,1.0,0.0,0.0,11
+3,Brooklyn,green ash,1or2,804,670,120,14,0.8333,0.1493,0.0174,11
+4,Queens,green ash,4orMore,7,6,1,0,0.8571,0.1429,0.0,11
+4,Queens,green ash,3or4,59,45,11,3,0.7627,0.1864,0.0508,11
+4,Queens,green ash,1or2,1111,938,141,32,0.8443,0.1269,0.0288,11
+4,Queens,green ash,None,6212,5167,910,135,0.8318,0.1465,0.0217,11
+5,Staten Island,green ash,None,2003,1526,418,58,0.7619,0.2087,0.029,11
+5,Staten Island,green ash,4orMore,4,3,1,0,0.75,0.25,0.0,11
+5,Staten Island,green ash,3or4,17,13,3,1,0.7647,0.1765,0.0588,11
+5,Staten Island,green ash,1or2,371,306,58,7,0.8248,0.1563,0.0189,11
+1,Manhattan,crepe myrtle,1or2,3,3,0,0,1.0,0.0,0.0,12
+1,Manhattan,crepe myrtle,None,2,2,0,0,1.0,0.0,0.0,12
+2,Bronx,crepe myrtle,1or2,30,19,6,5,0.6333,0.2,0.1667,12
+2,Bronx,crepe myrtle,None,15,14,1,0,0.9333,0.0667,0.0,12
+3,Brooklyn,crepe myrtle,1or2,33,28,4,1,0.8485,0.1212,0.0303,12
+3,Brooklyn,crepe myrtle,None,25,21,2,2,0.84,0.08,0.08,12
+3,Brooklyn,crepe myrtle,3or4,7,7,0,0,1.0,0.0,0.0,12
+4,Queens,crepe myrtle,None,149,126,18,5,0.8456,0.1208,0.0336,12
+4,Queens,crepe myrtle,4orMore,1,1,0,0,1.0,0.0,0.0,12
+4,Queens,crepe myrtle,3or4,14,14,0,0,1.0,0.0,0.0,12
+4,Queens,crepe myrtle,1or2,76,65,10,1,0.8553,0.1316,0.0132,12
+5,Staten Island,crepe myrtle,None,29,18,7,4,0.6207,0.2414,0.1379,12
+5,Staten Island,crepe myrtle,4orMore,8,8,0,0,1.0,0.0,0.0,12
+5,Staten Island,crepe myrtle,3or4,4,4,0,0,1.0,0.0,0.0,12
+5,Staten Island,crepe myrtle,1or2,46,41,5,0,0.8913,0.1087,0.0,12
+1,Manhattan,Himalayan cedar,1or2,1,1,0,0,1.0,0.0,0.0,13
+1,Manhattan,Himalayan cedar,None,5,3,1,1,0.6,0.2,0.2,13
+2,Bronx,Himalayan cedar,None,1,1,0,0,1.0,0.0,0.0,13
+3,Brooklyn,Himalayan cedar,None,4,4,0,0,1.0,0.0,0.0,13
+3,Brooklyn,Himalayan cedar,1or2,10,7,3,0,0.7,0.3,0.0,13
+4,Queens,Himalayan cedar,None,18,17,0,1,0.9444,0.0,0.0556,13
+4,Queens,Himalayan cedar,1or2,11,7,3,1,0.6364,0.2727,0.0909,13
+4,Queens,Himalayan cedar,3or4,1,0,1,0,0.0,1.0,0.0,13
+5,Staten Island,Himalayan cedar,1or2,4,3,1,0,0.75,0.25,0.0,13
+5,Staten Island,Himalayan cedar,None,17,14,3,0,0.8235,0.1765,0.0,13
+1,Manhattan,arborvitae,3or4,4,4,0,0,1.0,0.0,0.0,14
+1,Manhattan,arborvitae,1or2,1,1,0,0,1.0,0.0,0.0,14
+2,Bronx,arborvitae,3or4,1,1,0,0,1.0,0.0,0.0,14
+2,Bronx,arborvitae,None,15,15,0,0,1.0,0.0,0.0,14
+2,Bronx,arborvitae,1or2,10,8,1,1,0.8,0.1,0.1,14
+3,Brooklyn,arborvitae,3or4,3,3,0,0,1.0,0.0,0.0,14
+3,Brooklyn,arborvitae,1or2,30,27,2,1,0.9,0.0667,0.0333,14
+3,Brooklyn,arborvitae,None,35,33,2,0,0.9429,0.0571,0.0,14
+4,Queens,arborvitae,1or2,60,58,2,0,0.9667,0.0333,0.0,14
+4,Queens,arborvitae,None,106,94,8,4,0.8868,0.0755,0.0377,14
+4,Queens,arborvitae,3or4,6,5,1,0,0.8333,0.1667,0.0,14
+4,Queens,arborvitae,4orMore,3,3,0,0,1.0,0.0,0.0,14
+5,Staten Island,arborvitae,None,38,37,1,0,0.9737,0.0263,0.0,14
+5,Staten Island,arborvitae,1or2,16,16,0,0,1.0,0.0,0.0,14
+1,Manhattan,black maple,None,9,9,0,0,1.0,0.0,0.0,15
+1,Manhattan,black maple,1or2,1,0,1,0,0.0,1.0,0.0,15
+2,Bronx,black maple,1or2,1,1,0,0,1.0,0.0,0.0,15
+2,Bronx,black maple,3or4,1,1,0,0,1.0,0.0,0.0,15
+2,Bronx,black maple,None,12,11,1,0,0.9167,0.0833,0.0,15
+3,Brooklyn,black maple,1or2,12,7,4,1,0.5833,0.3333,0.0833,15
+3,Brooklyn,black maple,None,19,16,2,1,0.8421,0.1053,0.0526,15
+4,Queens,black maple,1or2,2,2,0,0,1.0,0.0,0.0,15
+4,Queens,black maple,3or4,2,1,0,1,0.5,0.0,0.5,15
+4,Queens,black maple,None,19,15,3,1,0.7895,0.1579,0.0526,15
+5,Staten Island,black maple,3or4,2,1,1,0,0.5,0.5,0.0,15
+5,Staten Island,black maple,None,32,22,6,4,0.6875,0.1875,0.125,15
+5,Staten Island,black maple,1or2,2,2,0,0,1.0,0.0,0.0,15
+1,Manhattan,crab apple,4orMore,1,1,0,0,1.0,0.0,0.0,16
+1,Manhattan,crab apple,1or2,90,61,13,16,0.6778,0.1444,0.1778,16
+1,Manhattan,crab apple,3or4,9,7,1,1,0.7778,0.1111,0.1111,16
+1,Manhattan,crab apple,None,337,302,21,14,0.8961,0.0623,0.0415,16
+2,Bronx,crab apple,None,374,308,55,11,0.8235,0.1471,0.0294,16
+2,Bronx,crab apple,1or2,126,106,13,7,0.8413,0.1032,0.0556,16
+2,Bronx,crab apple,4orMore,2,2,0,0,1.0,0.0,0.0,16
+2,Bronx,crab apple,3or4,5,4,1,0,0.8,0.2,0.0,16
+3,Brooklyn,crab apple,None,427,345,63,19,0.808,0.1475,0.0445,16
+3,Brooklyn,crab apple,1or2,177,151,22,4,0.8531,0.1243,0.0226,16
+3,Brooklyn,crab apple,3or4,22,18,4,0,0.8182,0.1818,0.0,16
+4,Queens,crab apple,4orMore,1,1,0,0,1.0,0.0,0.0,16
+4,Queens,crab apple,None,1052,838,182,32,0.7966,0.173,0.0304,16
+4,Queens,crab apple,3or4,31,25,6,0,0.8065,0.1935,0.0,16
+4,Queens,crab apple,1or2,320,268,41,11,0.8375,0.1281,0.0344,16
+5,Staten Island,crab apple,None,382,320,41,21,0.8377,0.1073,0.055,16
+5,Staten Island,crab apple,4orMore,2,1,1,0,0.5,0.5,0.0,16
+5,Staten Island,crab apple,3or4,13,10,2,1,0.7692,0.1538,0.0769,16
+5,Staten Island,crab apple,1or2,156,129,20,7,0.8269,0.1282,0.0449,16
+1,Manhattan,empress tree,1or2,8,4,2,2,0.5,0.25,0.25,17
+1,Manhattan,empress tree,3or4,1,1,0,0,1.0,0.0,0.0,17
+1,Manhattan,empress tree,None,8,5,2,1,0.625,0.25,0.125,17
+2,Bronx,empress tree,3or4,2,2,0,0,1.0,0.0,0.0,17
+2,Bronx,empress tree,1or2,7,4,3,0,0.5714,0.4286,0.0,17
+2,Bronx,empress tree,None,47,31,12,4,0.6596,0.2553,0.0851,17
+2,Bronx,empress tree,4orMore,1,1,0,0,1.0,0.0,0.0,17
+3,Brooklyn,empress tree,None,20,14,5,1,0.7,0.25,0.05,17
+3,Brooklyn,empress tree,3or4,3,2,1,0,0.6667,0.3333,0.0,17
+3,Brooklyn,empress tree,1or2,13,8,2,3,0.6154,0.1538,0.2308,17
+4,Queens,empress tree,3or4,4,4,0,0,1.0,0.0,0.0,17
+4,Queens,empress tree,None,82,64,16,2,0.7805,0.1951,0.0244,17
+4,Queens,empress tree,1or2,8,7,0,1,0.875,0.0,0.125,17
+5,Staten Island,empress tree,None,31,25,3,3,0.8065,0.0968,0.0968,17
+5,Staten Island,empress tree,1or2,10,8,2,0,0.8,0.2,0.0,17
+1,Manhattan,swamp white oak,1or2,245,199,36,10,0.8122,0.1469,0.0408,18
+1,Manhattan,swamp white oak,4orMore,4,4,0,0,1.0,0.0,0.0,18
+1,Manhattan,swamp white oak,3or4,66,58,6,2,0.8788,0.0909,0.0303,18
+1,Manhattan,swamp white oak,None,366,288,60,18,0.7869,0.1639,0.0492,18
+2,Bronx,swamp white oak,3or4,3,3,0,0,1.0,0.0,0.0,18
+2,Bronx,swamp white oak,1or2,225,188,31,6,0.8356,0.1378,0.0267,18
+2,Bronx,swamp white oak,None,596,501,75,20,0.8406,0.1258,0.0336,18
+2,Bronx,swamp white oak,4orMore,2,1,1,0,0.5,0.5,0.0,18
+3,Brooklyn,swamp white oak,4orMore,25,23,2,0,0.92,0.08,0.0,18
+3,Brooklyn,swamp white oak,None,1518,1279,188,51,0.8426,0.1238,0.0336,18
+3,Brooklyn,swamp white oak,1or2,945,762,146,37,0.8063,0.1545,0.0392,18
+3,Brooklyn,swamp white oak,3or4,226,166,53,7,0.7345,0.2345,0.031,18
+4,Queens,swamp white oak,1or2,453,385,47,21,0.8499,0.1038,0.0464,18
+4,Queens,swamp white oak,3or4,41,38,3,0,0.9268,0.0732,0.0,18
+4,Queens,swamp white oak,None,1090,923,118,49,0.8468,0.1083,0.045,18
+5,Staten Island,swamp white oak,3or4,9,8,1,0,0.8889,0.1111,0.0,18
+5,Staten Island,swamp white oak,None,550,428,96,26,0.7782,0.1745,0.0473,18
+5,Staten Island,swamp white oak,1or2,234,180,46,8,0.7692,0.1966,0.0342,18
+1,Manhattan,white oak,None,150,108,31,11,0.72,0.2067,0.0733,19
+1,Manhattan,white oak,1or2,77,46,20,11,0.5974,0.2597,0.1429,19
+1,Manhattan,white oak,3or4,14,8,5,1,0.5714,0.3571,0.0714,19
+2,Bronx,white oak,None,159,131,21,7,0.8239,0.1321,0.044,19
+2,Bronx,white oak,1or2,38,29,5,4,0.7632,0.1316,0.1053,19
+2,Bronx,white oak,3or4,6,5,1,0,0.8333,0.1667,0.0,19
+3,Brooklyn,white oak,None,302,250,39,13,0.8278,0.1291,0.043,19
+3,Brooklyn,white oak,1or2,170,142,21,7,0.8353,0.1235,0.0412,19
+3,Brooklyn,white oak,3or4,30,22,7,1,0.7333,0.2333,0.0333,19
+3,Brooklyn,white oak,4orMore,1,1,0,0,1.0,0.0,0.0,19
+4,Queens,white oak,1or2,139,108,22,9,0.777,0.1583,0.0647,19
+4,Queens,white oak,3or4,9,6,3,0,0.6667,0.3333,0.0,19
+4,Queens,white oak,None,359,299,43,17,0.8329,0.1198,0.0474,19
+5,Staten Island,white oak,1or2,42,33,8,1,0.7857,0.1905,0.0238,19
+5,Staten Island,white oak,3or4,4,4,0,0,1.0,0.0,0.0,19
+5,Staten Island,white oak,None,186,139,37,10,0.7473,0.1989,0.0538,19
+1,Manhattan,Kentucky coffeetree,4orMore,6,6,0,0,1.0,0.0,0.0,20
+1,Manhattan,Kentucky coffeetree,3or4,54,50,3,1,0.9259,0.0556,0.0185,20
+1,Manhattan,Kentucky coffeetree,None,151,121,23,7,0.8013,0.1523,0.0464,20
+1,Manhattan,Kentucky coffeetree,1or2,137,119,17,1,0.8686,0.1241,0.0073,20
+2,Bronx,Kentucky coffeetree,4orMore,2,1,1,0,0.5,0.5,0.0,20
+2,Bronx,Kentucky coffeetree,None,277,214,49,14,0.7726,0.1769,0.0505,20
+2,Bronx,Kentucky coffeetree,3or4,8,7,1,0,0.875,0.125,0.0,20
+2,Bronx,Kentucky coffeetree,1or2,165,130,28,7,0.7879,0.1697,0.0424,20
+3,Brooklyn,Kentucky coffeetree,None,713,620,68,25,0.8696,0.0954,0.0351,20
+3,Brooklyn,Kentucky coffeetree,3or4,52,44,7,1,0.8462,0.1346,0.0192,20
+3,Brooklyn,Kentucky coffeetree,1or2,393,327,50,16,0.8321,0.1272,0.0407,20
+3,Brooklyn,Kentucky coffeetree,4orMore,18,16,2,0,0.8889,0.1111,0.0,20
+4,Queens,Kentucky coffeetree,3or4,15,14,1,0,0.9333,0.0667,0.0,20
+4,Queens,Kentucky coffeetree,1or2,398,340,45,13,0.8543,0.1131,0.0327,20
+4,Queens,Kentucky coffeetree,None,623,530,54,39,0.8507,0.0867,0.0626,20
+5,Staten Island,Kentucky coffeetree,3or4,2,2,0,0,1.0,0.0,0.0,20
+5,Staten Island,Kentucky coffeetree,1or2,74,55,17,2,0.7432,0.2297,0.027,20
+5,Staten Island,Kentucky coffeetree,None,276,239,27,10,0.8659,0.0978,0.0362,20
+1,Manhattan,Turkish hazelnut,3or4,3,1,2,0,0.3333,0.6667,0.0,21
+1,Manhattan,Turkish hazelnut,1or2,6,4,1,1,0.6667,0.1667,0.1667,21
+1,Manhattan,Turkish hazelnut,None,8,2,6,0,0.25,0.75,0.0,21
+2,Bronx,Turkish hazelnut,None,30,23,4,3,0.7667,0.1333,0.1,21
+2,Bronx,Turkish hazelnut,1or2,23,21,2,0,0.913,0.087,0.0,21
+2,Bronx,Turkish hazelnut,3or4,1,1,0,0,1.0,0.0,0.0,21
+3,Brooklyn,Turkish hazelnut,1or2,36,24,9,3,0.6667,0.25,0.0833,21
+3,Brooklyn,Turkish hazelnut,None,55,38,11,6,0.6909,0.2,0.1091,21
+3,Brooklyn,Turkish hazelnut,3or4,2,1,0,1,0.5,0.0,0.5,21
+4,Queens,Turkish hazelnut,None,97,66,19,12,0.6804,0.1959,0.1237,21
+4,Queens,Turkish hazelnut,1or2,36,25,9,2,0.6944,0.25,0.0556,21
+4,Queens,Turkish hazelnut,3or4,3,3,0,0,1.0,0.0,0.0,21
+5,Staten Island,Turkish hazelnut,1or2,6,5,0,1,0.8333,0.0,0.1667,21
+5,Staten Island,Turkish hazelnut,3or4,1,0,1,0,0.0,1.0,0.0,21
+5,Staten Island,Turkish hazelnut,None,10,9,1,0,0.9,0.1,0.0,21
+1,Manhattan,two-winged silverbell,None,2,2,0,0,1.0,0.0,0.0,22
+1,Manhattan,two-winged silverbell,1or2,6,3,3,0,0.5,0.5,0.0,22
+2,Bronx,two-winged silverbell,None,15,12,3,0,0.8,0.2,0.0,22
+2,Bronx,two-winged silverbell,1or2,11,6,4,1,0.5455,0.3636,0.0909,22
+3,Brooklyn,two-winged silverbell,None,33,24,8,1,0.7273,0.2424,0.0303,22
+3,Brooklyn,two-winged silverbell,3or4,2,2,0,0,1.0,0.0,0.0,22
+3,Brooklyn,two-winged silverbell,1or2,22,12,9,1,0.5455,0.4091,0.0455,22
+4,Queens,two-winged silverbell,1or2,11,10,1,0,0.9091,0.0909,0.0,22
+4,Queens,two-winged silverbell,None,57,48,9,0,0.8421,0.1579,0.0,22
+4,Queens,two-winged silverbell,3or4,5,3,1,1,0.6,0.2,0.2,22
+5,Staten Island,two-winged silverbell,1or2,12,8,2,2,0.6667,0.1667,0.1667,22
+5,Staten Island,two-winged silverbell,None,45,28,16,1,0.6222,0.3556,0.0222,22
+1,Manhattan,Siberian elm,3or4,14,14,0,0,1.0,0.0,0.0,23
+1,Manhattan,Siberian elm,None,56,50,6,0,0.8929,0.1071,0.0,23
+1,Manhattan,Siberian elm,1or2,86,67,12,7,0.7791,0.1395,0.0814,23
+2,Bronx,Siberian elm,None,312,280,27,5,0.8974,0.0865,0.016,23
+2,Bronx,Siberian elm,1or2,74,64,7,3,0.8649,0.0946,0.0405,23
+2,Bronx,Siberian elm,3or4,6,5,1,0,0.8333,0.1667,0.0,23
+3,Brooklyn,Siberian elm,1or2,144,118,23,3,0.8194,0.1597,0.0208,23
+3,Brooklyn,Siberian elm,None,351,236,105,10,0.6724,0.2991,0.0285,23
+3,Brooklyn,Siberian elm,3or4,12,11,1,0,0.9167,0.0833,0.0,23
+4,Queens,Siberian elm,None,267,189,58,20,0.7079,0.2172,0.0749,23
+4,Queens,Siberian elm,3or4,5,5,0,0,1.0,0.0,0.0,23
+4,Queens,Siberian elm,1or2,68,55,11,2,0.8088,0.1618,0.0294,23
+5,Staten Island,Siberian elm,1or2,53,49,4,0,0.9245,0.0755,0.0,23
+5,Staten Island,Siberian elm,3or4,2,2,0,0,1.0,0.0,0.0,23
+5,Staten Island,Siberian elm,None,145,125,19,1,0.8621,0.131,0.0069,23
+1,Manhattan,Kentucky yellowwood,None,6,3,1,2,0.5,0.1667,0.3333,24
+1,Manhattan,Kentucky yellowwood,1or2,12,6,5,1,0.5,0.4167,0.0833,24
+2,Bronx,Kentucky yellowwood,None,60,52,7,1,0.8667,0.1167,0.0167,24
+2,Bronx,Kentucky yellowwood,1or2,28,18,6,4,0.6429,0.2143,0.1429,24
+3,Brooklyn,Kentucky yellowwood,3or4,5,4,1,0,0.8,0.2,0.0,24
+3,Brooklyn,Kentucky yellowwood,4orMore,1,1,0,0,1.0,0.0,0.0,24
+3,Brooklyn,Kentucky yellowwood,None,77,56,13,8,0.7273,0.1688,0.1039,24
+3,Brooklyn,Kentucky yellowwood,1or2,41,20,15,6,0.4878,0.3659,0.1463,24
+4,Queens,Kentucky yellowwood,3or4,2,2,0,0,1.0,0.0,0.0,24
+4,Queens,Kentucky yellowwood,None,135,113,18,4,0.837,0.1333,0.0296,24
+4,Queens,Kentucky yellowwood,4orMore,1,1,0,0,1.0,0.0,0.0,24
+4,Queens,Kentucky yellowwood,1or2,49,41,4,4,0.8367,0.0816,0.0816,24
+5,Staten Island,Kentucky yellowwood,1or2,17,15,1,1,0.8824,0.0588,0.0588,24
+5,Staten Island,Kentucky yellowwood,None,42,36,3,3,0.8571,0.0714,0.0714,24
+5,Staten Island,Kentucky yellowwood,3or4,3,3,0,0,1.0,0.0,0.0,24
+1,Manhattan,sugar maple,3or4,9,2,6,1,0.2222,0.6667,0.1111,25
+1,Manhattan,sugar maple,1or2,15,9,4,2,0.6,0.2667,0.1333,25
+1,Manhattan,sugar maple,None,24,19,3,2,0.7917,0.125,0.0833,25
+2,Bronx,sugar maple,3or4,3,3,0,0,1.0,0.0,0.0,25
+2,Bronx,sugar maple,1or2,50,39,6,5,0.78,0.12,0.1,25
+2,Bronx,sugar maple,None,309,221,63,25,0.7152,0.2039,0.0809,25
+3,Brooklyn,sugar maple,3or4,34,22,9,3,0.6471,0.2647,0.0882,25
+3,Brooklyn,sugar maple,None,392,246,111,35,0.6276,0.2832,0.0893,25
+3,Brooklyn,sugar maple,1or2,176,106,59,11,0.6023,0.3352,0.0625,25
+3,Brooklyn,sugar maple,4orMore,1,1,0,0,1.0,0.0,0.0,25
+4,Queens,sugar maple,1or2,143,92,38,13,0.6434,0.2657,0.0909,25
+4,Queens,sugar maple,None,1127,771,247,109,0.6841,0.2192,0.0967,25
+4,Queens,sugar maple,3or4,12,11,1,0,0.9167,0.0833,0.0,25
+5,Staten Island,sugar maple,3or4,4,4,0,0,1.0,0.0,0.0,25
+5,Staten Island,sugar maple,None,388,312,55,21,0.8041,0.1418,0.0541,25
+5,Staten Island,sugar maple,1or2,157,132,18,7,0.8408,0.1146,0.0446,25
+1,Manhattan,English oak,3or4,18,13,5,0,0.7222,0.2778,0.0,26
+1,Manhattan,English oak,None,114,87,25,2,0.7632,0.2193,0.0175,26
+1,Manhattan,English oak,4orMore,2,2,0,0,1.0,0.0,0.0,26
+1,Manhattan,English oak,1or2,63,48,12,3,0.7619,0.1905,0.0476,26
+2,Bronx,English oak,None,141,120,18,3,0.8511,0.1277,0.0213,26
+2,Bronx,English oak,1or2,79,73,6,0,0.9241,0.0759,0.0,26
+2,Bronx,English oak,3or4,3,3,0,0,1.0,0.0,0.0,26
+3,Brooklyn,English oak,4orMore,1,1,0,0,1.0,0.0,0.0,26
+3,Brooklyn,English oak,1or2,165,138,21,6,0.8364,0.1273,0.0364,26
+3,Brooklyn,English oak,3or4,25,22,2,1,0.88,0.08,0.04,26
+3,Brooklyn,English oak,None,368,321,37,10,0.8723,0.1005,0.0272,26
+4,Queens,English oak,None,335,282,45,8,0.8418,0.1343,0.0239,26
+4,Queens,English oak,3or4,11,11,0,0,1.0,0.0,0.0,26
+4,Queens,English oak,1or2,115,85,21,9,0.7391,0.1826,0.0783,26
+5,Staten Island,English oak,1or2,35,20,15,0,0.5714,0.4286,0.0,26
+5,Staten Island,English oak,3or4,2,2,0,0,1.0,0.0,0.0,26
+5,Staten Island,English oak,None,167,135,30,2,0.8084,0.1796,0.012,26
+1,Manhattan,smoketree,None,1,1,0,0,1.0,0.0,0.0,27
+2,Bronx,smoketree,None,2,1,1,0,0.5,0.5,0.0,27
+2,Bronx,smoketree,1or2,1,0,1,0,0.0,1.0,0.0,27
+3,Brooklyn,smoketree,3or4,4,4,0,0,1.0,0.0,0.0,27
+3,Brooklyn,smoketree,1or2,3,2,1,0,0.6667,0.3333,0.0,27
+3,Brooklyn,smoketree,None,3,3,0,0,1.0,0.0,0.0,27
+4,Queens,smoketree,1or2,13,13,0,0,1.0,0.0,0.0,27
+4,Queens,smoketree,4orMore,2,2,0,0,1.0,0.0,0.0,27
+4,Queens,smoketree,3or4,2,2,0,0,1.0,0.0,0.0,27
+4,Queens,smoketree,None,25,18,7,0,0.72,0.28,0.0,27
+5,Staten Island,smoketree,1or2,1,0,0,1,0.0,0.0,1.0,27
+5,Staten Island,smoketree,None,1,1,0,0,1.0,0.0,0.0,27
+1,Manhattan,silver maple,1or2,26,10,13,3,0.3846,0.5,0.1154,28
+1,Manhattan,silver maple,None,34,18,9,7,0.5294,0.2647,0.2059,28
+1,Manhattan,silver maple,3or4,11,9,0,2,0.8182,0.0,0.1818,28
+2,Bronx,silver maple,3or4,6,5,1,0,0.8333,0.1667,0.0,28
+2,Bronx,silver maple,None,571,450,88,33,0.7881,0.1541,0.0578,28
+2,Bronx,silver maple,1or2,85,67,13,5,0.7882,0.1529,0.0588,28
+3,Brooklyn,silver maple,3or4,33,28,4,1,0.8485,0.1212,0.0303,28
+3,Brooklyn,silver maple,4orMore,6,6,0,0,1.0,0.0,0.0,28
+3,Brooklyn,silver maple,None,1102,847,218,37,0.7686,0.1978,0.0336,28
+3,Brooklyn,silver maple,1or2,234,194,32,8,0.8291,0.1368,0.0342,28
+4,Queens,silver maple,1or2,365,283,73,9,0.7753,0.2,0.0247,28
+4,Queens,silver maple,4orMore,2,1,0,1,0.5,0.0,0.5,28
+4,Queens,silver maple,None,5722,4390,1082,250,0.7672,0.1891,0.0437,28
+4,Queens,silver maple,3or4,27,21,5,1,0.7778,0.1852,0.037,28
+5,Staten Island,silver maple,1or2,456,360,72,24,0.7895,0.1579,0.0526,28
+5,Staten Island,silver maple,4orMore,1,1,0,0,1.0,0.0,0.0,28
+5,Staten Island,silver maple,3or4,28,24,3,1,0.8571,0.1071,0.0357,28
+5,Staten Island,silver maple,None,3568,2748,643,177,0.7702,0.1802,0.0496,28
+1,Manhattan,honeylocust,3or4,1586,1373,194,19,0.8657,0.1223,0.012,29
+1,Manhattan,honeylocust,None,6423,5276,1038,109,0.8214,0.1616,0.017,29
+1,Manhattan,honeylocust,Unknown,1,0,0,0,0.0,0.0,0.0,29
+1,Manhattan,honeylocust,4orMore,91,77,13,1,0.8462,0.1429,0.011,29
+1,Manhattan,honeylocust,1or2,5075,4232,767,76,0.8339,0.1511,0.015,29
+2,Bronx,honeylocust,3or4,36,32,3,1,0.8889,0.0833,0.0278,29
+2,Bronx,honeylocust,4orMore,6,4,1,1,0.6667,0.1667,0.1667,29
+2,Bronx,honeylocust,1or2,1574,1322,202,50,0.8399,0.1283,0.0318,29
+2,Bronx,honeylocust,None,8075,7217,743,115,0.8937,0.092,0.0142,29
+3,Brooklyn,honeylocust,None,12019,10175,1642,202,0.8466,0.1366,0.0168,29
+3,Brooklyn,honeylocust,1or2,4281,3541,649,91,0.8271,0.1516,0.0213,29
+3,Brooklyn,honeylocust,4orMore,46,41,5,0,0.8913,0.1087,0.0,29
+3,Brooklyn,honeylocust,3or4,575,506,67,2,0.88,0.1165,0.0035,29
+4,Queens,honeylocust,None,16493,14148,2057,288,0.8578,0.1247,0.0175,29
+4,Queens,honeylocust,1or2,3593,2890,600,103,0.8043,0.167,0.0287,29
+4,Queens,honeylocust,3or4,179,153,21,5,0.8547,0.1173,0.0279,29
+4,Queens,honeylocust,4orMore,25,20,2,3,0.8,0.08,0.12,29
+5,Staten Island,honeylocust,None,3487,2932,454,101,0.8408,0.1302,0.029,29
+5,Staten Island,honeylocust,4orMore,8,5,2,1,0.625,0.25,0.125,29
+5,Staten Island,honeylocust,1or2,665,533,110,22,0.8015,0.1654,0.0331,29
+5,Staten Island,honeylocust,3or4,26,24,2,0,0.9231,0.0769,0.0,29
+1,Manhattan,European beech,1or2,3,3,0,0,1.0,0.0,0.0,30
+1,Manhattan,European beech,None,3,3,0,0,1.0,0.0,0.0,30
+2,Bronx,European beech,1or2,3,0,3,0,0.0,1.0,0.0,30
+2,Bronx,European beech,None,11,7,3,1,0.6364,0.2727,0.0909,30
+3,Brooklyn,European beech,1or2,20,14,5,1,0.7,0.25,0.05,30
+3,Brooklyn,European beech,None,21,16,4,1,0.7619,0.1905,0.0476,30
+3,Brooklyn,European beech,3or4,1,1,0,0,1.0,0.0,0.0,30
+4,Queens,European beech,None,35,30,4,1,0.8571,0.1143,0.0286,30
+4,Queens,European beech,1or2,16,13,3,0,0.8125,0.1875,0.0,30
+5,Staten Island,European beech,None,6,6,0,0,1.0,0.0,0.0,30
+5,Staten Island,European beech,1or2,4,4,0,0,1.0,0.0,0.0,30
+5,Staten Island,European beech,3or4,2,2,0,0,1.0,0.0,0.0,30
+1,Manhattan,black walnut,None,15,14,1,0,0.9333,0.0667,0.0,31
+1,Manhattan,black walnut,3or4,7,4,3,0,0.5714,0.4286,0.0,31
+1,Manhattan,black walnut,1or2,11,8,2,1,0.7273,0.1818,0.0909,31
+2,Bronx,black walnut,1or2,6,3,3,0,0.5,0.5,0.0,31
+2,Bronx,black walnut,None,37,27,7,3,0.7297,0.1892,0.0811,31
+3,Brooklyn,black walnut,3or4,5,5,0,0,1.0,0.0,0.0,31
+3,Brooklyn,black walnut,None,49,43,6,0,0.8776,0.1224,0.0,31
+3,Brooklyn,black walnut,1or2,27,23,3,1,0.8519,0.1111,0.037,31
+3,Brooklyn,black walnut,4orMore,1,1,0,0,1.0,0.0,0.0,31
+4,Queens,black walnut,1or2,22,18,3,1,0.8182,0.1364,0.0455,31
+4,Queens,black walnut,None,69,58,10,1,0.8406,0.1449,0.0145,31
+5,Staten Island,black walnut,1or2,14,10,0,4,0.7143,0.0,0.2857,31
+5,Staten Island,black walnut,None,32,20,11,1,0.625,0.3438,0.0312,31
+1,Manhattan,black cherry,4orMore,1,1,0,0,1.0,0.0,0.0,32
+1,Manhattan,black cherry,3or4,5,3,1,1,0.6,0.2,0.2,32
+1,Manhattan,black cherry,1or2,9,5,2,2,0.5556,0.2222,0.2222,32
+1,Manhattan,black cherry,None,17,16,1,0,0.9412,0.0588,0.0,32
+2,Bronx,black cherry,None,43,32,6,5,0.7442,0.1395,0.1163,32
+2,Bronx,black cherry,1or2,21,20,0,1,0.9524,0.0,0.0476,32
+3,Brooklyn,black cherry,None,94,74,14,6,0.7872,0.1489,0.0638,32
+3,Brooklyn,black cherry,1or2,52,45,6,1,0.8654,0.1154,0.0192,32
+3,Brooklyn,black cherry,3or4,6,6,0,0,1.0,0.0,0.0,32
+4,Queens,black cherry,3or4,11,9,2,0,0.8182,0.1818,0.0,32
+4,Queens,black cherry,1or2,54,45,6,3,0.8333,0.1111,0.0556,32
+4,Queens,black cherry,None,197,135,48,14,0.6853,0.2437,0.0711,32
+4,Queens,black cherry,4orMore,7,4,3,0,0.5714,0.4286,0.0,32
+5,Staten Island,black cherry,None,69,47,15,7,0.6812,0.2174,0.1014,32
+5,Staten Island,black cherry,1or2,20,16,3,1,0.8,0.15,0.05,32
+5,Staten Island,black cherry,3or4,1,1,0,0,1.0,0.0,0.0,32
+1,Manhattan,ash,1or2,21,16,3,2,0.7619,0.1429,0.0952,33
+1,Manhattan,ash,None,36,23,10,3,0.6389,0.2778,0.0833,33
+1,Manhattan,ash,3or4,1,1,0,0,1.0,0.0,0.0,33
+2,Bronx,ash,1or2,49,42,5,2,0.8571,0.102,0.0408,33
+2,Bronx,ash,None,236,191,38,7,0.8093,0.161,0.0297,33
+2,Bronx,ash,3or4,4,4,0,0,1.0,0.0,0.0,33
+3,Brooklyn,ash,1or2,46,37,8,1,0.8043,0.1739,0.0217,33
+3,Brooklyn,ash,None,319,252,58,9,0.79,0.1818,0.0282,33
+3,Brooklyn,ash,4orMore,4,4,0,0,1.0,0.0,0.0,33
+4,Queens,ash,3or4,12,9,2,1,0.75,0.1667,0.0833,33
+4,Queens,ash,1or2,119,100,15,4,0.8403,0.1261,0.0336,33
+4,Queens,ash,None,1193,1042,113,38,0.8734,0.0947,0.0319,33
+5,Staten Island,ash,3or4,1,1,0,0,1.0,0.0,0.0,33
+5,Staten Island,ash,1or2,40,30,8,2,0.75,0.2,0.05,33
+5,Staten Island,ash,None,528,363,132,33,0.6875,0.25,0.0625,33
+1,Manhattan,American hornbeam,3or4,9,7,2,0,0.7778,0.2222,0.0,34
+1,Manhattan,American hornbeam,4orMore,14,14,0,0,1.0,0.0,0.0,34
+1,Manhattan,American hornbeam,None,24,16,5,3,0.6667,0.2083,0.125,34
+1,Manhattan,American hornbeam,1or2,38,30,6,2,0.7895,0.1579,0.0526,34
+2,Bronx,American hornbeam,1or2,66,41,18,7,0.6212,0.2727,0.1061,34
+2,Bronx,American hornbeam,None,211,160,38,13,0.7583,0.1801,0.0616,34
+2,Bronx,American hornbeam,3or4,18,10,5,3,0.5556,0.2778,0.1667,34
+3,Brooklyn,American hornbeam,1or2,112,80,21,11,0.7143,0.1875,0.0982,34
+3,Brooklyn,American hornbeam,3or4,21,16,4,1,0.7619,0.1905,0.0476,34
+3,Brooklyn,American hornbeam,None,210,179,20,11,0.8524,0.0952,0.0524,34
+4,Queens,American hornbeam,3or4,6,6,0,0,1.0,0.0,0.0,34
+4,Queens,American hornbeam,1or2,196,155,25,16,0.7908,0.1276,0.0816,34
+4,Queens,American hornbeam,None,323,278,32,13,0.8607,0.0991,0.0402,34
+5,Staten Island,American hornbeam,1or2,63,49,10,4,0.7778,0.1587,0.0635,34
+5,Staten Island,American hornbeam,None,201,175,17,9,0.8706,0.0846,0.0448,34
+5,Staten Island,American hornbeam,3or4,5,5,0,0,1.0,0.0,0.0,34
+1,Manhattan,Norway maple,None,168,99,51,18,0.5893,0.3036,0.1071,35
+1,Manhattan,Norway maple,4orMore,7,5,1,1,0.7143,0.1429,0.1429,35
+1,Manhattan,Norway maple,1or2,83,38,30,15,0.4578,0.3614,0.1807,35
+1,Manhattan,Norway maple,3or4,32,15,11,6,0.4688,0.3438,0.1875,35
+2,Bronx,Norway maple,3or4,27,16,7,4,0.5926,0.2593,0.1481,35
+2,Bronx,Norway maple,4orMore,1,1,0,0,1.0,0.0,0.0,35
+2,Bronx,Norway maple,None,3022,2103,690,229,0.6959,0.2283,0.0758,35
+2,Bronx,Norway maple,1or2,326,222,76,28,0.681,0.2331,0.0859,35
+3,Brooklyn,Norway maple,1or2,1297,809,340,148,0.6237,0.2621,0.1141,35
+3,Brooklyn,Norway maple,3or4,204,143,49,12,0.701,0.2402,0.0588,35
+3,Brooklyn,Norway maple,None,5469,3242,1515,712,0.5928,0.277,0.1302,35
+3,Brooklyn,Norway maple,4orMore,19,16,2,1,0.8421,0.1053,0.0526,35
+4,Queens,Norway maple,None,17477,10397,5061,2019,0.5949,0.2896,0.1155,35
+4,Queens,Norway maple,4orMore,14,5,7,2,0.3571,0.5,0.1429,35
+4,Queens,Norway maple,1or2,1802,927,576,299,0.5144,0.3196,0.1659,35
+4,Queens,Norway maple,3or4,114,49,50,15,0.4298,0.4386,0.1316,35
+5,Staten Island,Norway maple,4orMore,3,2,1,0,0.6667,0.3333,0.0,35
+5,Staten Island,Norway maple,3or4,57,48,8,1,0.8421,0.1404,0.0175,35
+5,Staten Island,Norway maple,1or2,548,428,90,30,0.781,0.1642,0.0547,35
+5,Staten Island,Norway maple,None,3519,2683,597,239,0.7624,0.1697,0.0679,35
+1,Manhattan,American elm,None,1086,894,149,43,0.8232,0.1372,0.0396,36
+1,Manhattan,American elm,1or2,495,380,85,30,0.7677,0.1717,0.0606,36
+1,Manhattan,American elm,3or4,102,75,22,5,0.7353,0.2157,0.049,36
+1,Manhattan,American elm,4orMore,15,12,3,0,0.8,0.2,0.0,36
+2,Bronx,American elm,4orMore,1,1,0,0,1.0,0.0,0.0,36
+2,Bronx,American elm,3or4,20,17,3,0,0.85,0.15,0.0,36
+2,Bronx,American elm,1or2,310,231,64,15,0.7452,0.2065,0.0484,36
+2,Bronx,American elm,None,1140,927,181,32,0.8132,0.1588,0.0281,36
+3,Brooklyn,American elm,3or4,52,43,6,3,0.8269,0.1154,0.0577,36
+3,Brooklyn,American elm,None,1833,1423,367,43,0.7763,0.2002,0.0235,36
+3,Brooklyn,American elm,4orMore,9,8,1,0,0.8889,0.1111,0.0,36
+3,Brooklyn,American elm,1or2,693,552,123,18,0.7965,0.1775,0.026,36
+4,Queens,American elm,1or2,357,281,58,18,0.7871,0.1625,0.0504,36
+4,Queens,American elm,4orMore,7,6,0,1,0.8571,0.0,0.1429,36
+4,Queens,American elm,None,1325,1110,170,45,0.8377,0.1283,0.034,36
+4,Queens,American elm,3or4,20,17,3,0,0.85,0.15,0.0,36
+5,Staten Island,American elm,None,382,315,55,12,0.8246,0.144,0.0314,36
+5,Staten Island,American elm,1or2,124,116,5,3,0.9355,0.0403,0.0242,36
+5,Staten Island,American elm,3or4,4,4,0,0,1.0,0.0,0.0,36
+1,Manhattan,Chinese chestnut,None,9,4,5,0,0.4444,0.5556,0.0,37
+1,Manhattan,Chinese chestnut,1or2,7,7,0,0,1.0,0.0,0.0,37
+1,Manhattan,Chinese chestnut,4orMore,1,0,1,0,0.0,1.0,0.0,37
+2,Bronx,Chinese chestnut,None,10,10,0,0,1.0,0.0,0.0,37
+2,Bronx,Chinese chestnut,1or2,9,7,2,0,0.7778,0.2222,0.0,37
+3,Brooklyn,Chinese chestnut,None,31,28,3,0,0.9032,0.0968,0.0,37
+3,Brooklyn,Chinese chestnut,1or2,22,21,1,0,0.9545,0.0455,0.0,37
+3,Brooklyn,Chinese chestnut,3or4,1,1,0,0,1.0,0.0,0.0,37
+4,Queens,Chinese chestnut,None,52,45,5,2,0.8654,0.0962,0.0385,37
+4,Queens,Chinese chestnut,1or2,6,5,1,0,0.8333,0.1667,0.0,37
+4,Queens,Chinese chestnut,3or4,1,1,0,0,1.0,0.0,0.0,37
+5,Staten Island,Chinese chestnut,3or4,3,3,0,0,1.0,0.0,0.0,37
+5,Staten Island,Chinese chestnut,1or2,1,1,0,0,1.0,0.0,0.0,37
+5,Staten Island,Chinese chestnut,None,20,17,3,0,0.85,0.15,0.0,37
+1,Manhattan,eastern redcedar,1or2,14,11,3,0,0.7857,0.2143,0.0,38
+1,Manhattan,eastern redcedar,None,26,21,4,1,0.8077,0.1538,0.0385,38
+1,Manhattan,eastern redcedar,3or4,2,2,0,0,1.0,0.0,0.0,38
+2,Bronx,eastern redcedar,3or4,3,3,0,0,1.0,0.0,0.0,38
+2,Bronx,eastern redcedar,1or2,28,26,1,1,0.9286,0.0357,0.0357,38
+2,Bronx,eastern redcedar,None,127,115,9,3,0.9055,0.0709,0.0236,38
+3,Brooklyn,eastern redcedar,1or2,98,89,9,0,0.9082,0.0918,0.0,38
+3,Brooklyn,eastern redcedar,None,183,151,24,8,0.8251,0.1311,0.0437,38
+3,Brooklyn,eastern redcedar,3or4,9,8,1,0,0.8889,0.1111,0.0,38
+4,Queens,eastern redcedar,1or2,173,150,15,8,0.8671,0.0867,0.0462,38
+4,Queens,eastern redcedar,None,350,296,38,16,0.8457,0.1086,0.0457,38
+4,Queens,eastern redcedar,4orMore,1,1,0,0,1.0,0.0,0.0,38
+4,Queens,eastern redcedar,3or4,8,7,1,0,0.875,0.125,0.0,38
+5,Staten Island,eastern redcedar,1or2,15,13,2,0,0.8667,0.1333,0.0,38
+5,Staten Island,eastern redcedar,3or4,3,3,0,0,1.0,0.0,0.0,38
+5,Staten Island,eastern redcedar,None,61,50,9,2,0.8197,0.1475,0.0328,38
+1,Manhattan,London planetree,3or4,356,175,125,56,0.4916,0.3511,0.1573,39
+1,Manhattan,London planetree,None,2216,1494,548,174,0.6742,0.2473,0.0785,39
+1,Manhattan,London planetree,4orMore,11,9,2,0,0.8182,0.1818,0.0,39
+1,Manhattan,London planetree,1or2,1539,919,469,151,0.5971,0.3047,0.0981,39
+2,Bronx,London planetree,3or4,36,31,3,2,0.8611,0.0833,0.0556,39
+2,Bronx,London planetree,4orMore,14,14,0,0,1.0,0.0,0.0,39
+2,Bronx,London planetree,1or2,895,691,165,39,0.7721,0.1844,0.0436,39
+2,Bronx,London planetree,None,6566,5544,847,175,0.8443,0.129,0.0267,39
+3,Brooklyn,London planetree,3or4,772,644,110,18,0.8342,0.1425,0.0233,39
+3,Brooklyn,London planetree,None,28345,24001,3756,588,0.8467,0.1325,0.0207,39
+3,Brooklyn,London planetree,4orMore,50,34,13,3,0.68,0.26,0.06,39
+3,Brooklyn,London planetree,1or2,5719,4691,866,162,0.8202,0.1514,0.0283,39
+4,Queens,London planetree,None,27658,23914,3178,566,0.8646,0.1149,0.0205,39
+4,Queens,London planetree,3or4,185,153,27,5,0.827,0.1459,0.027,39
+4,Queens,London planetree,4orMore,20,18,1,1,0.9,0.05,0.05,39
+4,Queens,London planetree,1or2,3248,2707,457,84,0.8334,0.1407,0.0259,39
+5,Staten Island,London planetree,4orMore,1,1,0,0,1.0,0.0,0.0,39
+5,Staten Island,London planetree,None,8503,7536,815,152,0.8863,0.0958,0.0179,39
+5,Staten Island,London planetree,1or2,841,700,119,22,0.8323,0.1415,0.0262,39
+5,Staten Island,London planetree,3or4,39,35,4,0,0.8974,0.1026,0.0,39
+1,Manhattan,shingle oak,1or2,55,42,10,3,0.7636,0.1818,0.0545,40
+1,Manhattan,shingle oak,4orMore,1,1,0,0,1.0,0.0,0.0,40
+1,Manhattan,shingle oak,None,125,106,16,3,0.848,0.128,0.024,40
+1,Manhattan,shingle oak,3or4,24,16,8,0,0.6667,0.3333,0.0,40
+2,Bronx,shingle oak,1or2,54,50,3,1,0.9259,0.0556,0.0185,40
+2,Bronx,shingle oak,None,121,103,13,5,0.8512,0.1074,0.0413,40
+2,Bronx,shingle oak,4orMore,1,1,0,0,1.0,0.0,0.0,40
+2,Bronx,shingle oak,3or4,1,1,0,0,1.0,0.0,0.0,40
+3,Brooklyn,shingle oak,4orMore,4,4,0,0,1.0,0.0,0.0,40
+3,Brooklyn,shingle oak,None,143,117,19,7,0.8182,0.1329,0.049,40
+3,Brooklyn,shingle oak,3or4,15,14,1,0,0.9333,0.0667,0.0,40
+3,Brooklyn,shingle oak,1or2,115,89,16,10,0.7739,0.1391,0.087,40
+4,Queens,shingle oak,3or4,6,5,0,1,0.8333,0.0,0.1667,40
+4,Queens,shingle oak,1or2,122,103,13,6,0.8443,0.1066,0.0492,40
+4,Queens,shingle oak,None,205,175,23,7,0.8537,0.1122,0.0341,40
+5,Staten Island,shingle oak,4orMore,1,1,0,0,1.0,0.0,0.0,40
+5,Staten Island,shingle oak,1or2,29,27,1,1,0.931,0.0345,0.0345,40
+5,Staten Island,shingle oak,None,27,21,4,2,0.7778,0.1481,0.0741,40
+1,Manhattan,weeping willow,1or2,6,6,0,0,1.0,0.0,0.0,41
+1,Manhattan,weeping willow,3or4,2,1,1,0,0.5,0.5,0.0,41
+1,Manhattan,weeping willow,None,4,1,3,0,0.25,0.75,0.0,41
+2,Bronx,weeping willow,1or2,8,7,1,0,0.875,0.125,0.0,41
+2,Bronx,weeping willow,None,19,18,1,0,0.9474,0.0526,0.0,41
+3,Brooklyn,weeping willow,1or2,16,13,2,1,0.8125,0.125,0.0625,41
+3,Brooklyn,weeping willow,None,39,31,6,2,0.7949,0.1538,0.0513,41
+4,Queens,weeping willow,1or2,18,14,4,0,0.7778,0.2222,0.0,41
+4,Queens,weeping willow,3or4,5,5,0,0,1.0,0.0,0.0,41
+4,Queens,weeping willow,None,110,79,24,7,0.7182,0.2182,0.0636,41
+5,Staten Island,weeping willow,1or2,9,8,1,0,0.8889,0.1111,0.0,41
+5,Staten Island,weeping willow,3or4,3,3,0,0,1.0,0.0,0.0,41
+5,Staten Island,weeping willow,None,43,32,8,3,0.7442,0.186,0.0698,41
+1,Manhattan,white pine,1or2,1,0,1,0,0.0,1.0,0.0,42
+2,Bronx,white pine,1or2,2,1,1,0,0.5,0.5,0.0,42
+2,Bronx,white pine,3or4,1,1,0,0,1.0,0.0,0.0,42
+2,Bronx,white pine,None,14,12,2,0,0.8571,0.1429,0.0,42
+3,Brooklyn,white pine,None,30,21,8,1,0.7,0.2667,0.0333,42
+3,Brooklyn,white pine,1or2,7,5,0,2,0.7143,0.0,0.2857,42
+4,Queens,white pine,None,63,44,13,6,0.6984,0.2063,0.0952,42
+4,Queens,white pine,4orMore,8,4,3,1,0.5,0.375,0.125,42
+4,Queens,white pine,1or2,29,25,4,0,0.8621,0.1379,0.0,42
+5,Staten Island,white pine,3or4,3,3,0,0,1.0,0.0,0.0,42
+5,Staten Island,white pine,1or2,20,17,2,1,0.85,0.1,0.05,42
+5,Staten Island,white pine,None,24,22,2,0,0.9167,0.0833,0.0,42
+1,Manhattan,Chinese fringetree,None,5,4,1,0,0.8,0.2,0.0,43
+1,Manhattan,Chinese fringetree,1or2,1,0,0,1,0.0,0.0,1.0,43
+1,Manhattan,Chinese fringetree,3or4,3,3,0,0,1.0,0.0,0.0,43
+2,Bronx,Chinese fringetree,None,24,22,0,2,0.9167,0.0,0.0833,43
+2,Bronx,Chinese fringetree,1or2,6,6,0,0,1.0,0.0,0.0,43
+2,Bronx,Chinese fringetree,3or4,1,1,0,0,1.0,0.0,0.0,43
+3,Brooklyn,Chinese fringetree,None,33,25,7,1,0.7576,0.2121,0.0303,43
+3,Brooklyn,Chinese fringetree,1or2,19,14,5,0,0.7368,0.2632,0.0,43
+3,Brooklyn,Chinese fringetree,4orMore,1,1,0,0,1.0,0.0,0.0,43
+4,Queens,Chinese fringetree,1or2,48,44,2,2,0.9167,0.0417,0.0417,43
+4,Queens,Chinese fringetree,3or4,2,2,0,0,1.0,0.0,0.0,43
+4,Queens,Chinese fringetree,None,43,38,5,0,0.8837,0.1163,0.0,43
+5,Staten Island,Chinese fringetree,1or2,12,10,2,0,0.8333,0.1667,0.0,43
+5,Staten Island,Chinese fringetree,None,36,33,3,0,0.9167,0.0833,0.0,43
+1,Manhattan,purple-leaf plum,None,63,51,9,3,0.8095,0.1429,0.0476,44
+1,Manhattan,purple-leaf plum,1or2,39,23,12,4,0.5897,0.3077,0.1026,44
+1,Manhattan,purple-leaf plum,3or4,8,7,1,0,0.875,0.125,0.0,44
+2,Bronx,purple-leaf plum,None,564,471,58,35,0.8351,0.1028,0.0621,44
+2,Bronx,purple-leaf plum,3or4,18,15,3,0,0.8333,0.1667,0.0,44
+2,Bronx,purple-leaf plum,1or2,192,149,34,9,0.776,0.1771,0.0469,44
+3,Brooklyn,purple-leaf plum,4orMore,3,1,2,0,0.3333,0.6667,0.0,44
+3,Brooklyn,purple-leaf plum,1or2,412,300,89,23,0.7282,0.216,0.0558,44
+3,Brooklyn,purple-leaf plum,3or4,41,36,5,0,0.878,0.122,0.0,44
+3,Brooklyn,purple-leaf plum,None,742,547,159,36,0.7372,0.2143,0.0485,44
+4,Queens,purple-leaf plum,3or4,83,72,9,2,0.8675,0.1084,0.0241,44
+4,Queens,purple-leaf plum,None,2020,1623,291,106,0.8035,0.1441,0.0525,44
+4,Queens,purple-leaf plum,1or2,918,731,145,42,0.7963,0.158,0.0458,44
+4,Queens,purple-leaf plum,4orMore,14,14,0,0,1.0,0.0,0.0,44
+5,Staten Island,purple-leaf plum,4orMore,4,4,0,0,1.0,0.0,0.0,44
+5,Staten Island,purple-leaf plum,3or4,52,49,1,2,0.9423,0.0192,0.0385,44
+5,Staten Island,purple-leaf plum,None,1187,940,187,60,0.7919,0.1575,0.0505,44
+5,Staten Island,purple-leaf plum,1or2,519,412,87,20,0.7938,0.1676,0.0385,44
+1,Manhattan,paperbark maple,1or2,8,2,4,2,0.25,0.5,0.25,45
+1,Manhattan,paperbark maple,3or4,1,0,0,1,0.0,0.0,1.0,45
+1,Manhattan,paperbark maple,None,5,1,3,1,0.2,0.6,0.2,45
+1,Manhattan,paperbark maple,4orMore,1,1,0,0,1.0,0.0,0.0,45
+2,Bronx,paperbark maple,None,32,25,7,0,0.7812,0.2188,0.0,45
+2,Bronx,paperbark maple,1or2,3,3,0,0,1.0,0.0,0.0,45
+3,Brooklyn,paperbark maple,None,41,30,7,4,0.7317,0.1707,0.0976,45
+3,Brooklyn,paperbark maple,1or2,14,8,5,1,0.5714,0.3571,0.0714,45
+3,Brooklyn,paperbark maple,3or4,4,3,1,0,0.75,0.25,0.0,45
+4,Queens,paperbark maple,1or2,27,20,4,3,0.7407,0.1481,0.1111,45
+4,Queens,paperbark maple,None,42,30,8,4,0.7143,0.1905,0.0952,45
+4,Queens,paperbark maple,3or4,4,2,2,0,0.5,0.5,0.0,45
+5,Staten Island,paperbark maple,None,25,24,0,1,0.96,0.0,0.04,45
+5,Staten Island,paperbark maple,3or4,1,0,1,0,0.0,1.0,0.0,45
+5,Staten Island,paperbark maple,1or2,12,9,2,1,0.75,0.1667,0.0833,45
+1,Manhattan,red horse chestnut,1or2,1,1,0,0,1.0,0.0,0.0,46
+2,Bronx,red horse chestnut,1or2,2,2,0,0,1.0,0.0,0.0,46
+2,Bronx,red horse chestnut,None,10,8,2,0,0.8,0.2,0.0,46
+3,Brooklyn,red horse chestnut,None,16,8,6,2,0.5,0.375,0.125,46
+3,Brooklyn,red horse chestnut,3or4,2,1,0,1,0.5,0.0,0.5,46
+3,Brooklyn,red horse chestnut,1or2,3,2,1,0,0.6667,0.3333,0.0,46
+4,Queens,red horse chestnut,1or2,11,11,0,0,1.0,0.0,0.0,46
+4,Queens,red horse chestnut,None,43,40,3,0,0.9302,0.0698,0.0,46
+4,Queens,red horse chestnut,3or4,4,3,1,0,0.75,0.25,0.0,46
+5,Staten Island,red horse chestnut,None,21,19,1,1,0.9048,0.0476,0.0476,46
+5,Staten Island,red horse chestnut,1or2,3,2,0,1,0.6667,0.0,0.3333,46
+1,Manhattan,northern red oak,None,603,427,143,33,0.7081,0.2371,0.0547,47
+1,Manhattan,northern red oak,3or4,142,109,30,3,0.7676,0.2113,0.0211,47
+1,Manhattan,northern red oak,1or2,389,275,93,21,0.7069,0.2391,0.054,47
+1,Manhattan,northern red oak,4orMore,9,9,0,0,1.0,0.0,0.0,47
+2,Bronx,northern red oak,1or2,239,194,33,12,0.8117,0.1381,0.0502,47
+2,Bronx,northern red oak,4orMore,1,1,0,0,1.0,0.0,0.0,47
+2,Bronx,northern red oak,None,1212,1000,181,31,0.8251,0.1493,0.0256,47
+2,Bronx,northern red oak,3or4,31,22,7,2,0.7097,0.2258,0.0645,47
+3,Brooklyn,northern red oak,3or4,86,71,14,1,0.8256,0.1628,0.0116,47
+3,Brooklyn,northern red oak,4orMore,5,5,0,0,1.0,0.0,0.0,47
+3,Brooklyn,northern red oak,1or2,685,564,99,22,0.8234,0.1445,0.0321,47
+3,Brooklyn,northern red oak,None,1692,1328,296,68,0.7849,0.1749,0.0402,47
+4,Queens,northern red oak,None,2211,1905,261,45,0.8616,0.118,0.0204,47
+4,Queens,northern red oak,4orMore,2,2,0,0,1.0,0.0,0.0,47
+4,Queens,northern red oak,3or4,22,20,2,0,0.9091,0.0909,0.0,47
+4,Queens,northern red oak,1or2,462,406,42,14,0.8788,0.0909,0.0303,47
+5,Staten Island,northern red oak,None,516,408,87,21,0.7907,0.1686,0.0407,47
+5,Staten Island,northern red oak,3or4,1,1,0,0,1.0,0.0,0.0,47
+5,Staten Island,northern red oak,1or2,92,70,21,1,0.7609,0.2283,0.0109,47
+1,Manhattan,crimson king maple,None,1,0,0,1,0.0,0.0,1.0,48
+1,Manhattan,crimson king maple,1or2,5,1,2,2,0.2,0.4,0.4,48
+2,Bronx,crimson king maple,3or4,2,1,1,0,0.5,0.5,0.0,48
+2,Bronx,crimson king maple,1or2,19,10,3,6,0.5263,0.1579,0.3158,48
+2,Bronx,crimson king maple,None,174,116,40,18,0.6667,0.2299,0.1034,48
+3,Brooklyn,crimson king maple,4orMore,2,2,0,0,1.0,0.0,0.0,48
+3,Brooklyn,crimson king maple,1or2,276,198,49,29,0.7174,0.1775,0.1051,48
+3,Brooklyn,crimson king maple,None,702,463,152,87,0.6595,0.2165,0.1239,48
+3,Brooklyn,crimson king maple,3or4,19,11,5,3,0.5789,0.2632,0.1579,48
+4,Queens,crimson king maple,None,2553,1920,496,137,0.7521,0.1943,0.0537,48
+4,Queens,crimson king maple,1or2,328,235,72,21,0.7165,0.2195,0.064,48
+4,Queens,crimson king maple,4orMore,2,1,1,0,0.5,0.5,0.0,48
+4,Queens,crimson king maple,3or4,20,15,5,0,0.75,0.25,0.0,48
+5,Staten Island,crimson king maple,1or2,335,244,55,36,0.7284,0.1642,0.1075,48
+5,Staten Island,crimson king maple,3or4,29,24,5,0,0.8276,0.1724,0.0,48
+5,Staten Island,crimson king maple,None,1452,1091,251,110,0.7514,0.1729,0.0758,48
+5,Staten Island,crimson king maple,4orMore,4,4,0,0,1.0,0.0,0.0,48
+1,Manhattan,Unknown,Unknown,2995,0,0,0,0.0,0.0,0.0,49
+2,Bronx,Unknown,1or2,1,1,0,0,1.0,0.0,0.0,49
+2,Bronx,Unknown,Unknown,4618,0,0,0,0.0,0.0,0.0,49
+3,Brooklyn,Unknown,Unknown,7549,0,0,0,0.0,0.0,0.0,49
+4,Queens,Unknown,None,2,1,0,1,0.5,0.0,0.5,49
+4,Queens,Unknown,1or2,2,2,0,0,1.0,0.0,0.0,49
+4,Queens,Unknown,Unknown,12577,0,0,0,0.0,0.0,0.0,49
+5,Staten Island,Unknown,Unknown,3875,0,0,0,0.0,0.0,0.0,49
+1,Manhattan,Ohio buckeye,None,8,6,2,0,0.75,0.25,0.0,50
+1,Manhattan,Ohio buckeye,1or2,16,11,5,0,0.6875,0.3125,0.0,50
+2,Bronx,Ohio buckeye,1or2,2,1,1,0,0.5,0.5,0.0,50
+2,Bronx,Ohio buckeye,None,4,1,1,2,0.25,0.25,0.5,50
+3,Brooklyn,Ohio buckeye,None,12,10,2,0,0.8333,0.1667,0.0,50
+3,Brooklyn,Ohio buckeye,1or2,9,4,2,3,0.4444,0.2222,0.3333,50
+4,Queens,Ohio buckeye,None,19,15,1,3,0.7895,0.0526,0.1579,50
+5,Staten Island,Ohio buckeye,3or4,1,1,0,0,1.0,0.0,0.0,50
+5,Staten Island,Ohio buckeye,1or2,2,2,0,0,1.0,0.0,0.0,50
+5,Staten Island,Ohio buckeye,None,2,1,1,0,0.5,0.5,0.0,50
+1,Manhattan,Sophora,4orMore,58,49,6,3,0.8448,0.1034,0.0517,51
+1,Manhattan,Sophora,3or4,596,484,94,18,0.8121,0.1577,0.0302,51
+1,Manhattan,Sophora,1or2,1743,1415,254,74,0.8118,0.1457,0.0425,51
+1,Manhattan,Sophora,None,2056,1606,359,91,0.7811,0.1746,0.0443,51
+2,Bronx,Sophora,1or2,487,407,68,12,0.8357,0.1396,0.0246,51
+2,Bronx,Sophora,None,2042,1729,246,67,0.8467,0.1205,0.0328,51
+2,Bronx,Sophora,3or4,24,17,5,2,0.7083,0.2083,0.0833,51
+2,Bronx,Sophora,4orMore,2,2,0,0,1.0,0.0,0.0,51
+3,Brooklyn,Sophora,3or4,317,288,24,5,0.9085,0.0757,0.0158,51
+3,Brooklyn,Sophora,None,3862,3235,519,108,0.8376,0.1344,0.028,51
+3,Brooklyn,Sophora,1or2,1796,1499,266,31,0.8346,0.1481,0.0173,51
+3,Brooklyn,Sophora,4orMore,14,12,2,0,0.8571,0.1429,0.0,51
+4,Queens,Sophora,1or2,1211,956,212,43,0.7894,0.1751,0.0355,51
+4,Queens,Sophora,4orMore,9,9,0,0,1.0,0.0,0.0,51
+4,Queens,Sophora,3or4,81,67,12,2,0.8272,0.1481,0.0247,51
+4,Queens,Sophora,None,4085,3318,655,112,0.8122,0.1603,0.0274,51
+5,Staten Island,Sophora,3or4,5,5,0,0,1.0,0.0,0.0,51
+5,Staten Island,Sophora,4orMore,2,1,1,0,0.5,0.5,0.0,51
+5,Staten Island,Sophora,1or2,149,122,23,4,0.8188,0.1544,0.0268,51
+5,Staten Island,Sophora,None,799,611,144,44,0.7647,0.1802,0.0551,51
+1,Manhattan,mimosa,3or4,1,1,0,0,1.0,0.0,0.0,52
+1,Manhattan,mimosa,1or2,6,6,0,0,1.0,0.0,0.0,52
+1,Manhattan,mimosa,None,5,1,4,0,0.2,0.8,0.0,52
+2,Bronx,mimosa,1or2,6,5,0,1,0.8333,0.0,0.1667,52
+2,Bronx,mimosa,None,11,8,3,0,0.7273,0.2727,0.0,52
+3,Brooklyn,mimosa,3or4,10,8,1,1,0.8,0.1,0.1,52
+3,Brooklyn,mimosa,None,59,46,10,3,0.7797,0.1695,0.0508,52
+3,Brooklyn,mimosa,1or2,15,11,4,0,0.7333,0.2667,0.0,52
+3,Brooklyn,mimosa,4orMore,1,1,0,0,1.0,0.0,0.0,52
+4,Queens,mimosa,3or4,2,2,0,0,1.0,0.0,0.0,52
+4,Queens,mimosa,1or2,6,5,0,1,0.8333,0.0,0.1667,52
+4,Queens,mimosa,None,32,30,2,0,0.9375,0.0625,0.0,52
+5,Staten Island,mimosa,1or2,4,3,1,0,0.75,0.25,0.0,52
+5,Staten Island,mimosa,None,5,3,2,0,0.6,0.4,0.0,52
+1,Manhattan,Amur cork tree,1or2,1,1,0,0,1.0,0.0,0.0,53
+1,Manhattan,Amur cork tree,3or4,4,3,1,0,0.75,0.25,0.0,53
+1,Manhattan,Amur cork tree,None,3,3,0,0,1.0,0.0,0.0,53
+2,Bronx,Amur cork tree,1or2,9,8,1,0,0.8889,0.1111,0.0,53
+2,Bronx,Amur cork tree,None,23,17,4,2,0.7391,0.1739,0.087,53
+3,Brooklyn,Amur cork tree,4orMore,1,1,0,0,1.0,0.0,0.0,53
+3,Brooklyn,Amur cork tree,3or4,2,1,1,0,0.5,0.5,0.0,53
+3,Brooklyn,Amur cork tree,None,34,23,7,4,0.6765,0.2059,0.1176,53
+3,Brooklyn,Amur cork tree,1or2,9,7,1,1,0.7778,0.1111,0.1111,53
+4,Queens,Amur cork tree,None,63,27,19,17,0.4286,0.3016,0.2698,53
+4,Queens,Amur cork tree,3or4,2,2,0,0,1.0,0.0,0.0,53
+4,Queens,Amur cork tree,1or2,6,5,1,0,0.8333,0.1667,0.0,53
+5,Staten Island,Amur cork tree,1or2,6,6,0,0,1.0,0.0,0.0,53
+5,Staten Island,Amur cork tree,None,20,17,3,0,0.85,0.15,0.0,53
+1,Manhattan,pitch pine,1or2,2,2,0,0,1.0,0.0,0.0,54
+1,Manhattan,pitch pine,None,3,3,0,0,1.0,0.0,0.0,54
+2,Bronx,pitch pine,None,3,3,0,0,1.0,0.0,0.0,54
+3,Brooklyn,pitch pine,None,8,8,0,0,1.0,0.0,0.0,54
+3,Brooklyn,pitch pine,3or4,1,1,0,0,1.0,0.0,0.0,54
+4,Queens,pitch pine,None,9,9,0,0,1.0,0.0,0.0,54
+4,Queens,pitch pine,1or2,1,1,0,0,1.0,0.0,0.0,54
+5,Staten Island,pitch pine,None,4,4,0,0,1.0,0.0,0.0,54
+5,Staten Island,pitch pine,4orMore,2,2,0,0,1.0,0.0,0.0,54
+1,Manhattan,black oak,4orMore,2,1,1,0,0.5,0.5,0.0,55
+1,Manhattan,black oak,3or4,29,26,2,1,0.8966,0.069,0.0345,55
+1,Manhattan,black oak,1or2,57,41,14,2,0.7193,0.2456,0.0351,55
+1,Manhattan,black oak,None,104,76,22,6,0.7308,0.2115,0.0577,55
+2,Bronx,black oak,None,183,151,26,6,0.8251,0.1421,0.0328,55
+2,Bronx,black oak,1or2,40,32,7,1,0.8,0.175,0.025,55
+2,Bronx,black oak,3or4,1,1,0,0,1.0,0.0,0.0,55
+3,Brooklyn,black oak,3or4,17,12,5,0,0.7059,0.2941,0.0,55
+3,Brooklyn,black oak,1or2,133,108,17,8,0.812,0.1278,0.0602,55
+3,Brooklyn,black oak,None,291,238,47,6,0.8179,0.1615,0.0206,55
+4,Queens,black oak,1or2,67,55,10,2,0.8209,0.1493,0.0299,55
+4,Queens,black oak,3or4,8,7,1,0,0.875,0.125,0.0,55
+4,Queens,black oak,None,297,262,26,9,0.8822,0.0875,0.0303,55
+5,Staten Island,black oak,1or2,28,21,7,0,0.75,0.25,0.0,55
+5,Staten Island,black oak,None,70,61,7,2,0.8714,0.1,0.0286,55
+1,Manhattan,Amur maple,3or4,6,3,3,0,0.5,0.5,0.0,56
+1,Manhattan,Amur maple,None,14,10,0,4,0.7143,0.0,0.2857,56
+1,Manhattan,Amur maple,1or2,10,6,4,0,0.6,0.4,0.0,56
+2,Bronx,Amur maple,None,347,280,52,15,0.8069,0.1499,0.0432,56
+2,Bronx,Amur maple,1or2,84,70,9,5,0.8333,0.1071,0.0595,56
+3,Brooklyn,Amur maple,None,162,121,29,12,0.7469,0.179,0.0741,56
+3,Brooklyn,Amur maple,3or4,6,5,1,0,0.8333,0.1667,0.0,56
+3,Brooklyn,Amur maple,1or2,95,70,19,6,0.7368,0.2,0.0632,56
+4,Queens,Amur maple,None,533,407,99,27,0.7636,0.1857,0.0507,56
+4,Queens,Amur maple,1or2,128,91,29,8,0.7109,0.2266,0.0625,56
+4,Queens,Amur maple,3or4,9,7,1,1,0.7778,0.1111,0.1111,56
+4,Queens,Amur maple,4orMore,1,0,1,0,0.0,1.0,0.0,56
+5,Staten Island,Amur maple,None,456,392,47,17,0.8596,0.1031,0.0373,56
+5,Staten Island,Amur maple,1or2,182,164,13,5,0.9011,0.0714,0.0275,56
+5,Staten Island,Amur maple,3or4,15,13,2,0,0.8667,0.1333,0.0,56
+5,Staten Island,Amur maple,4orMore,1,1,0,0,1.0,0.0,0.0,56
+1,Manhattan,bur oak,3or4,3,3,0,0,1.0,0.0,0.0,57
+1,Manhattan,bur oak,1or2,8,5,3,0,0.625,0.375,0.0,57
+1,Manhattan,bur oak,None,25,21,1,3,0.84,0.04,0.12,57
+2,Bronx,bur oak,1or2,23,18,4,1,0.7826,0.1739,0.0435,57
+2,Bronx,bur oak,None,56,41,11,4,0.7321,0.1964,0.0714,57
+2,Bronx,bur oak,3or4,1,1,0,0,1.0,0.0,0.0,57
+3,Brooklyn,bur oak,1or2,56,42,10,4,0.75,0.1786,0.0714,57
+3,Brooklyn,bur oak,4orMore,2,2,0,0,1.0,0.0,0.0,57
+3,Brooklyn,bur oak,None,94,73,15,6,0.7766,0.1596,0.0638,57
+3,Brooklyn,bur oak,3or4,6,5,1,0,0.8333,0.1667,0.0,57
+4,Queens,bur oak,3or4,5,3,2,0,0.6,0.4,0.0,57
+4,Queens,bur oak,None,110,87,18,5,0.7909,0.1636,0.0455,57
+4,Queens,bur oak,4orMore,1,1,0,0,1.0,0.0,0.0,57
+4,Queens,bur oak,1or2,54,36,15,3,0.6667,0.2778,0.0556,57
+5,Staten Island,bur oak,1or2,7,7,0,0,1.0,0.0,0.0,57
+5,Staten Island,bur oak,None,64,55,8,1,0.8594,0.125,0.0156,57
+1,Manhattan,common hackberry,1or2,62,44,14,4,0.7097,0.2258,0.0645,58
+1,Manhattan,common hackberry,4orMore,1,0,1,0,0.0,1.0,0.0,58
+1,Manhattan,common hackberry,3or4,9,4,2,3,0.4444,0.2222,0.3333,58
+1,Manhattan,common hackberry,None,98,60,23,15,0.6122,0.2347,0.1531,58
+2,Bronx,common hackberry,3or4,9,6,2,1,0.6667,0.2222,0.1111,58
+2,Bronx,common hackberry,None,642,507,107,28,0.7897,0.1667,0.0436,58
+2,Bronx,common hackberry,1or2,156,125,23,8,0.8013,0.1474,0.0513,58
+3,Brooklyn,common hackberry,3or4,16,13,3,0,0.8125,0.1875,0.0,58
+3,Brooklyn,common hackberry,1or2,182,151,22,9,0.8297,0.1209,0.0495,58
+3,Brooklyn,common hackberry,None,405,303,77,25,0.7481,0.1901,0.0617,58
+4,Queens,common hackberry,3or4,16,13,3,0,0.8125,0.1875,0.0,58
+4,Queens,common hackberry,1or2,147,119,18,10,0.8095,0.1224,0.068,58
+4,Queens,common hackberry,None,467,387,60,20,0.8287,0.1285,0.0428,58
+4,Queens,common hackberry,4orMore,1,0,1,0,0.0,1.0,0.0,58
+5,Staten Island,common hackberry,4orMore,1,1,0,0,1.0,0.0,0.0,58
+5,Staten Island,common hackberry,3or4,5,5,0,0,1.0,0.0,0.0,58
+5,Staten Island,common hackberry,None,132,93,33,6,0.7045,0.25,0.0455,58
+5,Staten Island,common hackberry,1or2,33,25,5,3,0.7576,0.1515,0.0909,58
+1,Manhattan,Japanese hornbeam,None,23,15,5,3,0.6522,0.2174,0.1304,59
+1,Manhattan,Japanese hornbeam,3or4,4,4,0,0,1.0,0.0,0.0,59
+1,Manhattan,Japanese hornbeam,1or2,35,28,5,2,0.8,0.1429,0.0571,59
+2,Bronx,Japanese hornbeam,3or4,1,0,1,0,0.0,1.0,0.0,59
+2,Bronx,Japanese hornbeam,None,39,32,4,3,0.8205,0.1026,0.0769,59
+2,Bronx,Japanese hornbeam,1or2,34,30,3,1,0.8824,0.0882,0.0294,59
+3,Brooklyn,Japanese hornbeam,None,73,57,9,7,0.7808,0.1233,0.0959,59
+3,Brooklyn,Japanese hornbeam,1or2,67,47,14,6,0.7015,0.209,0.0896,59
+3,Brooklyn,Japanese hornbeam,3or4,9,8,0,1,0.8889,0.0,0.1111,59
+4,Queens,Japanese hornbeam,3or4,1,1,0,0,1.0,0.0,0.0,59
+4,Queens,Japanese hornbeam,None,56,43,12,1,0.7679,0.2143,0.0179,59
+4,Queens,Japanese hornbeam,1or2,40,36,4,0,0.9,0.1,0.0,59
+5,Staten Island,Japanese hornbeam,3or4,2,2,0,0,1.0,0.0,0.0,59
+5,Staten Island,Japanese hornbeam,1or2,8,5,2,1,0.625,0.25,0.125,59
+5,Staten Island,Japanese hornbeam,None,34,30,3,1,0.8824,0.0882,0.0294,59
+1,Manhattan,black locust,3or4,30,22,8,0,0.7333,0.2667,0.0,60
+1,Manhattan,black locust,None,123,97,24,2,0.7886,0.1951,0.0163,60
+1,Manhattan,black locust,1or2,106,82,20,4,0.7736,0.1887,0.0377,60
+2,Bronx,black locust,None,303,244,49,10,0.8053,0.1617,0.033,60
+2,Bronx,black locust,4orMore,2,2,0,0,1.0,0.0,0.0,60
+2,Bronx,black locust,1or2,42,35,7,0,0.8333,0.1667,0.0,60
+2,Bronx,black locust,3or4,7,5,1,1,0.7143,0.1429,0.1429,60
+3,Brooklyn,black locust,3or4,22,19,3,0,0.8636,0.1364,0.0,60
+3,Brooklyn,black locust,1or2,128,101,26,1,0.7891,0.2031,0.0078,60
+3,Brooklyn,black locust,4orMore,1,1,0,0,1.0,0.0,0.0,60
+3,Brooklyn,black locust,None,290,221,62,7,0.7621,0.2138,0.0241,60
+4,Queens,black locust,1or2,65,43,18,4,0.6615,0.2769,0.0615,60
+4,Queens,black locust,None,422,336,73,13,0.7962,0.173,0.0308,60
+4,Queens,black locust,3or4,3,2,1,0,0.6667,0.3333,0.0,60
+5,Staten Island,black locust,None,211,155,47,9,0.7346,0.2227,0.0427,60
+5,Staten Island,black locust,1or2,26,22,2,2,0.8462,0.0769,0.0769,60
+5,Staten Island,black locust,3or4,3,2,1,0,0.6667,0.3333,0.0,60
+1,Manhattan,hardy rubber tree,None,31,25,2,4,0.8065,0.0645,0.129,61
+1,Manhattan,hardy rubber tree,1or2,28,16,8,4,0.5714,0.2857,0.1429,61
+1,Manhattan,hardy rubber tree,3or4,7,6,1,0,0.8571,0.1429,0.0,61
+2,Bronx,hardy rubber tree,None,69,52,14,3,0.7536,0.2029,0.0435,61
+2,Bronx,hardy rubber tree,1or2,31,28,3,0,0.9032,0.0968,0.0,61
+2,Bronx,hardy rubber tree,3or4,1,1,0,0,1.0,0.0,0.0,61
+3,Brooklyn,hardy rubber tree,4orMore,2,2,0,0,1.0,0.0,0.0,61
+3,Brooklyn,hardy rubber tree,3or4,28,24,4,0,0.8571,0.1429,0.0,61
+3,Brooklyn,hardy rubber tree,1or2,154,133,15,6,0.8636,0.0974,0.039,61
+3,Brooklyn,hardy rubber tree,None,193,163,17,13,0.8446,0.0881,0.0674,61
+4,Queens,hardy rubber tree,None,166,132,20,14,0.7952,0.1205,0.0843,61
+4,Queens,hardy rubber tree,1or2,105,72,19,14,0.6857,0.181,0.1333,61
+4,Queens,hardy rubber tree,3or4,6,4,1,1,0.6667,0.1667,0.1667,61
+4,Queens,hardy rubber tree,4orMore,1,1,0,0,1.0,0.0,0.0,61
+5,Staten Island,hardy rubber tree,None,55,48,5,2,0.8727,0.0909,0.0364,61
+5,Staten Island,hardy rubber tree,1or2,38,33,4,1,0.8684,0.1053,0.0263,61
+1,Manhattan,horse chestnut,None,8,3,3,2,0.375,0.375,0.25,62
+1,Manhattan,horse chestnut,3or4,3,2,1,0,0.6667,0.3333,0.0,62
+2,Bronx,horse chestnut,3or4,4,3,0,1,0.75,0.0,0.25,62
+2,Bronx,horse chestnut,None,62,37,18,7,0.5968,0.2903,0.1129,62
+2,Bronx,horse chestnut,1or2,36,26,5,5,0.7222,0.1389,0.1389,62
+3,Brooklyn,horse chestnut,1or2,94,65,21,8,0.6915,0.2234,0.0851,62
+3,Brooklyn,horse chestnut,3or4,6,5,1,0,0.8333,0.1667,0.0,62
+3,Brooklyn,horse chestnut,None,123,76,28,19,0.6179,0.2276,0.1545,62
+4,Queens,horse chestnut,1or2,71,54,12,5,0.7606,0.169,0.0704,62
+4,Queens,horse chestnut,None,497,370,95,32,0.7445,0.1911,0.0644,62
+4,Queens,horse chestnut,3or4,5,4,1,0,0.8,0.2,0.0,62
+4,Queens,horse chestnut,4orMore,1,1,0,0,1.0,0.0,0.0,62
+5,Staten Island,horse chestnut,None,155,120,24,11,0.7742,0.1548,0.071,62
+5,Staten Island,horse chestnut,3or4,1,0,1,0,0.0,1.0,0.0,62
+5,Staten Island,horse chestnut,1or2,30,22,5,3,0.7333,0.1667,0.1,62
+1,Manhattan,serviceberry,3or4,5,4,0,1,0.8,0.0,0.2,63
+1,Manhattan,serviceberry,1or2,18,15,1,2,0.8333,0.0556,0.1111,63
+1,Manhattan,serviceberry,None,15,11,2,2,0.7333,0.1333,0.1333,63
+2,Bronx,serviceberry,3or4,17,8,7,2,0.4706,0.4118,0.1176,63
+2,Bronx,serviceberry,None,203,176,17,10,0.867,0.0837,0.0493,63
+2,Bronx,serviceberry,1or2,87,73,9,5,0.8391,0.1034,0.0575,63
+3,Brooklyn,serviceberry,4orMore,4,3,0,1,0.75,0.0,0.25,63
+3,Brooklyn,serviceberry,3or4,46,38,6,2,0.8261,0.1304,0.0435,63
+3,Brooklyn,serviceberry,1or2,122,89,25,8,0.7295,0.2049,0.0656,63
+3,Brooklyn,serviceberry,None,191,133,46,12,0.6963,0.2408,0.0628,63
+4,Queens,serviceberry,4orMore,2,2,0,0,1.0,0.0,0.0,63
+4,Queens,serviceberry,None,503,420,61,22,0.835,0.1213,0.0437,63
+4,Queens,serviceberry,3or4,23,20,1,2,0.8696,0.0435,0.087,63
+4,Queens,serviceberry,1or2,360,273,48,39,0.7583,0.1333,0.1083,63
+5,Staten Island,serviceberry,None,335,272,42,21,0.8119,0.1254,0.0627,63
+5,Staten Island,serviceberry,1or2,94,82,8,4,0.8723,0.0851,0.0426,63
+5,Staten Island,serviceberry,3or4,7,7,0,0,1.0,0.0,0.0,63
+1,Manhattan,pin oak,1or2,1494,1222,236,36,0.8179,0.158,0.0241,64
+1,Manhattan,pin oak,None,2673,2170,416,87,0.8118,0.1556,0.0325,64
+1,Manhattan,pin oak,4orMore,28,26,2,0,0.9286,0.0714,0.0,64
+1,Manhattan,pin oak,3or4,389,313,65,11,0.8046,0.1671,0.0283,64
+2,Bronx,pin oak,None,5510,4811,578,121,0.8731,0.1049,0.022,64
+2,Bronx,pin oak,1or2,897,783,98,16,0.8729,0.1093,0.0178,64
+2,Bronx,pin oak,4orMore,3,2,0,1,0.6667,0.0,0.3333,64
+2,Bronx,pin oak,3or4,35,30,3,2,0.8571,0.0857,0.0571,64
+3,Brooklyn,pin oak,1or2,2937,2548,327,62,0.8676,0.1113,0.0211,64
+3,Brooklyn,pin oak,None,8957,7585,1142,230,0.8468,0.1275,0.0257,64
+3,Brooklyn,pin oak,3or4,395,349,44,2,0.8835,0.1114,0.0051,64
+3,Brooklyn,pin oak,4orMore,54,49,5,0,0.9074,0.0926,0.0,64
+4,Queens,pin oak,4orMore,17,15,2,0,0.8824,0.1176,0.0,64
+4,Queens,pin oak,1or2,2846,2383,404,59,0.8373,0.142,0.0207,64
+4,Queens,pin oak,None,19575,16953,2184,438,0.8661,0.1116,0.0224,64
+4,Queens,pin oak,3or4,172,148,20,4,0.8605,0.1163,0.0233,64
+5,Staten Island,pin oak,4orMore,4,3,0,1,0.75,0.0,0.25,64
+5,Staten Island,pin oak,None,6374,5467,767,140,0.8577,0.1203,0.022,64
+5,Staten Island,pin oak,3or4,45,43,2,0,0.9556,0.0444,0.0,64
+5,Staten Island,pin oak,1or2,780,656,99,25,0.841,0.1269,0.0321,64
+1,Manhattan,Cornelian cherry,3or4,5,4,1,0,0.8,0.2,0.0,65
+1,Manhattan,Cornelian cherry,1or2,6,5,1,0,0.8333,0.1667,0.0,65
+1,Manhattan,Cornelian cherry,4orMore,2,2,0,0,1.0,0.0,0.0,65
+1,Manhattan,Cornelian cherry,None,14,10,3,1,0.7143,0.2143,0.0714,65
+2,Bronx,Cornelian cherry,3or4,3,3,0,0,1.0,0.0,0.0,65
+2,Bronx,Cornelian cherry,None,129,120,5,4,0.9302,0.0388,0.031,65
+2,Bronx,Cornelian cherry,1or2,38,31,3,4,0.8158,0.0789,0.1053,65
+3,Brooklyn,Cornelian cherry,1or2,106,77,25,4,0.7264,0.2358,0.0377,65
+3,Brooklyn,Cornelian cherry,3or4,14,11,3,0,0.7857,0.2143,0.0,65
+3,Brooklyn,Cornelian cherry,4orMore,18,11,7,0,0.6111,0.3889,0.0,65
+3,Brooklyn,Cornelian cherry,None,113,84,17,12,0.7434,0.1504,0.1062,65
+4,Queens,Cornelian cherry,None,206,166,32,8,0.8058,0.1553,0.0388,65
+4,Queens,Cornelian cherry,3or4,14,11,3,0,0.7857,0.2143,0.0,65
+4,Queens,Cornelian cherry,1or2,107,82,20,5,0.7664,0.1869,0.0467,65
+5,Staten Island,Cornelian cherry,3or4,2,2,0,0,1.0,0.0,0.0,65
+5,Staten Island,Cornelian cherry,1or2,63,54,8,1,0.8571,0.127,0.0159,65
+5,Staten Island,Cornelian cherry,None,226,208,9,9,0.9204,0.0398,0.0398,65
+1,Manhattan,dawn redwood,1or2,71,41,17,13,0.5775,0.2394,0.1831,66
+1,Manhattan,dawn redwood,3or4,17,8,2,7,0.4706,0.1176,0.4118,66
+1,Manhattan,dawn redwood,None,110,72,26,12,0.6545,0.2364,0.1091,66
+1,Manhattan,dawn redwood,4orMore,1,0,1,0,0.0,1.0,0.0,66
+2,Bronx,dawn redwood,3or4,2,2,0,0,1.0,0.0,0.0,66
+2,Bronx,dawn redwood,1or2,170,132,15,23,0.7765,0.0882,0.1353,66
+2,Bronx,dawn redwood,None,224,149,54,21,0.6652,0.2411,0.0938,66
+3,Brooklyn,dawn redwood,1or2,406,315,63,28,0.7759,0.1552,0.069,66
+3,Brooklyn,dawn redwood,3or4,42,33,6,3,0.7857,0.1429,0.0714,66
+3,Brooklyn,dawn redwood,4orMore,10,9,1,0,0.9,0.1,0.0,66
+3,Brooklyn,dawn redwood,None,672,531,98,43,0.7902,0.1458,0.064,66
+4,Queens,dawn redwood,None,554,503,39,12,0.9079,0.0704,0.0217,66
+4,Queens,dawn redwood,4orMore,3,3,0,0,1.0,0.0,0.0,66
+4,Queens,dawn redwood,1or2,293,261,25,7,0.8908,0.0853,0.0239,66
+4,Queens,dawn redwood,3or4,24,20,3,1,0.8333,0.125,0.0417,66
+5,Staten Island,dawn redwood,3or4,7,7,0,0,1.0,0.0,0.0,66
+5,Staten Island,dawn redwood,None,324,262,37,25,0.8086,0.1142,0.0772,66
+5,Staten Island,dawn redwood,1or2,90,78,8,4,0.8667,0.0889,0.0444,66
+1,Manhattan,Amur maackia,None,32,27,3,2,0.8438,0.0938,0.0625,67
+1,Manhattan,Amur maackia,1or2,25,18,6,1,0.72,0.24,0.04,67
+1,Manhattan,Amur maackia,3or4,2,1,1,0,0.5,0.5,0.0,67
+2,Bronx,Amur maackia,4orMore,1,1,0,0,1.0,0.0,0.0,67
+2,Bronx,Amur maackia,1or2,102,80,16,6,0.7843,0.1569,0.0588,67
+2,Bronx,Amur maackia,3or4,14,11,2,1,0.7857,0.1429,0.0714,67
+2,Bronx,Amur maackia,None,349,287,44,18,0.8223,0.1261,0.0516,67
+3,Brooklyn,Amur maackia,1or2,247,193,41,13,0.7814,0.166,0.0526,67
+3,Brooklyn,Amur maackia,None,445,353,59,33,0.7933,0.1326,0.0742,67
+3,Brooklyn,Amur maackia,4orMore,1,1,0,0,1.0,0.0,0.0,67
+3,Brooklyn,Amur maackia,3or4,36,31,4,1,0.8611,0.1111,0.0278,67
+4,Queens,Amur maackia,3or4,13,11,2,0,0.8462,0.1538,0.0,67
+4,Queens,Amur maackia,4orMore,1,1,0,0,1.0,0.0,0.0,67
+4,Queens,Amur maackia,1or2,182,160,18,4,0.8791,0.0989,0.022,67
+4,Queens,Amur maackia,None,479,417,48,14,0.8706,0.1002,0.0292,67
+5,Staten Island,Amur maackia,3or4,6,6,0,0,1.0,0.0,0.0,67
+5,Staten Island,Amur maackia,None,197,167,26,4,0.8477,0.132,0.0203,67
+5,Staten Island,Amur maackia,1or2,65,46,11,8,0.7077,0.1692,0.1231,67
+1,Manhattan,flowering dogwood,None,26,20,5,1,0.7692,0.1923,0.0385,68
+1,Manhattan,flowering dogwood,3or4,20,7,12,1,0.35,0.6,0.05,68
+1,Manhattan,flowering dogwood,1or2,18,10,7,1,0.5556,0.3889,0.0556,68
+1,Manhattan,flowering dogwood,4orMore,1,0,1,0,0.0,1.0,0.0,68
+2,Bronx,flowering dogwood,None,97,83,13,1,0.8557,0.134,0.0103,68
+2,Bronx,flowering dogwood,3or4,5,4,0,1,0.8,0.0,0.2,68
+2,Bronx,flowering dogwood,4orMore,2,2,0,0,1.0,0.0,0.0,68
+2,Bronx,flowering dogwood,1or2,46,35,9,2,0.7609,0.1957,0.0435,68
+3,Brooklyn,flowering dogwood,1or2,111,84,20,7,0.7568,0.1802,0.0631,68
+3,Brooklyn,flowering dogwood,3or4,18,15,3,0,0.8333,0.1667,0.0,68
+3,Brooklyn,flowering dogwood,None,231,177,34,20,0.7662,0.1472,0.0866,68
+4,Queens,flowering dogwood,3or4,30,27,2,1,0.9,0.0667,0.0333,68
+4,Queens,flowering dogwood,None,440,323,80,37,0.7341,0.1818,0.0841,68
+4,Queens,flowering dogwood,1or2,212,162,42,8,0.7642,0.1981,0.0377,68
+4,Queens,flowering dogwood,4orMore,2,1,1,0,0.5,0.5,0.0,68
+5,Staten Island,flowering dogwood,None,203,158,32,13,0.7783,0.1576,0.064,68
+5,Staten Island,flowering dogwood,1or2,84,69,12,3,0.8214,0.1429,0.0357,68
+5,Staten Island,flowering dogwood,3or4,5,5,0,0,1.0,0.0,0.0,68
+5,Staten Island,flowering dogwood,4orMore,1,1,0,0,1.0,0.0,0.0,68
+1,Manhattan,southern red oak,1or2,3,3,0,0,1.0,0.0,0.0,69
+1,Manhattan,southern red oak,None,3,2,1,0,0.6667,0.3333,0.0,69
+1,Manhattan,southern red oak,3or4,1,1,0,0,1.0,0.0,0.0,69
+2,Bronx,southern red oak,1or2,5,4,0,1,0.8,0.0,0.2,69
+2,Bronx,southern red oak,None,6,6,0,0,1.0,0.0,0.0,69
+3,Brooklyn,southern red oak,None,16,14,2,0,0.875,0.125,0.0,69
+3,Brooklyn,southern red oak,1or2,4,4,0,0,1.0,0.0,0.0,69
+4,Queens,southern red oak,None,19,14,4,1,0.7368,0.2105,0.0526,69
+4,Queens,southern red oak,1or2,5,5,0,0,1.0,0.0,0.0,69
+4,Queens,southern red oak,3or4,3,2,0,1,0.6667,0.0,0.3333,69
+5,Staten Island,southern red oak,None,15,9,6,0,0.6,0.4,0.0,69
+5,Staten Island,southern red oak,3or4,1,0,1,0,0.0,1.0,0.0,69
+5,Staten Island,southern red oak,1or2,2,2,0,0,1.0,0.0,0.0,69
+1,Manhattan,katsura tree,None,18,12,3,3,0.6667,0.1667,0.1667,70
+1,Manhattan,katsura tree,1or2,17,7,7,3,0.4118,0.4118,0.1765,70
+1,Manhattan,katsura tree,3or4,3,1,1,1,0.3333,0.3333,0.3333,70
+2,Bronx,katsura tree,None,96,54,26,16,0.5625,0.2708,0.1667,70
+2,Bronx,katsura tree,1or2,48,26,14,8,0.5417,0.2917,0.1667,70
+2,Bronx,katsura tree,3or4,1,0,1,0,0.0,1.0,0.0,70
+3,Brooklyn,katsura tree,None,162,91,42,29,0.5617,0.2593,0.179,70
+3,Brooklyn,katsura tree,1or2,98,67,25,6,0.6837,0.2551,0.0612,70
+3,Brooklyn,katsura tree,3or4,5,5,0,0,1.0,0.0,0.0,70
+4,Queens,katsura tree,1or2,104,71,23,10,0.6827,0.2212,0.0962,70
+4,Queens,katsura tree,3or4,8,4,3,1,0.5,0.375,0.125,70
+4,Queens,katsura tree,4orMore,1,1,0,0,1.0,0.0,0.0,70
+4,Queens,katsura tree,None,251,163,59,29,0.6494,0.2351,0.1155,70
+5,Staten Island,katsura tree,None,66,50,13,3,0.7576,0.197,0.0455,70
+5,Staten Island,katsura tree,3or4,2,2,0,0,1.0,0.0,0.0,70
+5,Staten Island,katsura tree,1or2,31,27,3,1,0.871,0.0968,0.0323,70
+1,Manhattan,white ash,3or4,2,2,0,0,1.0,0.0,0.0,71
+1,Manhattan,white ash,1or2,19,15,4,0,0.7895,0.2105,0.0,71
+1,Manhattan,white ash,None,29,23,4,2,0.7931,0.1379,0.069,71
+2,Bronx,white ash,1or2,14,14,0,0,1.0,0.0,0.0,71
+2,Bronx,white ash,None,158,117,21,20,0.7405,0.1329,0.1266,71
+2,Bronx,white ash,3or4,2,2,0,0,1.0,0.0,0.0,71
+3,Brooklyn,white ash,1or2,61,56,5,0,0.918,0.082,0.0,71
+3,Brooklyn,white ash,3or4,6,4,2,0,0.6667,0.3333,0.0,71
+3,Brooklyn,white ash,None,275,204,54,17,0.7418,0.1964,0.0618,71
+4,Queens,white ash,3or4,3,2,1,0,0.6667,0.3333,0.0,71
+4,Queens,white ash,4orMore,2,2,0,0,1.0,0.0,0.0,71
+4,Queens,white ash,1or2,41,34,6,1,0.8293,0.1463,0.0244,71
+4,Queens,white ash,None,354,307,36,11,0.8672,0.1017,0.0311,71
+5,Staten Island,white ash,3or4,1,0,1,0,0.0,1.0,0.0,71
+5,Staten Island,white ash,None,136,102,27,7,0.75,0.1985,0.0515,71
+5,Staten Island,white ash,1or2,18,13,5,0,0.7222,0.2778,0.0,71
+1,Manhattan,hedge maple,4orMore,1,1,0,0,1.0,0.0,0.0,72
+1,Manhattan,hedge maple,3or4,6,1,4,1,0.1667,0.6667,0.1667,72
+1,Manhattan,hedge maple,None,5,2,2,1,0.4,0.4,0.2,72
+1,Manhattan,hedge maple,1or2,11,8,2,1,0.7273,0.1818,0.0909,72
+2,Bronx,hedge maple,3or4,8,8,0,0,1.0,0.0,0.0,72
+2,Bronx,hedge maple,1or2,120,99,15,6,0.825,0.125,0.05,72
+2,Bronx,hedge maple,None,670,564,78,28,0.8418,0.1164,0.0418,72
+3,Brooklyn,hedge maple,None,414,329,69,16,0.7947,0.1667,0.0386,72
+3,Brooklyn,hedge maple,4orMore,5,5,0,0,1.0,0.0,0.0,72
+3,Brooklyn,hedge maple,1or2,138,107,28,3,0.7754,0.2029,0.0217,72
+3,Brooklyn,hedge maple,3or4,21,17,3,1,0.8095,0.1429,0.0476,72
+4,Queens,hedge maple,3or4,5,5,0,0,1.0,0.0,0.0,72
+4,Queens,hedge maple,None,561,449,97,15,0.8004,0.1729,0.0267,72
+4,Queens,hedge maple,1or2,109,82,23,4,0.7523,0.211,0.0367,72
+5,Staten Island,hedge maple,1or2,97,86,9,2,0.8866,0.0928,0.0206,72
+5,Staten Island,hedge maple,3or4,8,6,2,0,0.75,0.25,0.0,72
+5,Staten Island,hedge maple,None,371,318,40,13,0.8571,0.1078,0.035,72
+1,Manhattan,silver birch,None,5,3,1,1,0.6,0.2,0.2,73
+1,Manhattan,silver birch,1or2,5,3,2,0,0.6,0.4,0.0,73
+2,Bronx,silver birch,3or4,3,0,0,3,0.0,0.0,1.0,73
+2,Bronx,silver birch,None,19,18,0,1,0.9474,0.0,0.0526,73
+2,Bronx,silver birch,1or2,20,10,9,1,0.5,0.45,0.05,73
+3,Brooklyn,silver birch,4orMore,1,1,0,0,1.0,0.0,0.0,73
+3,Brooklyn,silver birch,None,79,60,13,6,0.7595,0.1646,0.0759,73
+3,Brooklyn,silver birch,3or4,5,5,0,0,1.0,0.0,0.0,73
+3,Brooklyn,silver birch,1or2,29,22,7,0,0.7586,0.2414,0.0,73
+4,Queens,silver birch,1or2,28,23,4,1,0.8214,0.1429,0.0357,73
+4,Queens,silver birch,None,56,43,10,3,0.7679,0.1786,0.0536,73
+5,Staten Island,silver birch,None,32,25,7,0,0.7812,0.2188,0.0,73
+5,Staten Island,silver birch,3or4,1,1,0,0,1.0,0.0,0.0,73
+5,Staten Island,silver birch,1or2,16,10,6,0,0.625,0.375,0.0,73
+5,Staten Island,silver birch,4orMore,1,1,0,0,1.0,0.0,0.0,73
+1,Manhattan,Chinese elm,3or4,82,63,13,6,0.7683,0.1585,0.0732,74
+1,Manhattan,Chinese elm,None,435,336,78,21,0.7724,0.1793,0.0483,74
+1,Manhattan,Chinese elm,4orMore,6,4,1,1,0.6667,0.1667,0.1667,74
+1,Manhattan,Chinese elm,1or2,262,201,47,14,0.7672,0.1794,0.0534,74
+2,Bronx,Chinese elm,3or4,19,16,3,0,0.8421,0.1579,0.0,74
+2,Bronx,Chinese elm,1or2,259,207,39,13,0.7992,0.1506,0.0502,74
+2,Bronx,Chinese elm,None,1042,885,146,11,0.8493,0.1401,0.0106,74
+2,Bronx,Chinese elm,4orMore,1,1,0,0,1.0,0.0,0.0,74
+3,Brooklyn,Chinese elm,None,926,796,109,21,0.8596,0.1177,0.0227,74
+3,Brooklyn,Chinese elm,1or2,590,482,85,23,0.8169,0.1441,0.039,74
+3,Brooklyn,Chinese elm,3or4,66,52,13,1,0.7879,0.197,0.0152,74
+3,Brooklyn,Chinese elm,4orMore,11,9,2,0,0.8182,0.1818,0.0,74
+4,Queens,Chinese elm,1or2,314,271,36,7,0.8631,0.1146,0.0223,74
+4,Queens,Chinese elm,3or4,27,23,4,0,0.8519,0.1481,0.0,74
+4,Queens,Chinese elm,None,674,572,77,25,0.8487,0.1142,0.0371,74
+4,Queens,Chinese elm,4orMore,5,2,2,1,0.4,0.4,0.2,74
+5,Staten Island,Chinese elm,3or4,14,11,3,0,0.7857,0.2143,0.0,74
+5,Staten Island,Chinese elm,None,474,435,24,15,0.9177,0.0506,0.0316,74
+5,Staten Island,Chinese elm,4orMore,1,1,0,0,1.0,0.0,0.0,74
+5,Staten Island,Chinese elm,1or2,137,126,9,2,0.9197,0.0657,0.0146,74
+1,Manhattan,Japanese tree lilac,1or2,57,39,12,6,0.6842,0.2105,0.1053,75
+1,Manhattan,Japanese tree lilac,3or4,21,16,4,1,0.7619,0.1905,0.0476,75
+1,Manhattan,Japanese tree lilac,None,50,37,6,7,0.74,0.12,0.14,75
+1,Manhattan,Japanese tree lilac,4orMore,1,1,0,0,1.0,0.0,0.0,75
+2,Bronx,Japanese tree lilac,1or2,187,151,27,9,0.8075,0.1444,0.0481,75
+2,Bronx,Japanese tree lilac,None,389,311,63,15,0.7995,0.162,0.0386,75
+2,Bronx,Japanese tree lilac,3or4,3,2,1,0,0.6667,0.3333,0.0,75
+3,Brooklyn,Japanese tree lilac,3or4,28,25,2,1,0.8929,0.0714,0.0357,75
+3,Brooklyn,Japanese tree lilac,4orMore,3,2,1,0,0.6667,0.3333,0.0,75
+3,Brooklyn,Japanese tree lilac,1or2,327,233,66,28,0.7125,0.2018,0.0856,75
+3,Brooklyn,Japanese tree lilac,None,647,473,128,46,0.7311,0.1978,0.0711,75
+4,Queens,Japanese tree lilac,3or4,55,47,6,2,0.8545,0.1091,0.0364,75
+4,Queens,Japanese tree lilac,None,1221,989,184,48,0.81,0.1507,0.0393,75
+4,Queens,Japanese tree lilac,1or2,688,555,105,28,0.8067,0.1526,0.0407,75
+5,Staten Island,Japanese tree lilac,None,639,546,68,25,0.8545,0.1064,0.0391,75
+5,Staten Island,Japanese tree lilac,4orMore,2,2,0,0,1.0,0.0,0.0,75
+5,Staten Island,Japanese tree lilac,3or4,12,9,3,0,0.75,0.25,0.0,75
+5,Staten Island,Japanese tree lilac,1or2,238,207,27,4,0.8697,0.1134,0.0168,75
+1,Manhattan,Japanese zelkova,3or4,420,324,71,25,0.7714,0.169,0.0595,76
+1,Manhattan,Japanese zelkova,None,1829,1390,332,107,0.76,0.1815,0.0585,76
+1,Manhattan,Japanese zelkova,1or2,1308,1025,211,72,0.7836,0.1613,0.055,76
+1,Manhattan,Japanese zelkova,4orMore,39,34,5,0,0.8718,0.1282,0.0,76
+2,Bronx,Japanese zelkova,3or4,64,59,5,0,0.9219,0.0781,0.0,76
+2,Bronx,Japanese zelkova,1or2,884,770,91,23,0.871,0.1029,0.026,76
+2,Bronx,Japanese zelkova,4orMore,5,4,1,0,0.8,0.2,0.0,76
+2,Bronx,Japanese zelkova,None,3685,3129,447,109,0.8491,0.1213,0.0296,76
+3,Brooklyn,Japanese zelkova,1or2,2751,2397,293,61,0.8713,0.1065,0.0222,76
+3,Brooklyn,Japanese zelkova,3or4,359,325,28,6,0.9053,0.078,0.0167,76
+3,Brooklyn,Japanese zelkova,4orMore,17,16,1,0,0.9412,0.0588,0.0,76
+3,Brooklyn,Japanese zelkova,None,6532,5688,693,151,0.8708,0.1061,0.0231,76
+4,Queens,Japanese zelkova,3or4,165,148,15,2,0.897,0.0909,0.0121,76
+4,Queens,Japanese zelkova,None,6775,6087,572,116,0.8985,0.0844,0.0171,76
+4,Queens,Japanese zelkova,4orMore,12,12,0,0,1.0,0.0,0.0,76
+4,Queens,Japanese zelkova,1or2,2035,1804,192,39,0.8865,0.0943,0.0192,76
+5,Staten Island,Japanese zelkova,None,1903,1664,181,58,0.8744,0.0951,0.0305,76
+5,Staten Island,Japanese zelkova,1or2,439,374,52,13,0.8519,0.1185,0.0296,76
+5,Staten Island,Japanese zelkova,4orMore,4,4,0,0,1.0,0.0,0.0,76
+5,Staten Island,Japanese zelkova,3or4,32,31,1,0,0.9688,0.0312,0.0,76
+1,Manhattan,European hornbeam,1or2,123,97,16,10,0.7886,0.1301,0.0813,77
+1,Manhattan,European hornbeam,None,35,23,9,3,0.6571,0.2571,0.0857,77
+1,Manhattan,European hornbeam,3or4,9,6,2,1,0.6667,0.2222,0.1111,77
+2,Bronx,European hornbeam,4orMore,1,1,0,0,1.0,0.0,0.0,77
+2,Bronx,European hornbeam,None,277,196,62,19,0.7076,0.2238,0.0686,77
+2,Bronx,European hornbeam,1or2,169,137,27,5,0.8107,0.1598,0.0296,77
+2,Bronx,European hornbeam,3or4,2,2,0,0,1.0,0.0,0.0,77
+3,Brooklyn,European hornbeam,None,262,183,57,22,0.6985,0.2176,0.084,77
+3,Brooklyn,European hornbeam,1or2,197,142,34,21,0.7208,0.1726,0.1066,77
+3,Brooklyn,European hornbeam,3or4,35,25,10,0,0.7143,0.2857,0.0,77
+4,Queens,European hornbeam,None,555,494,39,22,0.8901,0.0703,0.0396,77
+4,Queens,European hornbeam,3or4,10,9,1,0,0.9,0.1,0.0,77
+4,Queens,European hornbeam,4orMore,1,1,0,0,1.0,0.0,0.0,77
+4,Queens,European hornbeam,1or2,237,199,19,19,0.8397,0.0802,0.0802,77
+5,Staten Island,European hornbeam,1or2,63,52,10,1,0.8254,0.1587,0.0159,77
+5,Staten Island,European hornbeam,None,116,100,9,7,0.8621,0.0776,0.0603,77
+5,Staten Island,European hornbeam,3or4,7,6,1,0,0.8571,0.1429,0.0,77
+1,Manhattan,magnolia,None,31,24,6,1,0.7742,0.1935,0.0323,78
+1,Manhattan,magnolia,1or2,83,68,4,11,0.8193,0.0482,0.1325,78
+1,Manhattan,magnolia,3or4,2,2,0,0,1.0,0.0,0.0,78
+2,Bronx,magnolia,3or4,8,6,2,0,0.75,0.25,0.0,78
+2,Bronx,magnolia,None,44,30,10,4,0.6818,0.2273,0.0909,78
+2,Bronx,magnolia,1or2,10,8,2,0,0.8,0.2,0.0,78
+3,Brooklyn,magnolia,4orMore,1,1,0,0,1.0,0.0,0.0,78
+3,Brooklyn,magnolia,1or2,35,25,6,4,0.7143,0.1714,0.1143,78
+3,Brooklyn,magnolia,None,46,37,4,5,0.8043,0.087,0.1087,78
+3,Brooklyn,magnolia,3or4,1,1,0,0,1.0,0.0,0.0,78
+4,Queens,magnolia,3or4,3,2,1,0,0.6667,0.3333,0.0,78
+4,Queens,magnolia,1or2,95,78,13,4,0.8211,0.1368,0.0421,78
+4,Queens,magnolia,4orMore,1,1,0,0,1.0,0.0,0.0,78
+4,Queens,magnolia,None,218,186,20,12,0.8532,0.0917,0.055,78
+5,Staten Island,magnolia,1or2,37,36,1,0,0.973,0.027,0.0,78
+5,Staten Island,magnolia,None,83,71,11,1,0.8554,0.1325,0.012,78
+5,Staten Island,magnolia,3or4,1,1,0,0,1.0,0.0,0.0,78
+1,Manhattan,eastern hemlock,1or2,3,1,0,2,0.3333,0.0,0.6667,79
+1,Manhattan,eastern hemlock,None,4,1,0,3,0.25,0.0,0.75,79
+2,Bronx,eastern hemlock,None,4,3,0,1,0.75,0.0,0.25,79
+2,Bronx,eastern hemlock,1or2,3,2,1,0,0.6667,0.3333,0.0,79
+3,Brooklyn,eastern hemlock,1or2,17,9,7,1,0.5294,0.4118,0.0588,79
+3,Brooklyn,eastern hemlock,3or4,3,3,0,0,1.0,0.0,0.0,79
+3,Brooklyn,eastern hemlock,None,13,12,1,0,0.9231,0.0769,0.0,79
+4,Queens,eastern hemlock,3or4,2,2,0,0,1.0,0.0,0.0,79
+4,Queens,eastern hemlock,None,14,10,3,1,0.7143,0.2143,0.0714,79
+4,Queens,eastern hemlock,1or2,8,6,1,1,0.75,0.125,0.125,79
+4,Queens,eastern hemlock,4orMore,1,0,1,0,0.0,1.0,0.0,79
+5,Staten Island,eastern hemlock,None,12,8,4,0,0.6667,0.3333,0.0,79
+5,Staten Island,eastern hemlock,1or2,4,2,2,0,0.5,0.5,0.0,79
+1,Manhattan,tartar maple,None,5,3,1,1,0.6,0.2,0.2,80
+1,Manhattan,tartar maple,1or2,6,2,3,1,0.3333,0.5,0.1667,80
+1,Manhattan,tartar maple,3or4,1,0,0,1,0.0,0.0,1.0,80
+2,Bronx,tartar maple,None,25,17,4,4,0.68,0.16,0.16,80
+2,Bronx,tartar maple,1or2,18,15,2,1,0.8333,0.1111,0.0556,80
+3,Brooklyn,tartar maple,None,9,6,2,1,0.6667,0.2222,0.1111,80
+3,Brooklyn,tartar maple,3or4,3,3,0,0,1.0,0.0,0.0,80
+3,Brooklyn,tartar maple,1or2,4,2,2,0,0.5,0.5,0.0,80
+4,Queens,tartar maple,4orMore,1,1,0,0,1.0,0.0,0.0,80
+4,Queens,tartar maple,None,35,28,5,2,0.8,0.1429,0.0571,80
+4,Queens,tartar maple,3or4,2,1,1,0,0.5,0.5,0.0,80
+4,Queens,tartar maple,1or2,12,8,3,1,0.6667,0.25,0.0833,80
+5,Staten Island,tartar maple,None,28,26,2,0,0.9286,0.0714,0.0,80
+5,Staten Island,tartar maple,1or2,4,2,2,0,0.5,0.5,0.0,80
+1,Manhattan,'Schubert' chokecherry,1or2,90,56,23,11,0.6222,0.2556,0.1222,81
+1,Manhattan,'Schubert' chokecherry,4orMore,3,3,0,0,1.0,0.0,0.0,81
+1,Manhattan,'Schubert' chokecherry,3or4,23,21,2,0,0.913,0.087,0.0,81
+1,Manhattan,'Schubert' chokecherry,None,47,31,15,1,0.6596,0.3191,0.0213,81
+2,Bronx,'Schubert' chokecherry,1or2,170,144,22,4,0.8471,0.1294,0.0235,81
+2,Bronx,'Schubert' chokecherry,3or4,11,10,1,0,0.9091,0.0909,0.0,81
+2,Bronx,'Schubert' chokecherry,4orMore,1,1,0,0,1.0,0.0,0.0,81
+2,Bronx,'Schubert' chokecherry,None,393,301,67,25,0.7659,0.1705,0.0636,81
+3,Brooklyn,'Schubert' chokecherry,1or2,510,408,76,26,0.8,0.149,0.051,81
+3,Brooklyn,'Schubert' chokecherry,3or4,47,43,2,2,0.9149,0.0426,0.0426,81
+3,Brooklyn,'Schubert' chokecherry,4orMore,4,4,0,0,1.0,0.0,0.0,81
+3,Brooklyn,'Schubert' chokecherry,None,747,543,133,71,0.7269,0.178,0.095,81
+4,Queens,'Schubert' chokecherry,4orMore,4,3,0,1,0.75,0.0,0.25,81
+4,Queens,'Schubert' chokecherry,3or4,37,35,0,2,0.9459,0.0,0.0541,81
+4,Queens,'Schubert' chokecherry,1or2,529,442,70,17,0.8355,0.1323,0.0321,81
+4,Queens,'Schubert' chokecherry,None,1443,1170,220,53,0.8108,0.1525,0.0367,81
+5,Staten Island,'Schubert' chokecherry,1or2,258,221,29,8,0.8566,0.1124,0.031,81
+5,Staten Island,'Schubert' chokecherry,None,548,475,53,20,0.8668,0.0967,0.0365,81
+5,Staten Island,'Schubert' chokecherry,3or4,23,18,4,1,0.7826,0.1739,0.0435,81
+1,Manhattan,holly,None,18,18,0,0,1.0,0.0,0.0,82
+1,Manhattan,holly,3or4,4,4,0,0,1.0,0.0,0.0,82
+1,Manhattan,holly,1or2,4,1,1,2,0.25,0.25,0.5,82
+2,Bronx,holly,None,7,6,1,0,0.8571,0.1429,0.0,82
+2,Bronx,holly,3or4,1,1,0,0,1.0,0.0,0.0,82
+2,Bronx,holly,1or2,3,2,0,1,0.6667,0.0,0.3333,82
+3,Brooklyn,holly,None,15,12,2,1,0.8,0.1333,0.0667,82
+3,Brooklyn,holly,1or2,20,17,3,0,0.85,0.15,0.0,82
+4,Queens,holly,4orMore,1,1,0,0,1.0,0.0,0.0,82
+4,Queens,holly,1or2,19,17,2,0,0.8947,0.1053,0.0,82
+4,Queens,holly,3or4,1,1,0,0,1.0,0.0,0.0,82
+4,Queens,holly,None,29,25,3,1,0.8621,0.1034,0.0345,82
+5,Staten Island,holly,None,9,7,1,1,0.7778,0.1111,0.1111,82
+5,Staten Island,holly,1or2,7,6,1,0,0.8571,0.1429,0.0,82
+1,Manhattan,Virginia pine,1or2,2,1,0,1,0.5,0.0,0.5,83
+1,Manhattan,Virginia pine,None,1,1,0,0,1.0,0.0,0.0,83
+2,Bronx,Virginia pine,1or2,1,1,0,0,1.0,0.0,0.0,83
+3,Brooklyn,Virginia pine,3or4,1,0,0,1,0.0,0.0,1.0,83
+3,Brooklyn,Virginia pine,1or2,2,2,0,0,1.0,0.0,0.0,83
+4,Queens,Virginia pine,1or2,1,1,0,0,1.0,0.0,0.0,83
+4,Queens,Virginia pine,None,2,2,0,0,1.0,0.0,0.0,83
+1,Manhattan,hawthorn,1or2,60,41,17,2,0.6833,0.2833,0.0333,84
+1,Manhattan,hawthorn,None,152,134,12,6,0.8816,0.0789,0.0395,84
+1,Manhattan,hawthorn,3or4,7,6,0,1,0.8571,0.0,0.1429,84
+2,Bronx,hawthorn,3or4,5,4,1,0,0.8,0.2,0.0,84
+2,Bronx,hawthorn,1or2,105,84,16,5,0.8,0.1524,0.0476,84
+2,Bronx,hawthorn,None,362,287,61,14,0.7928,0.1685,0.0387,84
+3,Brooklyn,hawthorn,None,410,287,80,43,0.7,0.1951,0.1049,84
+3,Brooklyn,hawthorn,1or2,151,103,29,19,0.6821,0.1921,0.1258,84
+3,Brooklyn,hawthorn,3or4,32,28,3,1,0.875,0.0938,0.0312,84
+4,Queens,hawthorn,3or4,27,24,2,1,0.8889,0.0741,0.037,84
+4,Queens,hawthorn,1or2,249,194,42,13,0.7791,0.1687,0.0522,84
+4,Queens,hawthorn,4orMore,3,1,1,1,0.3333,0.3333,0.3333,84
+4,Queens,hawthorn,None,779,615,117,47,0.7895,0.1502,0.0603,84
+5,Staten Island,hawthorn,None,503,395,74,34,0.7853,0.1471,0.0676,84
+5,Staten Island,hawthorn,3or4,11,10,1,0,0.9091,0.0909,0.0,84
+5,Staten Island,hawthorn,1or2,132,112,14,6,0.8485,0.1061,0.0455,84
+1,Manhattan,Schumard's oak,4orMore,1,1,0,0,1.0,0.0,0.0,85
+1,Manhattan,Schumard's oak,3or4,11,9,1,1,0.8182,0.0909,0.0909,85
+1,Manhattan,Schumard's oak,1or2,45,36,8,1,0.8,0.1778,0.0222,85
+1,Manhattan,Schumard's oak,None,80,65,11,4,0.8125,0.1375,0.05,85
+2,Bronx,Schumard's oak,None,205,171,30,4,0.8341,0.1463,0.0195,85
+2,Bronx,Schumard's oak,3or4,2,2,0,0,1.0,0.0,0.0,85
+2,Bronx,Schumard's oak,1or2,54,48,6,0,0.8889,0.1111,0.0,85
+3,Brooklyn,Schumard's oak,4orMore,2,2,0,0,1.0,0.0,0.0,85
+3,Brooklyn,Schumard's oak,None,386,292,78,16,0.7565,0.2021,0.0415,85
+3,Brooklyn,Schumard's oak,1or2,170,141,25,4,0.8294,0.1471,0.0235,85
+3,Brooklyn,Schumard's oak,3or4,24,23,1,0,0.9583,0.0417,0.0,85
+4,Queens,Schumard's oak,None,175,144,25,6,0.8229,0.1429,0.0343,85
+4,Queens,Schumard's oak,3or4,3,3,0,0,1.0,0.0,0.0,85
+4,Queens,Schumard's oak,1or2,47,42,4,1,0.8936,0.0851,0.0213,85
+5,Staten Island,Schumard's oak,None,216,157,42,17,0.7269,0.1944,0.0787,85
+5,Staten Island,Schumard's oak,1or2,62,47,9,6,0.7581,0.1452,0.0968,85
+5,Staten Island,Schumard's oak,3or4,4,4,0,0,1.0,0.0,0.0,85
+1,Manhattan,catalpa,3or4,2,0,1,1,0.0,0.5,0.5,86
+1,Manhattan,catalpa,1or2,6,5,1,0,0.8333,0.1667,0.0,86
+1,Manhattan,catalpa,None,5,2,3,0,0.4,0.6,0.0,86
+2,Bronx,catalpa,None,102,77,17,8,0.7549,0.1667,0.0784,86
+2,Bronx,catalpa,3or4,4,4,0,0,1.0,0.0,0.0,86
+2,Bronx,catalpa,1or2,26,17,4,5,0.6538,0.1538,0.1923,86
+2,Bronx,catalpa,4orMore,1,1,0,0,1.0,0.0,0.0,86
+3,Brooklyn,catalpa,None,52,38,12,2,0.7308,0.2308,0.0385,86
+3,Brooklyn,catalpa,3or4,1,1,0,0,1.0,0.0,0.0,86
+3,Brooklyn,catalpa,1or2,19,12,6,1,0.6316,0.3158,0.0526,86
+3,Brooklyn,catalpa,4orMore,1,1,0,0,1.0,0.0,0.0,86
+4,Queens,catalpa,4orMore,1,1,0,0,1.0,0.0,0.0,86
+4,Queens,catalpa,None,252,156,72,24,0.619,0.2857,0.0952,86
+4,Queens,catalpa,1or2,54,40,9,5,0.7407,0.1667,0.0926,86
+5,Staten Island,catalpa,None,22,14,7,1,0.6364,0.3182,0.0455,86
+5,Staten Island,catalpa,1or2,3,3,0,0,1.0,0.0,0.0,86
+1,Manhattan,bigtooth aspen,None,1,1,0,0,1.0,0.0,0.0,87
+1,Manhattan,bigtooth aspen,1or2,4,2,1,1,0.5,0.25,0.25,87
+2,Bronx,bigtooth aspen,None,6,5,1,0,0.8333,0.1667,0.0,87
+2,Bronx,bigtooth aspen,1or2,1,1,0,0,1.0,0.0,0.0,87
+3,Brooklyn,bigtooth aspen,1or2,7,6,1,0,0.8571,0.1429,0.0,87
+3,Brooklyn,bigtooth aspen,3or4,1,0,1,0,0.0,1.0,0.0,87
+3,Brooklyn,bigtooth aspen,None,15,10,4,1,0.6667,0.2667,0.0667,87
+4,Queens,bigtooth aspen,None,29,18,8,3,0.6207,0.2759,0.1034,87
+4,Queens,bigtooth aspen,1or2,8,5,0,3,0.625,0.0,0.375,87
+5,Staten Island,bigtooth aspen,1or2,11,9,2,0,0.8182,0.1818,0.0,87
+5,Staten Island,bigtooth aspen,None,11,8,3,0,0.7273,0.2727,0.0,87
+1,Manhattan,Japanese maple,3or4,1,0,1,0,0.0,1.0,0.0,88
+1,Manhattan,Japanese maple,None,7,6,1,0,0.8571,0.1429,0.0,88
+1,Manhattan,Japanese maple,1or2,3,3,0,0,1.0,0.0,0.0,88
+2,Bronx,Japanese maple,None,54,39,12,3,0.7222,0.2222,0.0556,88
+2,Bronx,Japanese maple,3or4,1,1,0,0,1.0,0.0,0.0,88
+2,Bronx,Japanese maple,1or2,30,22,8,0,0.7333,0.2667,0.0,88
+3,Brooklyn,Japanese maple,1or2,60,46,10,4,0.7667,0.1667,0.0667,88
+3,Brooklyn,Japanese maple,3or4,5,4,1,0,0.8,0.2,0.0,88
+3,Brooklyn,Japanese maple,None,49,33,11,5,0.6735,0.2245,0.102,88
+4,Queens,Japanese maple,4orMore,7,5,1,1,0.7143,0.1429,0.1429,88
+4,Queens,Japanese maple,None,509,390,93,26,0.7662,0.1827,0.0511,88
+4,Queens,Japanese maple,3or4,37,33,4,0,0.8919,0.1081,0.0,88
+4,Queens,Japanese maple,1or2,207,176,24,7,0.8502,0.1159,0.0338,88
+5,Staten Island,Japanese maple,1or2,51,46,3,2,0.902,0.0588,0.0392,88
+5,Staten Island,Japanese maple,3or4,13,12,1,0,0.9231,0.0769,0.0,88
+5,Staten Island,Japanese maple,None,96,75,12,9,0.7812,0.125,0.0938,88
+1,Manhattan,pond cypress,None,9,1,4,4,0.1111,0.4444,0.4444,89
+1,Manhattan,pond cypress,1or2,3,0,2,1,0.0,0.6667,0.3333,89
+2,Bronx,pond cypress,None,12,7,1,4,0.5833,0.0833,0.3333,89
+2,Bronx,pond cypress,1or2,18,17,0,1,0.9444,0.0,0.0556,89
+3,Brooklyn,pond cypress,3or4,4,2,1,1,0.5,0.25,0.25,89
+3,Brooklyn,pond cypress,None,45,30,7,8,0.6667,0.1556,0.1778,89
+3,Brooklyn,pond cypress,1or2,53,28,18,7,0.5283,0.3396,0.1321,89
+4,Queens,pond cypress,None,19,16,2,1,0.8421,0.1053,0.0526,89
+4,Queens,pond cypress,3or4,2,2,0,0,1.0,0.0,0.0,89
+4,Queens,pond cypress,1or2,9,8,0,1,0.8889,0.0,0.1111,89
+5,Staten Island,pond cypress,1or2,3,2,1,0,0.6667,0.3333,0.0,89
+5,Staten Island,pond cypress,None,4,4,0,0,1.0,0.0,0.0,89
+1,Manhattan,sawtooth oak,4orMore,2,1,1,0,0.5,0.5,0.0,90
+1,Manhattan,sawtooth oak,None,147,124,21,2,0.8435,0.1429,0.0136,90
+1,Manhattan,sawtooth oak,1or2,161,137,23,1,0.8509,0.1429,0.0062,90
+1,Manhattan,sawtooth oak,3or4,43,39,3,1,0.907,0.0698,0.0233,90
+2,Bronx,sawtooth oak,None,263,241,20,2,0.9163,0.076,0.0076,90
+2,Bronx,sawtooth oak,1or2,98,87,9,2,0.8878,0.0918,0.0204,90
+2,Bronx,sawtooth oak,3or4,2,2,0,0,1.0,0.0,0.0,90
+3,Brooklyn,sawtooth oak,None,516,423,74,19,0.8198,0.1434,0.0368,90
+3,Brooklyn,sawtooth oak,3or4,40,34,6,0,0.85,0.15,0.0,90
+3,Brooklyn,sawtooth oak,4orMore,2,2,0,0,1.0,0.0,0.0,90
+3,Brooklyn,sawtooth oak,1or2,227,199,24,4,0.8767,0.1057,0.0176,90
+4,Queens,sawtooth oak,3or4,18,16,2,0,0.8889,0.1111,0.0,90
+4,Queens,sawtooth oak,None,371,340,24,7,0.9164,0.0647,0.0189,90
+4,Queens,sawtooth oak,4orMore,1,1,0,0,1.0,0.0,0.0,90
+4,Queens,sawtooth oak,1or2,189,171,11,7,0.9048,0.0582,0.037,90
+5,Staten Island,sawtooth oak,None,135,126,9,0,0.9333,0.0667,0.0,90
+5,Staten Island,sawtooth oak,4orMore,1,1,0,0,1.0,0.0,0.0,90
+5,Staten Island,sawtooth oak,1or2,27,22,2,3,0.8148,0.0741,0.1111,90
+5,Staten Island,sawtooth oak,3or4,1,1,0,0,1.0,0.0,0.0,90
+1,Manhattan,sycamore maple,1or2,16,11,4,1,0.6875,0.25,0.0625,91
+1,Manhattan,sycamore maple,None,6,2,3,1,0.3333,0.5,0.1667,91
+1,Manhattan,sycamore maple,4orMore,1,1,0,0,1.0,0.0,0.0,91
+2,Bronx,sycamore maple,3or4,3,1,1,1,0.3333,0.3333,0.3333,91
+2,Bronx,sycamore maple,1or2,27,19,7,1,0.7037,0.2593,0.037,91
+2,Bronx,sycamore maple,None,217,160,44,13,0.7373,0.2028,0.0599,91
+3,Brooklyn,sycamore maple,4orMore,2,1,1,0,0.5,0.5,0.0,91
+3,Brooklyn,sycamore maple,1or2,107,77,19,11,0.7196,0.1776,0.1028,91
+3,Brooklyn,sycamore maple,None,418,302,75,41,0.7225,0.1794,0.0981,91
+3,Brooklyn,sycamore maple,3or4,17,13,4,0,0.7647,0.2353,0.0,91
+4,Queens,sycamore maple,4orMore,2,2,0,0,1.0,0.0,0.0,91
+4,Queens,sycamore maple,3or4,7,6,1,0,0.8571,0.1429,0.0,91
+4,Queens,sycamore maple,None,1469,1070,314,85,0.7284,0.2138,0.0579,91
+4,Queens,sycamore maple,1or2,125,85,31,9,0.68,0.248,0.072,91
+5,Staten Island,sycamore maple,1or2,43,34,6,3,0.7907,0.1395,0.0698,91
+5,Staten Island,sycamore maple,None,267,203,50,14,0.7603,0.1873,0.0524,91
+5,Staten Island,sycamore maple,3or4,4,4,0,0,1.0,0.0,0.0,91
+1,Manhattan,cockspur hawthorn,None,1,1,0,0,1.0,0.0,0.0,92
+1,Manhattan,cockspur hawthorn,1or2,2,0,1,1,0.0,0.5,0.5,92
+2,Bronx,cockspur hawthorn,1or2,7,4,0,3,0.5714,0.0,0.4286,92
+2,Bronx,cockspur hawthorn,None,49,34,12,3,0.6939,0.2449,0.0612,92
+3,Brooklyn,cockspur hawthorn,None,55,42,13,0,0.7636,0.2364,0.0,92
+3,Brooklyn,cockspur hawthorn,1or2,12,10,2,0,0.8333,0.1667,0.0,92
+3,Brooklyn,cockspur hawthorn,3or4,5,4,1,0,0.8,0.2,0.0,92
+4,Queens,cockspur hawthorn,None,73,64,6,3,0.8767,0.0822,0.0411,92
+4,Queens,cockspur hawthorn,3or4,6,5,0,1,0.8333,0.0,0.1667,92
+4,Queens,cockspur hawthorn,1or2,41,25,13,3,0.6098,0.3171,0.0732,92
+5,Staten Island,cockspur hawthorn,3or4,3,3,0,0,1.0,0.0,0.0,92
+5,Staten Island,cockspur hawthorn,1or2,16,13,1,2,0.8125,0.0625,0.125,92
+5,Staten Island,cockspur hawthorn,None,71,60,4,7,0.8451,0.0563,0.0986,92
+1,Manhattan,Persian ironwood,1or2,1,1,0,0,1.0,0.0,0.0,93
+2,Bronx,Persian ironwood,1or2,12,9,3,0,0.75,0.25,0.0,93
+2,Bronx,Persian ironwood,None,17,14,3,0,0.8235,0.1765,0.0,93
+3,Brooklyn,Persian ironwood,None,39,32,5,2,0.8205,0.1282,0.0513,93
+3,Brooklyn,Persian ironwood,4orMore,1,1,0,0,1.0,0.0,0.0,93
+3,Brooklyn,Persian ironwood,3or4,2,2,0,0,1.0,0.0,0.0,93
+3,Brooklyn,Persian ironwood,1or2,25,18,7,0,0.72,0.28,0.0,93
+4,Queens,Persian ironwood,3or4,4,4,0,0,1.0,0.0,0.0,93
+4,Queens,Persian ironwood,4orMore,1,1,0,0,1.0,0.0,0.0,93
+4,Queens,Persian ironwood,None,93,77,11,5,0.828,0.1183,0.0538,93
+4,Queens,Persian ironwood,1or2,59,43,11,5,0.7288,0.1864,0.0847,93
+5,Staten Island,Persian ironwood,None,16,12,4,0,0.75,0.25,0.0,93
+5,Staten Island,Persian ironwood,1or2,7,5,1,1,0.7143,0.1429,0.1429,93
+1,Manhattan,silver linden,1or2,257,178,63,16,0.6926,0.2451,0.0623,94
+1,Manhattan,silver linden,None,194,142,35,17,0.732,0.1804,0.0876,94
+1,Manhattan,silver linden,3or4,79,54,18,7,0.6835,0.2278,0.0886,94
+1,Manhattan,silver linden,4orMore,11,8,1,2,0.7273,0.0909,0.1818,94
+2,Bronx,silver linden,None,525,434,66,25,0.8267,0.1257,0.0476,94
+2,Bronx,silver linden,1or2,142,113,23,6,0.7958,0.162,0.0423,94
+2,Bronx,silver linden,3or4,3,3,0,0,1.0,0.0,0.0,94
+3,Brooklyn,silver linden,1or2,679,564,89,26,0.8306,0.1311,0.0383,94
+3,Brooklyn,silver linden,None,1586,1269,240,77,0.8001,0.1513,0.0485,94
+3,Brooklyn,silver linden,3or4,103,89,9,5,0.8641,0.0874,0.0485,94
+3,Brooklyn,silver linden,4orMore,5,5,0,0,1.0,0.0,0.0,94
+4,Queens,silver linden,3or4,63,51,10,2,0.8095,0.1587,0.0317,94
+4,Queens,silver linden,None,3297,2985,249,63,0.9054,0.0755,0.0191,94
+4,Queens,silver linden,1or2,784,697,75,12,0.889,0.0957,0.0153,94
+4,Queens,silver linden,4orMore,2,2,0,0,1.0,0.0,0.0,94
+5,Staten Island,silver linden,3or4,3,3,0,0,1.0,0.0,0.0,94
+5,Staten Island,silver linden,None,204,187,13,4,0.9167,0.0637,0.0196,94
+5,Staten Island,silver linden,1or2,58,49,8,1,0.8448,0.1379,0.0172,94
+1,Manhattan,pine,1or2,1,0,1,0,0.0,1.0,0.0,95
+1,Manhattan,pine,None,2,1,1,0,0.5,0.5,0.0,95
+2,Bronx,pine,None,16,14,2,0,0.875,0.125,0.0,95
+2,Bronx,pine,1or2,3,2,0,1,0.6667,0.0,0.3333,95
+3,Brooklyn,pine,None,34,28,4,2,0.8235,0.1176,0.0588,95
+3,Brooklyn,pine,1or2,11,8,2,1,0.7273,0.1818,0.0909,95
+4,Queens,pine,3or4,2,2,0,0,1.0,0.0,0.0,95
+4,Queens,pine,4orMore,2,2,0,0,1.0,0.0,0.0,95
+4,Queens,pine,None,150,125,20,5,0.8333,0.1333,0.0333,95
+4,Queens,pine,1or2,40,39,1,0,0.975,0.025,0.0,95
+5,Staten Island,pine,None,20,17,1,2,0.85,0.05,0.1,95
+5,Staten Island,pine,1or2,8,7,1,0,0.875,0.125,0.0,95
+1,Manhattan,southern magnolia,1or2,9,7,2,0,0.7778,0.2222,0.0,96
+1,Manhattan,southern magnolia,None,6,4,2,0,0.6667,0.3333,0.0,96
+1,Manhattan,southern magnolia,3or4,4,4,0,0,1.0,0.0,0.0,96
+2,Bronx,southern magnolia,3or4,1,1,0,0,1.0,0.0,0.0,96
+2,Bronx,southern magnolia,None,13,10,3,0,0.7692,0.2308,0.0,96
+2,Bronx,southern magnolia,1or2,5,5,0,0,1.0,0.0,0.0,96
+3,Brooklyn,southern magnolia,None,14,11,1,2,0.7857,0.0714,0.1429,96
+3,Brooklyn,southern magnolia,1or2,13,11,1,1,0.8462,0.0769,0.0769,96
+4,Queens,southern magnolia,3or4,4,4,0,0,1.0,0.0,0.0,96
+4,Queens,southern magnolia,1or2,14,14,0,0,1.0,0.0,0.0,96
+4,Queens,southern magnolia,None,30,25,2,3,0.8333,0.0667,0.1,96
+5,Staten Island,southern magnolia,None,15,14,1,0,0.9333,0.0667,0.0,96
+5,Staten Island,southern magnolia,3or4,1,1,0,0,1.0,0.0,0.0,96
+5,Staten Island,southern magnolia,1or2,3,3,0,0,1.0,0.0,0.0,96
+1,Manhattan,willow oak,4orMore,4,4,0,0,1.0,0.0,0.0,97
+1,Manhattan,willow oak,None,356,286,54,16,0.8034,0.1517,0.0449,97
+1,Manhattan,willow oak,1or2,385,328,47,10,0.8519,0.1221,0.026,97
+1,Manhattan,willow oak,3or4,144,129,14,1,0.8958,0.0972,0.0069,97
+2,Bronx,willow oak,None,397,365,25,7,0.9194,0.063,0.0176,97
+2,Bronx,willow oak,3or4,13,11,2,0,0.8462,0.1538,0.0,97
+2,Bronx,willow oak,1or2,95,77,15,3,0.8105,0.1579,0.0316,97
+3,Brooklyn,willow oak,1or2,227,188,32,7,0.8282,0.141,0.0308,97
+3,Brooklyn,willow oak,3or4,31,24,5,2,0.7742,0.1613,0.0645,97
+3,Brooklyn,willow oak,None,539,449,64,26,0.833,0.1187,0.0482,97
+3,Brooklyn,willow oak,4orMore,5,4,0,1,0.8,0.0,0.2,97
+4,Queens,willow oak,3or4,13,12,1,0,0.9231,0.0769,0.0,97
+4,Queens,willow oak,1or2,156,129,19,8,0.8269,0.1218,0.0513,97
+4,Queens,willow oak,None,561,509,45,7,0.9073,0.0802,0.0125,97
+5,Staten Island,willow oak,3or4,4,4,0,0,1.0,0.0,0.0,97
+5,Staten Island,willow oak,1or2,42,29,11,2,0.6905,0.2619,0.0476,97
+5,Staten Island,willow oak,None,212,177,26,9,0.8349,0.1226,0.0425,97
+1,Manhattan,river birch,3or4,6,3,3,0,0.5,0.5,0.0,98
+1,Manhattan,river birch,None,3,2,1,0,0.6667,0.3333,0.0,98
+1,Manhattan,river birch,1or2,18,15,1,2,0.8333,0.0556,0.1111,98
+2,Bronx,river birch,1or2,23,18,2,3,0.7826,0.087,0.1304,98
+2,Bronx,river birch,None,32,24,7,1,0.75,0.2188,0.0312,98
+3,Brooklyn,river birch,None,80,72,7,1,0.9,0.0875,0.0125,98
+3,Brooklyn,river birch,1or2,31,25,6,0,0.8065,0.1935,0.0,98
+3,Brooklyn,river birch,3or4,5,4,1,0,0.8,0.2,0.0,98
+4,Queens,river birch,3or4,2,2,0,0,1.0,0.0,0.0,98
+4,Queens,river birch,None,109,93,14,2,0.8532,0.1284,0.0183,98
+4,Queens,river birch,1or2,96,73,14,9,0.7604,0.1458,0.0938,98
+4,Queens,river birch,4orMore,1,1,0,0,1.0,0.0,0.0,98
+5,Staten Island,river birch,1or2,70,48,18,4,0.6857,0.2571,0.0571,98
+5,Staten Island,river birch,None,87,77,7,3,0.8851,0.0805,0.0345,98
+5,Staten Island,river birch,3or4,2,2,0,0,1.0,0.0,0.0,98
+1,Manhattan,American larch,1or2,2,0,2,0,0.0,1.0,0.0,99
+1,Manhattan,American larch,3or4,1,0,0,1,0.0,0.0,1.0,99
+1,Manhattan,American larch,None,4,3,1,0,0.75,0.25,0.0,99
+2,Bronx,American larch,None,8,6,2,0,0.75,0.25,0.0,99
+2,Bronx,American larch,3or4,3,2,1,0,0.6667,0.3333,0.0,99
+2,Bronx,American larch,1or2,1,1,0,0,1.0,0.0,0.0,99
+3,Brooklyn,American larch,1or2,2,2,0,0,1.0,0.0,0.0,99
+3,Brooklyn,American larch,None,6,6,0,0,1.0,0.0,0.0,99
+4,Queens,American larch,1or2,3,3,0,0,1.0,0.0,0.0,99
+4,Queens,American larch,None,7,5,2,0,0.7143,0.2857,0.0,99
+5,Staten Island,American larch,1or2,4,4,0,0,1.0,0.0,0.0,99
+5,Staten Island,American larch,None,5,5,0,0,1.0,0.0,0.0,99
+1,Manhattan,littleleaf linden,4orMore,38,23,9,6,0.6053,0.2368,0.1579,100
+1,Manhattan,littleleaf linden,3or4,447,295,102,50,0.66,0.2282,0.1119,100
+1,Manhattan,littleleaf linden,None,1455,870,376,209,0.5979,0.2584,0.1436,100
+1,Manhattan,littleleaf linden,1or2,1393,888,309,196,0.6375,0.2218,0.1407,100
+2,Bronx,littleleaf linden,None,3196,2557,478,161,0.8001,0.1496,0.0504,100
+2,Bronx,littleleaf linden,4orMore,2,2,0,0,1.0,0.0,0.0,100
+2,Bronx,littleleaf linden,3or4,34,22,9,3,0.6471,0.2647,0.0882,100
+2,Bronx,littleleaf linden,1or2,685,521,128,36,0.7606,0.1869,0.0526,100
+3,Brooklyn,littleleaf linden,3or4,269,225,36,8,0.8364,0.1338,0.0297,100
+3,Brooklyn,littleleaf linden,1or2,2419,1980,332,107,0.8185,0.1372,0.0442,100
+3,Brooklyn,littleleaf linden,4orMore,29,27,1,1,0.931,0.0345,0.0345,100
+3,Brooklyn,littleleaf linden,None,6186,4867,941,378,0.7868,0.1521,0.0611,100
+4,Queens,littleleaf linden,3or4,150,107,24,19,0.7133,0.16,0.1267,100
+4,Queens,littleleaf linden,4orMore,7,5,2,0,0.7143,0.2857,0.0,100
+4,Queens,littleleaf linden,None,9532,8061,1131,340,0.8457,0.1187,0.0357,100
+4,Queens,littleleaf linden,1or2,2213,1739,345,129,0.7858,0.1559,0.0583,100
+5,Staten Island,littleleaf linden,3or4,11,9,2,0,0.8182,0.1818,0.0,100
+5,Staten Island,littleleaf linden,None,1405,1171,172,62,0.8335,0.1224,0.0441,100
+5,Staten Island,littleleaf linden,4orMore,1,1,0,0,1.0,0.0,0.0,100
+5,Staten Island,littleleaf linden,1or2,270,212,43,15,0.7852,0.1593,0.0556,100
+1,Manhattan,Callery pear,None,2788,2091,523,174,0.75,0.1876,0.0624,101
+1,Manhattan,Callery pear,1or2,3124,2258,658,208,0.7228,0.2106,0.0666,101
+1,Manhattan,Callery pear,4orMore,79,66,13,0,0.8354,0.1646,0.0,101
+1,Manhattan,Callery pear,3or4,1306,967,280,59,0.7404,0.2144,0.0452,101
+2,Bronx,Callery pear,4orMore,3,2,1,0,0.6667,0.3333,0.0,101
+2,Bronx,Callery pear,None,4127,3641,407,79,0.8822,0.0986,0.0191,101
+2,Bronx,Callery pear,3or4,59,51,7,1,0.8644,0.1186,0.0169,101
+2,Bronx,Callery pear,1or2,758,642,93,23,0.847,0.1227,0.0303,101
+3,Brooklyn,Callery pear,4orMore,37,32,5,0,0.8649,0.1351,0.0,101
+3,Brooklyn,Callery pear,None,5945,5092,708,145,0.8565,0.1191,0.0244,101
+3,Brooklyn,Callery pear,3or4,444,380,59,5,0.8559,0.1329,0.0113,101
+3,Brooklyn,Callery pear,1or2,2655,2292,310,53,0.8633,0.1168,0.02,101
+4,Queens,Callery pear,4orMore,43,39,3,1,0.907,0.0698,0.0233,101
+4,Queens,Callery pear,None,12857,10642,1885,330,0.8277,0.1466,0.0257,101
+4,Queens,Callery pear,3or4,311,270,37,4,0.8682,0.119,0.0129,101
+4,Queens,Callery pear,1or2,3336,2794,429,113,0.8375,0.1286,0.0339,101
+5,Staten Island,Callery pear,None,15384,12029,2595,760,0.7819,0.1687,0.0494,101
+5,Staten Island,Callery pear,3or4,454,411,37,6,0.9053,0.0815,0.0132,101
+5,Staten Island,Callery pear,1or2,5188,4341,719,128,0.8367,0.1386,0.0247,101
+5,Staten Island,Callery pear,4orMore,33,33,0,0,1.0,0.0,0.0,101
+1,Manhattan,paper birch,1or2,22,15,3,4,0.6818,0.1364,0.1818,102
+1,Manhattan,paper birch,None,15,10,4,1,0.6667,0.2667,0.0667,102
+1,Manhattan,paper birch,3or4,10,7,3,0,0.7,0.3,0.0,102
+2,Bronx,paper birch,None,40,28,9,3,0.7,0.225,0.075,102
+2,Bronx,paper birch,3or4,3,3,0,0,1.0,0.0,0.0,102
+2,Bronx,paper birch,1or2,19,14,4,1,0.7368,0.2105,0.0526,102
+3,Brooklyn,paper birch,3or4,19,18,1,0,0.9474,0.0526,0.0,102
+3,Brooklyn,paper birch,1or2,55,40,14,1,0.7273,0.2545,0.0182,102
+3,Brooklyn,paper birch,None,60,48,8,4,0.8,0.1333,0.0667,102
+4,Queens,paper birch,3or4,9,7,2,0,0.7778,0.2222,0.0,102
+4,Queens,paper birch,None,97,80,11,6,0.8247,0.1134,0.0619,102
+4,Queens,paper birch,1or2,62,50,8,4,0.8065,0.129,0.0645,102
+4,Queens,paper birch,4orMore,2,1,0,1,0.5,0.0,0.5,102
+5,Staten Island,paper birch,1or2,36,24,10,2,0.6667,0.2778,0.0556,102
+5,Staten Island,paper birch,None,83,72,9,2,0.8675,0.1084,0.0241,102
+5,Staten Island,paper birch,3or4,3,3,0,0,1.0,0.0,0.0,102
+1,Manhattan,black pine,None,1,1,0,0,1.0,0.0,0.0,103
+1,Manhattan,black pine,3or4,2,2,0,0,1.0,0.0,0.0,103
+2,Bronx,black pine,None,2,2,0,0,1.0,0.0,0.0,103
+3,Brooklyn,black pine,None,3,2,1,0,0.6667,0.3333,0.0,103
+3,Brooklyn,black pine,1or2,2,1,1,0,0.5,0.5,0.0,103
+4,Queens,black pine,1or2,6,3,1,2,0.5,0.1667,0.3333,103
+4,Queens,black pine,None,18,6,12,0,0.3333,0.6667,0.0,103
+5,Staten Island,black pine,None,2,1,1,0,0.5,0.5,0.0,103
+5,Staten Island,black pine,1or2,1,0,0,1,0.0,0.0,1.0,103
+1,Manhattan,quaking aspen,None,2,1,1,0,0.5,0.5,0.0,104
+2,Bronx,quaking aspen,None,5,3,2,0,0.6,0.4,0.0,104
+3,Brooklyn,quaking aspen,3or4,6,5,1,0,0.8333,0.1667,0.0,104
+3,Brooklyn,quaking aspen,None,12,10,2,0,0.8333,0.1667,0.0,104
+3,Brooklyn,quaking aspen,1or2,3,2,0,1,0.6667,0.0,0.3333,104
+4,Queens,quaking aspen,1or2,1,1,0,0,1.0,0.0,0.0,104
+4,Queens,quaking aspen,None,34,30,3,1,0.8824,0.0882,0.0294,104
+5,Staten Island,quaking aspen,1or2,4,4,0,0,1.0,0.0,0.0,104
+5,Staten Island,quaking aspen,None,16,12,1,3,0.75,0.0625,0.1875,104
+1,Manhattan,American beech,None,12,8,1,3,0.6667,0.0833,0.25,105
+1,Manhattan,American beech,1or2,10,7,3,0,0.7,0.3,0.0,105
+2,Bronx,American beech,3or4,2,1,1,0,0.5,0.5,0.0,105
+2,Bronx,American beech,1or2,6,2,3,1,0.3333,0.5,0.1667,105
+2,Bronx,American beech,None,23,18,3,2,0.7826,0.1304,0.087,105
+3,Brooklyn,American beech,None,43,30,8,5,0.6977,0.186,0.1163,105
+3,Brooklyn,American beech,1or2,38,27,10,1,0.7105,0.2632,0.0263,105
+3,Brooklyn,American beech,3or4,2,2,0,0,1.0,0.0,0.0,105
+4,Queens,American beech,1or2,27,23,3,1,0.8519,0.1111,0.037,105
+4,Queens,American beech,4orMore,1,1,0,0,1.0,0.0,0.0,105
+4,Queens,American beech,None,57,46,5,6,0.807,0.0877,0.1053,105
+4,Queens,American beech,3or4,3,3,0,0,1.0,0.0,0.0,105
+5,Staten Island,American beech,3or4,3,3,0,0,1.0,0.0,0.0,105
+5,Staten Island,American beech,1or2,18,17,0,1,0.9444,0.0,0.0556,105
+5,Staten Island,American beech,None,28,26,1,1,0.9286,0.0357,0.0357,105
+1,Manhattan,cherry,3or4,66,46,17,3,0.697,0.2576,0.0455,106
+1,Manhattan,cherry,4orMore,7,3,4,0,0.4286,0.5714,0.0,106
+1,Manhattan,cherry,1or2,343,265,54,24,0.7726,0.1574,0.07,106
+1,Manhattan,cherry,None,453,360,67,26,0.7947,0.1479,0.0574,106
+2,Bronx,cherry,3or4,58,49,7,2,0.8448,0.1207,0.0345,106
+2,Bronx,cherry,1or2,1255,1028,159,68,0.8191,0.1267,0.0542,106
+2,Bronx,cherry,4orMore,3,3,0,0,1.0,0.0,0.0,106
+2,Bronx,cherry,None,2776,2270,372,134,0.8177,0.134,0.0483,106
+3,Brooklyn,cherry,1or2,2119,1724,296,99,0.8136,0.1397,0.0467,106
+3,Brooklyn,cherry,3or4,210,177,23,10,0.8429,0.1095,0.0476,106
+3,Brooklyn,cherry,None,3360,2735,457,168,0.814,0.136,0.05,106
+3,Brooklyn,cherry,4orMore,17,17,0,0,1.0,0.0,0.0,106
+4,Queens,cherry,4orMore,38,33,5,0,0.8684,0.1316,0.0,106
+4,Queens,cherry,3or4,299,269,20,10,0.8997,0.0669,0.0334,106
+4,Queens,cherry,1or2,3509,3085,314,110,0.8792,0.0895,0.0313,106
+4,Queens,cherry,None,9651,8265,1018,368,0.8564,0.1055,0.0381,106
+5,Staten Island,cherry,4orMore,7,7,0,0,1.0,0.0,0.0,106
+5,Staten Island,cherry,None,3579,2914,442,223,0.8142,0.1235,0.0623,106
+5,Staten Island,cherry,1or2,1399,1162,182,55,0.8306,0.1301,0.0393,106
+5,Staten Island,cherry,3or4,130,114,11,5,0.8769,0.0846,0.0385,106
+1,Manhattan,scarlet oak,None,45,34,5,6,0.7556,0.1111,0.1333,107
+1,Manhattan,scarlet oak,1or2,20,17,3,0,0.85,0.15,0.0,107
+1,Manhattan,scarlet oak,3or4,6,5,0,1,0.8333,0.0,0.1667,107
+2,Bronx,scarlet oak,1or2,74,57,13,4,0.7703,0.1757,0.0541,107
+2,Bronx,scarlet oak,3or4,6,6,0,0,1.0,0.0,0.0,107
+2,Bronx,scarlet oak,None,222,185,28,9,0.8333,0.1261,0.0405,107
+3,Brooklyn,scarlet oak,None,561,360,167,34,0.6417,0.2977,0.0606,107
+3,Brooklyn,scarlet oak,3or4,23,23,0,0,1.0,0.0,0.0,107
+3,Brooklyn,scarlet oak,1or2,136,100,26,10,0.7353,0.1912,0.0735,107
+4,Queens,scarlet oak,None,186,153,30,3,0.8226,0.1613,0.0161,107
+4,Queens,scarlet oak,1or2,86,62,21,3,0.7209,0.2442,0.0349,107
+4,Queens,scarlet oak,3or4,4,4,0,0,1.0,0.0,0.0,107
+5,Staten Island,scarlet oak,3or4,3,2,1,0,0.6667,0.3333,0.0,107
+5,Staten Island,scarlet oak,1or2,17,10,7,0,0.5882,0.4118,0.0,107
+5,Staten Island,scarlet oak,None,76,67,6,3,0.8816,0.0789,0.0395,107
+1,Manhattan,kousa dogwood,None,2,2,0,0,1.0,0.0,0.0,108
+1,Manhattan,kousa dogwood,1or2,11,8,2,1,0.7273,0.1818,0.0909,108
+2,Bronx,kousa dogwood,3or4,1,1,0,0,1.0,0.0,0.0,108
+2,Bronx,kousa dogwood,None,30,23,7,0,0.7667,0.2333,0.0,108
+2,Bronx,kousa dogwood,1or2,10,10,0,0,1.0,0.0,0.0,108
+3,Brooklyn,kousa dogwood,3or4,5,4,1,0,0.8,0.2,0.0,108
+3,Brooklyn,kousa dogwood,None,39,32,5,2,0.8205,0.1282,0.0513,108
+3,Brooklyn,kousa dogwood,1or2,28,23,5,0,0.8214,0.1786,0.0,108
+4,Queens,kousa dogwood,3or4,7,3,4,0,0.4286,0.5714,0.0,108
+4,Queens,kousa dogwood,1or2,42,39,3,0,0.9286,0.0714,0.0,108
+4,Queens,kousa dogwood,None,72,55,12,5,0.7639,0.1667,0.0694,108
+5,Staten Island,kousa dogwood,None,31,19,6,6,0.6129,0.1935,0.1935,108
+5,Staten Island,kousa dogwood,1or2,24,16,6,2,0.6667,0.25,0.0833,108
+1,Manhattan,blackgum,None,5,4,1,0,0.8,0.2,0.0,109
+1,Manhattan,blackgum,3or4,1,1,0,0,1.0,0.0,0.0,109
+1,Manhattan,blackgum,1or2,3,2,1,0,0.6667,0.3333,0.0,109
+2,Bronx,blackgum,3or4,1,0,1,0,0.0,1.0,0.0,109
+2,Bronx,blackgum,None,10,6,4,0,0.6,0.4,0.0,109
+2,Bronx,blackgum,1or2,17,13,4,0,0.7647,0.2353,0.0,109
+3,Brooklyn,blackgum,3or4,23,21,2,0,0.913,0.087,0.0,109
+3,Brooklyn,blackgum,1or2,29,17,11,1,0.5862,0.3793,0.0345,109
+3,Brooklyn,blackgum,None,68,54,8,6,0.7941,0.1176,0.0882,109
+3,Brooklyn,blackgum,4orMore,3,2,1,0,0.6667,0.3333,0.0,109
+4,Queens,blackgum,None,41,30,9,2,0.7317,0.2195,0.0488,109
+4,Queens,blackgum,1or2,29,22,3,4,0.7586,0.1034,0.1379,109
+4,Queens,blackgum,3or4,6,6,0,0,1.0,0.0,0.0,109
+5,Staten Island,blackgum,3or4,1,1,0,0,1.0,0.0,0.0,109
+5,Staten Island,blackgum,None,31,29,2,0,0.9355,0.0645,0.0,109
+5,Staten Island,blackgum,1or2,20,14,4,2,0.7,0.2,0.1,109
+1,Manhattan,Osage-orange,1or2,1,1,0,0,1.0,0.0,0.0,110
+2,Bronx,Osage-orange,None,3,2,1,0,0.6667,0.3333,0.0,110
+3,Brooklyn,Osage-orange,1or2,5,5,0,0,1.0,0.0,0.0,110
+3,Brooklyn,Osage-orange,3or4,2,2,0,0,1.0,0.0,0.0,110
+3,Brooklyn,Osage-orange,None,1,1,0,0,1.0,0.0,0.0,110
+4,Queens,Osage-orange,3or4,1,1,0,0,1.0,0.0,0.0,110
+4,Queens,Osage-orange,None,8,7,1,0,0.875,0.125,0.0,110
+4,Queens,Osage-orange,1or2,3,3,0,0,1.0,0.0,0.0,110
+5,Staten Island,Osage-orange,1or2,3,2,1,0,0.6667,0.3333,0.0,110
+5,Staten Island,Osage-orange,None,2,2,0,0,1.0,0.0,0.0,110
+1,Manhattan,pignut hickory,1or2,1,0,1,0,0.0,1.0,0.0,111
+2,Bronx,pignut hickory,1or2,1,1,0,0,1.0,0.0,0.0,111
+2,Bronx,pignut hickory,None,6,4,1,1,0.6667,0.1667,0.1667,111
+3,Brooklyn,pignut hickory,1or2,7,5,2,0,0.7143,0.2857,0.0,111
+3,Brooklyn,pignut hickory,None,9,8,1,0,0.8889,0.1111,0.0,111
+4,Queens,pignut hickory,None,45,35,8,2,0.7778,0.1778,0.0444,111
+4,Queens,pignut hickory,3or4,1,1,0,0,1.0,0.0,0.0,111
+4,Queens,pignut hickory,1or2,8,7,1,0,0.875,0.125,0.0,111
+5,Staten Island,pignut hickory,None,20,14,5,1,0.7,0.25,0.05,111
+5,Staten Island,pignut hickory,1or2,1,1,0,0,1.0,0.0,0.0,111
+1,Manhattan,spruce,None,1,0,1,0,0.0,1.0,0.0,112
+2,Bronx,spruce,1or2,2,2,0,0,1.0,0.0,0.0,112
+2,Bronx,spruce,None,7,6,1,0,0.8571,0.1429,0.0,112
+3,Brooklyn,spruce,3or4,2,2,0,0,1.0,0.0,0.0,112
+3,Brooklyn,spruce,1or2,14,13,1,0,0.9286,0.0714,0.0,112
+3,Brooklyn,spruce,None,16,9,5,2,0.5625,0.3125,0.125,112
+4,Queens,spruce,3or4,6,5,1,0,0.8333,0.1667,0.0,112
+4,Queens,spruce,1or2,51,44,6,1,0.8627,0.1176,0.0196,112
+4,Queens,spruce,None,69,51,15,3,0.7391,0.2174,0.0435,112
+5,Staten Island,spruce,1or2,6,5,0,1,0.8333,0.0,0.1667,112
+5,Staten Island,spruce,None,28,15,13,0,0.5357,0.4643,0.0,112
+1,Manhattan,tree of heaven,1or2,30,25,4,1,0.8333,0.1333,0.0333,113
+1,Manhattan,tree of heaven,None,66,50,12,4,0.7576,0.1818,0.0606,113
+1,Manhattan,tree of heaven,4orMore,1,1,0,0,1.0,0.0,0.0,113
+1,Manhattan,tree of heaven,3or4,7,6,1,0,0.8571,0.1429,0.0,113
+2,Bronx,tree of heaven,1or2,5,5,0,0,1.0,0.0,0.0,113
+2,Bronx,tree of heaven,None,77,48,20,9,0.6234,0.2597,0.1169,113
+3,Brooklyn,tree of heaven,4orMore,1,1,0,0,1.0,0.0,0.0,113
+3,Brooklyn,tree of heaven,1or2,32,22,8,2,0.6875,0.25,0.0625,113
+3,Brooklyn,tree of heaven,3or4,4,3,1,0,0.75,0.25,0.0,113
+3,Brooklyn,tree of heaven,None,198,121,51,26,0.6111,0.2576,0.1313,113
+4,Queens,tree of heaven,1or2,18,16,2,0,0.8889,0.1111,0.0,113
+4,Queens,tree of heaven,None,253,197,45,11,0.7787,0.1779,0.0435,113
+5,Staten Island,tree of heaven,None,54,34,17,3,0.6296,0.3148,0.0556,113
+5,Staten Island,tree of heaven,1or2,10,10,0,0,1.0,0.0,0.0,113
+1,Manhattan,Japanese snowbell,1or2,3,2,0,1,0.6667,0.0,0.3333,114
+1,Manhattan,Japanese snowbell,None,9,6,1,2,0.6667,0.1111,0.2222,114
+1,Manhattan,Japanese snowbell,3or4,3,1,2,0,0.3333,0.6667,0.0,114
+2,Bronx,Japanese snowbell,3or4,5,2,1,2,0.4,0.2,0.4,114
+2,Bronx,Japanese snowbell,None,34,27,3,4,0.7941,0.0882,0.1176,114
+2,Bronx,Japanese snowbell,1or2,16,12,2,2,0.75,0.125,0.125,114
+3,Brooklyn,Japanese snowbell,None,53,30,15,8,0.566,0.283,0.1509,114
+3,Brooklyn,Japanese snowbell,3or4,2,1,1,0,0.5,0.5,0.0,114
+3,Brooklyn,Japanese snowbell,1or2,33,26,6,1,0.7879,0.1818,0.0303,114
+4,Queens,Japanese snowbell,1or2,96,79,11,6,0.8229,0.1146,0.0625,114
+4,Queens,Japanese snowbell,None,90,70,17,3,0.7778,0.1889,0.0333,114
+4,Queens,Japanese snowbell,4orMore,2,2,0,0,1.0,0.0,0.0,114
+4,Queens,Japanese snowbell,3or4,10,9,1,0,0.9,0.1,0.0,114
+5,Staten Island,Japanese snowbell,1or2,10,7,3,0,0.7,0.3,0.0,114
+5,Staten Island,Japanese snowbell,None,26,22,2,2,0.8462,0.0769,0.0769,114
+1,Manhattan,Scots pine,1or2,2,2,0,0,1.0,0.0,0.0,115
+2,Bronx,Scots pine,None,1,1,0,0,1.0,0.0,0.0,115
+2,Bronx,Scots pine,1or2,1,1,0,0,1.0,0.0,0.0,115
+3,Brooklyn,Scots pine,None,3,2,1,0,0.6667,0.3333,0.0,115
+4,Queens,Scots pine,None,10,8,1,1,0.8,0.1,0.1,115
+4,Queens,Scots pine,1or2,5,5,0,0,1.0,0.0,0.0,115
+5,Staten Island,Scots pine,1or2,3,2,1,0,0.6667,0.3333,0.0,115
+1,Manhattan,eastern cottonwood,None,4,2,1,1,0.5,0.25,0.25,116
+1,Manhattan,eastern cottonwood,1or2,6,4,1,1,0.6667,0.1667,0.1667,116
+2,Bronx,eastern cottonwood,None,47,30,15,2,0.6383,0.3191,0.0426,116
+2,Bronx,eastern cottonwood,1or2,8,7,1,0,0.875,0.125,0.0,116
+2,Bronx,eastern cottonwood,4orMore,1,1,0,0,1.0,0.0,0.0,116
+3,Brooklyn,eastern cottonwood,None,31,21,4,6,0.6774,0.129,0.1935,116
+3,Brooklyn,eastern cottonwood,1or2,7,4,2,1,0.5714,0.2857,0.1429,116
+3,Brooklyn,eastern cottonwood,3or4,2,2,0,0,1.0,0.0,0.0,116
+4,Queens,eastern cottonwood,4orMore,1,1,0,0,1.0,0.0,0.0,116
+4,Queens,eastern cottonwood,3or4,1,1,0,0,1.0,0.0,0.0,116
+4,Queens,eastern cottonwood,None,89,73,11,5,0.8202,0.1236,0.0562,116
+4,Queens,eastern cottonwood,1or2,15,12,1,2,0.8,0.0667,0.1333,116
+5,Staten Island,eastern cottonwood,1or2,4,4,0,0,1.0,0.0,0.0,116
+5,Staten Island,eastern cottonwood,None,60,47,12,1,0.7833,0.2,0.0167,116
+1,Manhattan,bald cypress,3or4,16,11,3,2,0.6875,0.1875,0.125,117
+1,Manhattan,bald cypress,1or2,32,17,10,5,0.5312,0.3125,0.1562,117
+1,Manhattan,bald cypress,None,41,28,7,6,0.6829,0.1707,0.1463,117
+2,Bronx,bald cypress,1or2,37,31,5,1,0.8378,0.1351,0.027,117
+2,Bronx,bald cypress,None,48,34,6,8,0.7083,0.125,0.1667,117
+3,Brooklyn,bald cypress,None,352,275,54,23,0.7812,0.1534,0.0653,117
+3,Brooklyn,bald cypress,4orMore,2,0,0,2,0.0,0.0,1.0,117
+3,Brooklyn,bald cypress,1or2,261,214,36,11,0.8199,0.1379,0.0421,117
+3,Brooklyn,bald cypress,3or4,30,29,0,1,0.9667,0.0,0.0333,117
+4,Queens,bald cypress,1or2,99,87,10,2,0.8788,0.101,0.0202,117
+4,Queens,bald cypress,3or4,9,7,2,0,0.7778,0.2222,0.0,117
+4,Queens,bald cypress,None,205,170,24,11,0.8293,0.1171,0.0537,117
+5,Staten Island,bald cypress,1or2,33,30,2,1,0.9091,0.0606,0.0303,117
+5,Staten Island,bald cypress,None,93,80,6,7,0.8602,0.0645,0.0753,117
+5,Staten Island,bald cypress,3or4,3,3,0,0,1.0,0.0,0.0,117
+1,Manhattan,sweetgum,4orMore,1,1,0,0,1.0,0.0,0.0,118
+1,Manhattan,sweetgum,None,113,66,28,19,0.5841,0.2478,0.1681,118
+1,Manhattan,sweetgum,1or2,85,63,15,7,0.7412,0.1765,0.0824,118
+1,Manhattan,sweetgum,3or4,28,21,7,0,0.75,0.25,0.0,118
+2,Bronx,sweetgum,None,679,614,49,16,0.9043,0.0722,0.0236,118
+2,Bronx,sweetgum,3or4,15,13,1,1,0.8667,0.0667,0.0667,118
+2,Bronx,sweetgum,1or2,209,190,19,0,0.9091,0.0909,0.0,118
+2,Bronx,sweetgum,4orMore,1,1,0,0,1.0,0.0,0.0,118
+3,Brooklyn,sweetgum,3or4,111,102,9,0,0.9189,0.0811,0.0,118
+3,Brooklyn,sweetgum,4orMore,7,6,1,0,0.8571,0.1429,0.0,118
+3,Brooklyn,sweetgum,None,1181,1022,124,35,0.8654,0.105,0.0296,118
+3,Brooklyn,sweetgum,1or2,728,608,96,24,0.8352,0.1319,0.033,118
+4,Queens,sweetgum,3or4,33,23,10,0,0.697,0.303,0.0,118
+4,Queens,sweetgum,None,1969,1778,165,26,0.903,0.0838,0.0132,118
+4,Queens,sweetgum,1or2,482,406,51,25,0.8423,0.1058,0.0519,118
+4,Queens,sweetgum,4orMore,5,5,0,0,1.0,0.0,0.0,118
+5,Staten Island,sweetgum,3or4,65,59,5,1,0.9077,0.0769,0.0154,118
+5,Staten Island,sweetgum,1or2,741,608,109,24,0.8205,0.1471,0.0324,118
+5,Staten Island,sweetgum,4orMore,2,1,1,0,0.5,0.5,0.0,118
+5,Staten Island,sweetgum,None,4202,3496,581,125,0.832,0.1383,0.0297,118
+1,Manhattan,golden raintree,3or4,38,33,5,0,0.8684,0.1316,0.0,119
+1,Manhattan,golden raintree,None,196,171,21,4,0.8724,0.1071,0.0204,119
+1,Manhattan,golden raintree,4orMore,1,1,0,0,1.0,0.0,0.0,119
+1,Manhattan,golden raintree,1or2,124,113,8,3,0.9113,0.0645,0.0242,119
+2,Bronx,golden raintree,3or4,3,2,1,0,0.6667,0.3333,0.0,119
+2,Bronx,golden raintree,None,359,296,49,14,0.8245,0.1365,0.039,119
+2,Bronx,golden raintree,4orMore,1,1,0,0,1.0,0.0,0.0,119
+2,Bronx,golden raintree,1or2,155,124,26,5,0.8,0.1677,0.0323,119
+3,Brooklyn,golden raintree,3or4,29,27,2,0,0.931,0.069,0.0,119
+3,Brooklyn,golden raintree,None,605,494,89,22,0.8165,0.1471,0.0364,119
+3,Brooklyn,golden raintree,4orMore,6,5,1,0,0.8333,0.1667,0.0,119
+3,Brooklyn,golden raintree,1or2,301,249,48,4,0.8272,0.1595,0.0133,119
+4,Queens,golden raintree,None,959,820,111,28,0.8551,0.1157,0.0292,119
+4,Queens,golden raintree,3or4,25,22,2,1,0.88,0.08,0.04,119
+4,Queens,golden raintree,1or2,320,241,58,21,0.7531,0.1812,0.0656,119
+5,Staten Island,golden raintree,3or4,3,1,2,0,0.3333,0.6667,0.0,119
+5,Staten Island,golden raintree,1or2,138,125,12,1,0.9058,0.087,0.0072,119
+5,Staten Island,golden raintree,None,456,374,65,17,0.8202,0.1425,0.0373,119
+1,Manhattan,tulip-poplar,1or2,9,5,3,1,0.5556,0.3333,0.1111,120
+1,Manhattan,tulip-poplar,None,25,12,7,6,0.48,0.28,0.24,120
+2,Bronx,tulip-poplar,None,54,33,9,12,0.6111,0.1667,0.2222,120
+2,Bronx,tulip-poplar,1or2,8,4,2,2,0.5,0.25,0.25,120
+3,Brooklyn,tulip-poplar,None,194,125,47,22,0.6443,0.2423,0.1134,120
+3,Brooklyn,tulip-poplar,3or4,13,10,2,1,0.7692,0.1538,0.0769,120
+3,Brooklyn,tulip-poplar,1or2,68,52,14,2,0.7647,0.2059,0.0294,120
+4,Queens,tulip-poplar,4orMore,1,1,0,0,1.0,0.0,0.0,120
+4,Queens,tulip-poplar,None,388,306,64,18,0.7887,0.1649,0.0464,120
+4,Queens,tulip-poplar,1or2,97,82,11,4,0.8454,0.1134,0.0412,120
+4,Queens,tulip-poplar,3or4,3,3,0,0,1.0,0.0,0.0,120
+5,Staten Island,tulip-poplar,None,169,135,34,0,0.7988,0.2012,0.0,120
+5,Staten Island,tulip-poplar,1or2,46,33,11,2,0.7174,0.2391,0.0435,120
+5,Staten Island,tulip-poplar,3or4,1,1,0,0,1.0,0.0,0.0,120
+1,Manhattan,cucumber magnolia,None,11,6,3,2,0.5455,0.2727,0.1818,121
+1,Manhattan,cucumber magnolia,1or2,1,0,1,0,0.0,1.0,0.0,121
+2,Bronx,cucumber magnolia,1or2,4,2,1,1,0.5,0.25,0.25,121
+2,Bronx,cucumber magnolia,None,15,14,0,1,0.9333,0.0,0.0667,121
+3,Brooklyn,cucumber magnolia,3or4,1,0,1,0,0.0,1.0,0.0,121
+3,Brooklyn,cucumber magnolia,None,29,26,1,2,0.8966,0.0345,0.069,121
+3,Brooklyn,cucumber magnolia,4orMore,1,1,0,0,1.0,0.0,0.0,121
+3,Brooklyn,cucumber magnolia,1or2,17,15,0,2,0.8824,0.0,0.1176,121
+4,Queens,cucumber magnolia,1or2,11,10,0,1,0.9091,0.0,0.0909,121
+4,Queens,cucumber magnolia,3or4,2,2,0,0,1.0,0.0,0.0,121
+4,Queens,cucumber magnolia,None,39,32,6,1,0.8205,0.1538,0.0256,121
+5,Staten Island,cucumber magnolia,3or4,2,2,0,0,1.0,0.0,0.0,121
+5,Staten Island,cucumber magnolia,1or2,2,1,0,1,0.5,0.0,0.5,121
+5,Staten Island,cucumber magnolia,None,34,31,2,1,0.9118,0.0588,0.0294,121
+1,Manhattan,Chinese tree lilac,None,8,5,2,1,0.625,0.25,0.125,122
+2,Bronx,Chinese tree lilac,1or2,19,14,5,0,0.7368,0.2632,0.0,122
+2,Bronx,Chinese tree lilac,4orMore,1,0,1,0,0.0,1.0,0.0,122
+2,Bronx,Chinese tree lilac,None,33,20,9,4,0.6061,0.2727,0.1212,122
+3,Brooklyn,Chinese tree lilac,None,53,37,15,1,0.6981,0.283,0.0189,122
+3,Brooklyn,Chinese tree lilac,1or2,37,29,5,3,0.7838,0.1351,0.0811,122
+3,Brooklyn,Chinese tree lilac,3or4,1,1,0,0,1.0,0.0,0.0,122
+4,Queens,Chinese tree lilac,1or2,92,79,11,2,0.8587,0.1196,0.0217,122
+4,Queens,Chinese tree lilac,3or4,4,3,1,0,0.75,0.25,0.0,122
+4,Queens,Chinese tree lilac,None,108,98,8,2,0.9074,0.0741,0.0185,122
+5,Staten Island,Chinese tree lilac,3or4,2,2,0,0,1.0,0.0,0.0,122
+5,Staten Island,Chinese tree lilac,1or2,32,24,7,1,0.75,0.2188,0.0312,122
+5,Staten Island,Chinese tree lilac,None,72,62,8,2,0.8611,0.1111,0.0278,122
+1,Manhattan,boxelder,3or4,2,0,1,1,0.0,0.5,0.5,123
+2,Bronx,boxelder,1or2,1,1,0,0,1.0,0.0,0.0,123
+2,Bronx,boxelder,None,16,15,0,1,0.9375,0.0,0.0625,123
+3,Brooklyn,boxelder,None,6,4,1,1,0.6667,0.1667,0.1667,123
+3,Brooklyn,boxelder,1or2,8,6,1,1,0.75,0.125,0.125,123
+4,Queens,boxelder,None,10,8,2,0,0.8,0.2,0.0,123
+4,Queens,boxelder,3or4,1,1,0,0,1.0,0.0,0.0,123
+4,Queens,boxelder,1or2,4,2,1,1,0.5,0.25,0.25,123
+5,Staten Island,boxelder,1or2,1,1,0,0,1.0,0.0,0.0,123
+5,Staten Island,boxelder,None,15,8,6,1,0.5333,0.4,0.0667,123
+1,Manhattan,red pine,None,1,1,0,0,1.0,0.0,0.0,124
+2,Bronx,red pine,None,9,8,1,0,0.8889,0.1111,0.0,124
+2,Bronx,red pine,1or2,1,1,0,0,1.0,0.0,0.0,124
+3,Brooklyn,red pine,None,21,20,1,0,0.9524,0.0476,0.0,124
+3,Brooklyn,red pine,1or2,4,3,1,0,0.75,0.25,0.0,124
+3,Brooklyn,red pine,3or4,1,1,0,0,1.0,0.0,0.0,124
+4,Queens,red pine,1or2,5,4,0,1,0.8,0.0,0.2,124
+4,Queens,red pine,None,47,41,6,0,0.8723,0.1277,0.0,124
+5,Staten Island,red pine,3or4,1,1,0,0,1.0,0.0,0.0,124
+5,Staten Island,red pine,None,14,14,0,0,1.0,0.0,0.0,124
+5,Staten Island,red pine,1or2,2,1,1,0,0.5,0.5,0.0,124
+1,Manhattan,Douglas-fir,1or2,2,0,2,0,0.0,1.0,0.0,125
+2,Bronx,Douglas-fir,None,4,4,0,0,1.0,0.0,0.0,125
+2,Bronx,Douglas-fir,1or2,3,3,0,0,1.0,0.0,0.0,125
+2,Bronx,Douglas-fir,3or4,1,1,0,0,1.0,0.0,0.0,125
+3,Brooklyn,Douglas-fir,3or4,1,1,0,0,1.0,0.0,0.0,125
+3,Brooklyn,Douglas-fir,None,16,15,1,0,0.9375,0.0625,0.0,125
+3,Brooklyn,Douglas-fir,1or2,13,11,2,0,0.8462,0.1538,0.0,125
+4,Queens,Douglas-fir,1or2,14,14,0,0,1.0,0.0,0.0,125
+4,Queens,Douglas-fir,4orMore,1,1,0,0,1.0,0.0,0.0,125
+4,Queens,Douglas-fir,None,21,15,4,2,0.7143,0.1905,0.0952,125
+4,Queens,Douglas-fir,3or4,1,1,0,0,1.0,0.0,0.0,125
+5,Staten Island,Douglas-fir,1or2,2,1,1,0,0.5,0.5,0.0,125
+5,Staten Island,Douglas-fir,None,6,6,0,0,1.0,0.0,0.0,125
+1,Manhattan,European alder,None,2,0,1,1,0.0,0.5,0.5,126
+2,Bronx,European alder,1or2,1,1,0,0,1.0,0.0,0.0,126
+2,Bronx,European alder,None,5,3,2,0,0.6,0.4,0.0,126
+3,Brooklyn,European alder,None,3,2,1,0,0.6667,0.3333,0.0,126
+3,Brooklyn,European alder,4orMore,1,1,0,0,1.0,0.0,0.0,126
+3,Brooklyn,European alder,1or2,4,4,0,0,1.0,0.0,0.0,126
+3,Brooklyn,European alder,3or4,2,1,1,0,0.5,0.5,0.0,126
+4,Queens,European alder,1or2,2,2,0,0,1.0,0.0,0.0,126
+4,Queens,European alder,None,15,10,5,0,0.6667,0.3333,0.0,126
+5,Staten Island,European alder,None,10,6,4,0,0.6,0.4,0.0,126
+5,Staten Island,European alder,1or2,2,2,0,0,1.0,0.0,0.0,126
+1,Manhattan,blue spruce,1or2,4,4,0,0,1.0,0.0,0.0,127
+2,Bronx,blue spruce,1or2,2,2,0,0,1.0,0.0,0.0,127
+2,Bronx,blue spruce,None,11,11,0,0,1.0,0.0,0.0,127
+2,Bronx,blue spruce,3or4,3,3,0,0,1.0,0.0,0.0,127
+3,Brooklyn,blue spruce,None,9,5,3,1,0.5556,0.3333,0.1111,127
+3,Brooklyn,blue spruce,1or2,7,7,0,0,1.0,0.0,0.0,127
+3,Brooklyn,blue spruce,3or4,3,3,0,0,1.0,0.0,0.0,127
+4,Queens,blue spruce,4orMore,3,3,0,0,1.0,0.0,0.0,127
+4,Queens,blue spruce,3or4,3,2,1,0,0.6667,0.3333,0.0,127
+4,Queens,blue spruce,1or2,18,12,3,3,0.6667,0.1667,0.1667,127
+4,Queens,blue spruce,None,37,30,6,1,0.8108,0.1622,0.027,127
+5,Staten Island,blue spruce,4orMore,1,0,1,0,0.0,1.0,0.0,127
+5,Staten Island,blue spruce,None,14,11,3,0,0.7857,0.2143,0.0,127
+5,Staten Island,blue spruce,1or2,11,11,0,0,1.0,0.0,0.0,127
+1,Manhattan,Atlantic white cedar,None,12,7,5,0,0.5833,0.4167,0.0,128
+2,Bronx,Atlantic white cedar,4orMore,1,1,0,0,1.0,0.0,0.0,128
+2,Bronx,Atlantic white cedar,None,39,36,3,0,0.9231,0.0769,0.0,128
+2,Bronx,Atlantic white cedar,1or2,11,9,2,0,0.8182,0.1818,0.0,128
+2,Bronx,Atlantic white cedar,3or4,2,2,0,0,1.0,0.0,0.0,128
+3,Brooklyn,Atlantic white cedar,3or4,4,4,0,0,1.0,0.0,0.0,128
+3,Brooklyn,Atlantic white cedar,None,58,45,11,2,0.7759,0.1897,0.0345,128
+3,Brooklyn,Atlantic white cedar,1or2,33,27,5,1,0.8182,0.1515,0.0303,128
+4,Queens,Atlantic white cedar,None,89,73,13,3,0.8202,0.1461,0.0337,128
+4,Queens,Atlantic white cedar,3or4,12,10,2,0,0.8333,0.1667,0.0,128
+4,Queens,Atlantic white cedar,1or2,32,25,3,4,0.7812,0.0938,0.125,128
+5,Staten Island,Atlantic white cedar,None,36,14,9,13,0.3889,0.25,0.3611,128
+5,Staten Island,Atlantic white cedar,3or4,1,1,0,0,1.0,0.0,0.0,128
+5,Staten Island,Atlantic white cedar,1or2,25,9,7,9,0.36,0.28,0.36,128
+2,Bronx,false cypress,None,8,7,0,1,0.875,0.0,0.125,129
+2,Bronx,false cypress,3or4,1,1,0,0,1.0,0.0,0.0,129
+2,Bronx,false cypress,1or2,4,4,0,0,1.0,0.0,0.0,129
+3,Brooklyn,false cypress,3or4,1,1,0,0,1.0,0.0,0.0,129
+3,Brooklyn,false cypress,1or2,16,14,1,1,0.875,0.0625,0.0625,129
+3,Brooklyn,false cypress,None,18,16,2,0,0.8889,0.1111,0.0,129
+4,Queens,false cypress,None,27,25,2,0,0.9259,0.0741,0.0,129
+4,Queens,false cypress,1or2,19,17,2,0,0.8947,0.1053,0.0,129
+4,Queens,false cypress,3or4,5,4,1,0,0.8,0.2,0.0,129
+5,Staten Island,false cypress,1or2,4,4,0,0,1.0,0.0,0.0,129
+5,Staten Island,false cypress,None,5,4,1,0,0.8,0.2,0.0,129
+2,Bronx,Shantung maple,1or2,5,4,1,0,0.8,0.2,0.0,130
+2,Bronx,Shantung maple,None,4,3,1,0,0.75,0.25,0.0,130
+3,Brooklyn,Shantung maple,None,7,6,1,0,0.8571,0.1429,0.0,130
+3,Brooklyn,Shantung maple,1or2,5,4,0,1,0.8,0.0,0.2,130
+4,Queens,Shantung maple,None,21,19,1,1,0.9048,0.0476,0.0476,130
+4,Queens,Shantung maple,4orMore,1,1,0,0,1.0,0.0,0.0,130
+4,Queens,Shantung maple,1or2,5,3,1,1,0.6,0.2,0.2,130
+5,Staten Island,Shantung maple,1or2,3,2,1,0,0.6667,0.3333,0.0,130
+5,Staten Island,Shantung maple,None,8,5,1,2,0.625,0.125,0.25,130
+2,Bronx,Atlas cedar,None,3,3,0,0,1.0,0.0,0.0,131
+2,Bronx,Atlas cedar,1or2,3,3,0,0,1.0,0.0,0.0,131
+3,Brooklyn,Atlas cedar,1or2,14,13,1,0,0.9286,0.0714,0.0,131
+3,Brooklyn,Atlas cedar,None,20,16,4,0,0.8,0.2,0.0,131
+4,Queens,Atlas cedar,3or4,2,2,0,0,1.0,0.0,0.0,131
+4,Queens,Atlas cedar,1or2,11,10,1,0,0.9091,0.0909,0.0,131
+4,Queens,Atlas cedar,None,26,23,3,0,0.8846,0.1154,0.0,131
+5,Staten Island,Atlas cedar,3or4,1,1,0,0,1.0,0.0,0.0,131
+5,Staten Island,Atlas cedar,None,4,3,0,1,0.75,0.0,0.25,131
+5,Staten Island,Atlas cedar,1or2,3,3,0,0,1.0,0.0,0.0,131
+2,Bronx,trident maple,1or2,7,7,0,0,1.0,0.0,0.0,132
+3,Brooklyn,trident maple,None,11,9,2,0,0.8182,0.1818,0.0,132
+3,Brooklyn,trident maple,1or2,1,1,0,0,1.0,0.0,0.0,132
+4,Queens,trident maple,1or2,20,14,5,1,0.7,0.25,0.05,132
+4,Queens,trident maple,None,48,36,10,2,0.75,0.2083,0.0417,132
+5,Staten Island,trident maple,None,19,17,2,0,0.8947,0.1053,0.0,132
+5,Staten Island,trident maple,1or2,4,3,1,0,0.75,0.25,0.0,132
