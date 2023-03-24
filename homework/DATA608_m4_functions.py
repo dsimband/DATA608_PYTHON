@@ -26,20 +26,25 @@ def process_tree_data():
               '&$group=borocode,boroname,spc_common,steward').replace(' ', '%20')
       df = pd.read_json(soql_url)
       
-      df['per_good'] = round(df['count_health_good'] / df['count_tree_id'],4)
-      df['per_fair'] = round(df['count_health_fair'] / df['count_tree_id'],4)
-      df['per_poor'] = round(df['count_health_poor'] / df['count_tree_id'],4)
+      df['good'] = round(df['count_health_good'] / df['count_tree_id'] * 100,2)
+      df['fair'] = round(df['count_health_fair'] / df['count_tree_id'] * 100,2)
+      df['poor'] = round(df['count_health_poor'] / df['count_tree_id'] * 100,2)
 
       tree_df =  pd.concat([tree_df, df], ignore_index=True)
      
         
   tree_df = tree_df.replace(np.nan, 'Unknown', regex=True)
+  tree_df = tree_df.rename(columns={"count_tree_id": "tree count"})
+  tree_df = tree_df.rename(columns={"spc_common": "tree species"})
+  tree_df = tree_df.rename(columns={"boroname": "borough"})
+  
+  
     
-  tn_df = tree_df[['spc_common']].drop_duplicates().reset_index()
+  tn_df = tree_df[['tree species']].drop_duplicates().reset_index()
   tn_df = tn_df.rename(columns={"index": "spccode"})
   tn_df['spccode'] = tn_df.index   
 
-  tree_df =  pd.merge(tree_df, tn_df, how="outer", on=["spc_common"])
+  tree_df =  pd.merge(tree_df, tn_df, how="outer", on=["tree species"])
 
    
   tree_df.to_csv('trees_summary.csv', index=False)
