@@ -1,37 +1,22 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Mon Mar 20 21:57:27 2023
+Created on Wed Mar 22 22:07:54 2023
 
-@author: davidsimbandumwe
+@author: dsimbandumwe
 """
 
 
-from dash import Dash, dcc, html, Input, Output, dash_table
+
+from dash import Dash, dcc, Input, Output, html
 import dash_mantine_components as dmc
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import plotly.graph_objects as go
 import plotly.express as px
-
-
-# external CSS stylesheets
-external_stylesheets = [
-    'https://codepen.io/chriddyp/pen/bWLwgP.css',
-    {
-        'href': 'https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css',
-        'rel': 'stylesheet',
-        'integrity': 'sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO',
-        'crossorigin': 'anonymous'
-    }
-]
+import dash_bootstrap_components as dbc
 
 
 
-app = Dash(__name__,external_stylesheets=external_stylesheets)
-
+app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 
 def create_table(df):
@@ -40,34 +25,6 @@ def create_table(df):
     rows = [html.Tr([html.Td(cell) for cell in row]) for row in values]
     table = [html.Thead(header), html.Tbody(rows)]
     return table
-
-
-def create_graph(graph_df):
-    
-    # g = sns.FacetGrid(graph_df,
-    #             col='borough',
-    #             sharex=False,
-    #             sharey=False,
-    #             height=4)
-    # g = g.map(sns.barplot, 'value', 'tree species', "variable",
-    #           hue_order=np.unique(graph_df["variable"]), 
-    #           order=np.unique(graph_df["tree species"]), 
-    #           errorbar=None,
-    #           palette='dark')
-    # g.add_legend()
-    
-    # plt.show()
-    
-    #return graph_df
-    
-    df = px.data.stocks()
-    
-    fig = go.Figure([go.Scatter(x = df['date'], y = df['GOOG'],
-                     line = dict(color = 'firebrick', width = 4), name = 'Google')])
-    fig.update_layout(title = 'Prices over time',
-                      xaxis_title = 'Dates',
-                      yaxis_title = 'Prices' )
-    return fig
 
 
 tree_df = pd.read_csv('trees_summary.csv')
@@ -80,8 +37,6 @@ br_dict = br_df.to_dict('records')
 
 tn_df = tree_df[['spccode','tree species']].drop_duplicates()
 tn_dict = tn_df.to_dict('records') 
-
-
 
 
 initial_values_boro = [
@@ -97,93 +52,126 @@ initial_values_trees = [
 
 
 
-app.layout = html.Div([
-    
-    
-    html.Div([dmc.TransferList(
-        id="transfer-list-boro", 
-        value=initial_values_boro,
-        nothingFound="Nothing Selected",
-        listHeight = 140,
-        transferAllMatchingFilter=True),]),       
-    html.Div([dmc.TransferList(
-        id="transfer-list-trees", 
-        value=initial_values_trees,
-        nothingFound="Nothing Selected",
-        listHeight = 200,
-        transferAllMatchingFilter=True),]),
-    
-    
-    
-    #html.Div(id='tree_graph'),    
-    
-    html.Div([dcc.Graph(id="tree_graph")]), 
-    
-    #html.Div([dcc.Graph(id = 'tree_graph', figure = create_graph(None)) ]),
-          
-    html.Div([
+app.layout = html.Div(id = 'parent', children = [
+    html.H1(id = 'H1', children = 'DATA608 Module 4', style = {'textAlign':'center',
+                                            'marginTop':20,'marginBottom':20,
+                                            'marginLeft':20,'marginRight':20}),
+
+
+
+        html.Div([dmc.TransferList(
+            id="transfer-list-boro", 
+            value=initial_values_boro,
+            nothingFound="Nothing Selected",
+            listHeight = 140,
+            transferAllMatchingFilter=True),
+            ],style = {'textAlign':'center','marginTop':10,'marginBottom':10}),       
+        html.Div([dmc.TransferList(
+            id="transfer-list-trees", 
+            value=initial_values_trees,
+            nothingFound="Nothing Selected",
+            listHeight = 200,
+            transferAllMatchingFilter=True),
+            ],style = {'textAlign':'center','marginTop':10,'marginBottom':10}),   
+
+        html.Div([dcc.Graph(id = 'bar_plot')] ,style = {'textAlign':'center','marginTop':10,'marginBottom':10}),   
+        
         html.Div([
-            dmc.Table(
-                id = 'tree_table',
-                striped=True,
-                highlightOnHover=True,
-                withBorder=True,
-                withColumnBorders=True,
-        ),], style={'width': '100%', 'float': 'right', 'display': 'inline-block'}),
-    ]), 
-])
-
-
-
-
+            dmc.Stack(
+                children=[
+                    dmc.Divider(variant="solid"),
+                    dmc.Divider(variant="dashed"),
+                    dmc.Divider(variant="dotted"),
+                ],
+            ),
+        ]),
+        
+        html.Div([
+            html.Div([
+                dmc.Table(
+                    id = 'tree_table',
+                    striped=True,
+                    highlightOnHover=True,
+                    withBorder=False,
+                    withColumnBorders=True,
+            ),], style={'width': '95%', 'float': 'center', 'display': 'inline-block','textAlign':'center'}),
+        ]),        
+             
+        
+    ],style = {'textAlign':'center','marginTop':20,'marginBottom':20,'marginLeft':20,'marginRight':20,
+              'font-size': 10,})
+    
+    
 
 @app.callback(
     Output("tree_table", "children"),
-    Output("tree_graph", "figure"),
+    Output("bar_plot", "figure"),
     Input("transfer-list-boro", "value"),
     Input("transfer-list-trees", "value"),
 )
-def update_tree_table(boro_value, tree_value):
- 
-    b_df = pd.DataFrame(boro_value[1])
-    b_df.rename({'value': 'borocode', 'label': 'borough'}, axis=1, inplace=True)
-    boro_list2 = create_table(b_df)
-    
-    t_df = pd.DataFrame(tree_value[1])
-    t_df.rename({'value': 'spccode', 'label': 'tree species'}, axis=1, inplace=True)
-    tree_list2 = create_table(t_df)
+def graph_update(boro_value, tree_value):
    
     
-    # no boro or tree type selected
+    b_df = pd.DataFrame(boro_value[1])
+    b_df.rename({'value': 'borocode', 'label': 'borough'}, axis=1, inplace=True)
+     
+    t_df = pd.DataFrame(tree_value[1])
+    t_df.rename({'value': 'spccode', 'label': 'tree species'}, axis=1, inplace=True)
+    
+    
     if not (b_df.empty or t_df.empty):
+    
         treeSummary_df = tree_df[['borocode','borough','spccode','tree species','steward','count_health_good',
                                   'count_health_fair','count_health_poor','tree count','good','fair','poor']]
         treeSummary_df = pd.merge(treeSummary_df, b_df[['borocode']], how="right", on=["borocode"])
-        treeSummary_df = pd.merge(treeSummary_df, t_df[['spccode']], how="right", on=["spccode"])
+        treeSummary_df = pd.merge(treeSummary_df, t_df[['spccode']], how="right", on=["spccode"])        
+
+            
+        # data for table
         table_df = treeSummary_df[['borough','tree species','steward','tree count','good','fair','poor']]
         table_df = round(table_df,4)
         tree_table = create_table(table_df)
-        
+
+
+
+        # data for graph
         graph_df = treeSummary_df.groupby(['borough','tree species'])[['tree count','count_health_good',
                                                                        'count_health_fair','count_health_poor']].sum().reset_index()
+                
         graph_df['good'] = round(graph_df['count_health_good'] / graph_df['tree count'] * 100,2)
         graph_df['fair'] = round(graph_df['count_health_fair'] / graph_df['tree count'] * 100,2)
-        graph_df['poor'] = round(graph_df['count_health_poor'] / graph_df['tree count'] * 100,2)       
+        graph_df['poor'] = round(graph_df['count_health_poor'] / graph_df['tree count'] * 100,2)
+        
         graph_df = pd.melt(graph_df, id_vars=['borough','tree species'], value_vars=['good','fair','poor'])
+ 
         
-        tree_fig = px.bar(graph_df, x='value', y='tree species',color="variable" ,facet_col="borough")
-        #fig.show()
+        graph_df = treeSummary_df
+        graph_df = pd.melt(graph_df, id_vars=['borough','tree species','steward'], value_vars=['good','fair','poor'])
+        fig = px.bar(graph_df, x='value', y='tree species',color="variable" ,facet_col="borough", facet_row='steward',
+                    height=800, color_discrete_sequence=px.colors.qualitative.Prism)
+        fig.update_layout(template="simple_white", title="Tree Health")
         
-        return tree_table, tree_fig
+        return tree_table, fig
+    
     else:
-        return None, None
+        fig = px.bar()
+        fig.update_layout(template="simple_white", title="Tree Health")
+        fig.update_xaxes(visible=False)
+        fig.update_yaxes(visible=False)
+        return None, fig
     
 
 
 
-
-
-if __name__ == '__main__':
-    app.run_server(debug=True)
+if __name__ == '__main__': 
+    app.run_server()
+    
+    
+    
+    
+    
+    
+    
+    
     
     
